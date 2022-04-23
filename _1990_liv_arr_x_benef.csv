@@ -1,0 +1,230 @@
+index,state,liv_arr,combn_indv,combn_cpl,state_indv,state_cpl
+0,AL,Receiving personal care in a private home or a personal care home:3 Level A,446.00,699.00,60.00,120.00
+1,AL,Receiving personal care in a private home or a personal care home:3 Level B,442.00,691.00,56.00,112.00
+2,AL,Receiving personal care and support and maintenance in a private home or personal care home:3 Level A,317.34,506.00,60.00,120.00
+3,AL,Receiving personal care and support and maintenance in a private home or personal care home:3 Level B,313.34,498.00,56.00,112.00
+4,AL,Receiving nursing care in a private home or personal care care home3,446.00,699.00,60.00,120.00
+5,AL,Receiving nursing care and support and maintenance in a private home or personal care home3,317.34,506.00,60.00,120.00
+6,AL,Living in foster home with personal care or nursing care3 4,496.00,799.00,110.00,220.00
+7,AL,Living in cerebral palsy treatment center:,582.00,971.00,196.00,392.00
+8,AK,Living independently,717.00,1063.00,331.00,484.00
+9,AK,Living independently with ineligible spouse,862.00,N/A,476.00,N/A
+10,AK,Living in household of another,594.34,883.00,337.00,497.00
+11,AK,Living in household of another with ineligible spouse,681.34,N/A,424.00,N/A
+12,AK,Medicaid facility,75.00,150.00,45.00,90.00
+13,AZ,Requires housekeeping services8,456.00,N/A,70.00,N/A
+14,AZ,Licensed private nursing homes:4,466.00,739.00,80.00,160.00
+15,AZ,Licensed county operated nursing homes:,174.00,348.00,174.00,348.00
+16,AZ,"Licensed supervisory care homes, adult foster care homes, or 24-hour treatment facilities8",436.00,679.00,50.00,100.00
+17,CA,Independent living with cooking facilities: Aged and disabled,630.00,1167.00,244.00,588.00
+18,CA,Independent living with cooking facilities: Blind,704.00,1372.00,318.00,793.00
+19,CA,Nonmedical out-of-home ca.re,709.00,1418.00,323.00,839.00
+20,CA,Independent living without cooking facilities3 Aged and disabled,698.00,1303.00,312.00,724.00
+21,CA,Living in household of another: Aged and disabled,501.34,974.00,244.00,588.00
+22,CA,Living in household of another: Blind,575.34,1179.00,318.00,793.00
+23,CA,"Disabled minor in home of parent, guardian, or relative",499.00,N/A,113.00,N/A
+24,CA,"Nonmedical out-of-home care, living in household of another",580.34,1225.00,323.00,839.00
+25,CA,Disabled minor in the household of another,370.34,N/A,113.00,N/A
+26,CA,Medicaid facility,42.00,84.00,12.00,24.00
+27,CO,Living independently: 8 Aged,444.00,888.00,54.00,309.00
+28,CO,Living independently: 8 Blind and disabled,390.00,770.00,4.00,191.00
+29,CO,Adult foster care,581.00,N/A,195.00,N/A
+30,CO,Home care:4 Aged,763.00,709.00,N/A,N/A
+31,CO,Home care:4 Blind and disabled,377.00,323.00,N/A,N/A
+32,CO,Individual with essential spouse,514.00,N/A,128.00,N/A
+33,CT,Independent community li . s vmg,752.00,1104.00,366.00,525.00
+34,DE,Living in adult residential care facility,526.00,1027.00,140.00,448.00
+35,DC,Adult foster-care home (50 beds or less),533.20,1066.40,147.20,487.40
+36,DC,Adult foster-care home (over 50 beds),643.20,1286.40,257.20,707.40
+37,DC,Living independently,401.00,609.00,15.00,30.00
+38,DC,Living in household of another,272.34,416.00,15.00,30.00
+39,DC,Living independenty with an essential person,594.00,802.00,15.00,30.00
+40,DC,Living in household of another with an essential person 3,401.00,544.67,15.00,30.00
+41,DC,Medicaid facility,60.00,120.00,30.00,60.00
+42,FL,Community care program:3 Normal/Minimal,583.00,N/A,197.00,N/A
+43,FL,Community care program:3 Moderate,583.00,N/A,197.00,N/A
+44,FL,Adult congregate living facilities,583.00,N/A,197.00,N/A
+45,FL,Foster home: Minimal,458.00,N/A,72.00,N/A
+46,FL,Foster home: Moderate,477.00,N/A,91.00,N/A
+47,FL,Foster home: Intensive,494.00,N/A,108.00,N/A
+48,FL,Long-term residential care program for the disabled: Minimal,641.00,N/A,255.00,N/A
+49,FL,Long-term residential care program for the disabled: Moderate,659.00,N/A,273.00,N/A
+50,FL,Long-term residential care program for the disabled: Intensive,683.00,N/A,297.00,N/A
+51,FL,Large group home/Residential habilitation center: A. Mild/moderate disability,556.00,N/A,170.00,N/A
+52,FL,Large group home/Residential habilitation center: B. Severe or disruptive behavior,577.00,N/A,191.00,N/A
+53,FL,"Large group home/Residential habilitation center: C. Deaf, blind, nonambulatory",589.00,N/A,203.00,N/A
+54,FL,Large group home/Residential habilitation center: D. Combin. B and C,600.00,N/A,214.00,N/A
+55,FL,Large group home/Residential habilitation center: E. Any combin. above,612.00,N/A,226.00,N/A
+56,FL,Medicaid facility,35.00,70.00,5.00,10.00
+57,HI,Living independently,390.90,587.80,4.90,8.80
+58,HI,Domiciliary Care 13 I,650.90,1301.80,264.90,722.80
+59,HI,Domiciliary Care n3 II,735.90,1471.80,349.90,892.80
+60,HI,Domiciliary Care m3 III,837.90,1675.80,451.90,1096.80
+61,ID,Living independently 4,459.00,624.00,73.00,45.00
+62,ID,Living with essential person,624.00,N/A,45.00,N/A
+63,ID,Room and board facility,511.00,1022.00,125.00,443.00
+64,ID,Hotel-rented room,459.00,624.00,73.00,45.00
+65,ID,Licensed shelter home,638.00,1276.00,252.00,697.00
+66,ID,Unlicensed shelter home,403.00,806.00,17.00,227.00
+67,ID,Adult foster care home,569.00,1038.00,183.00,459.00
+68,ID,Specialized shelter home,751.00,1512.00,365.00,933.00
+69,ID,Semi-independent group residential facility,565.00,1130.00,179.00,551.00
+70,IN,Licensed residential facility3,789.00,N/A,403.00,N/A
+71,IA,Living independently: Blind,408.00,623.00,22.00,44.00
+72,IA,Living in household of another: Blind,279.34,430.00,22.00,44.00
+73,IA,Living with dependent person: Aged and disabled,579.00,772.00,193.00,193.00
+74,IA,Living with dependent person: Blind,601.00,816.00,215.00,237.00
+75,IA,Family life or boarding home,448.20,916.40,62.20,337.40
+76,IA,Living with dependent person in household of another: Aged and disabled,450.34,579.00,193.00,193.00
+77,IA,Living with dependent person in household of another: Blind,472.34,623.00,215.00,237.00
+78,IA,Family life or boarding home (one-third reduction in Federal benefit rate applies),319.54,723.40,62.20,337.40
+79,IA,Residential-care,623.81,N/A,237.81,N/A
+80,IA,In-home health care,754.07,1315.14,368.07,736.14
+81,KY,Personal-care facility3,595.00,N/A,209.00,N/A
+82,KY,Family care home 4,484.00,N/A,98.00,N/A
+83,KY,Caretaker in home,417.00,647.00,31.00,68.00
+84,LA,Medicaid facility4,38.00,76.00,8.00,16.00
+85,ME,Living alone or with others,396.00,594.00,10.00,15.00
+86,ME,Living in the household of another,265.34,398.00,8.00,12.00
+87,ME,Foster home,450.00,875.00,64.00,296.00
+88,ME,Flat rate boarding home,570.00,1104.00,184.00,525.00
+89,ME,Cost reimbursement boarding home,620.00,1223.00,234.00,644.00
+90,ME,Medicaid facility,40.00,80.00,10.00,20.00
+91,MD,Care Home:4 Minimal supervision,457.75,N/A,71.75,N/A
+92,MD,Care Home:4 General supervision,584.75,N/A,198.75,N/A
+93,MD,Care Home:4 Special services,1063.75,N/A,677.75,N/A
+94,MD,DOMCARE,604.75,N/A,218.75,N/A
+95,MA,Living independently: Aged,514.82,780.72,128.82,201.72
+96,MA,Living independently: Blind,535.74,1071.48,149.74,492.48
+97,MA,Living independently: Disabled,500.39,759.06,114.39,180.06
+98,MA,Shared living expenses: Aged,425.26,780.72,39.26,201.72
+99,MA,Shared living expenses: Blind,535.74,1071.48,149.74,492.48
+100,MA,Shared living expenses: Disabled,416.40,759.06,30.40,180.06
+101,MA,Living in household of another: Aged,361.70,601.80,104.36,215.80
+102,MA,Living in household of another: Blind,535.74,1071.48,278.40,685.48
+103,MA,Living in household of another: Disabled,344.92,580.18,87.58,194.18
+104,MA,Licensed rest home: Aged and disabled,557.58,1084.16,171.58,505.16
+105,MA,Licensed rest home: Blind,535.74,1071.48,149.74,492.48
+106,MA,Medicaid facility,72.80,145.60,42.80,85.60
+107,MI,Living independently,416.20,624.30,30.20,45.30
+108,MI,Living in household of another,278.34,417.50,21.00,31.50
+109,MI,Domiciliary-care,473.00,946.00,87.00,367.00
+110,MI,Personal-care,543.50,1087.00,157.50,508.00
+111,MI,Home for the aged,565.30,1130.60,179.30,551.60
+112,MI,Living independently with essential person3,609.20,817.30,30.20,45.30
+113,MI,Living in household of another with essential person 3,407.00,546.17,21.00,31.50
+114,MI,Medicaid facility,37.00,74.00,7.00,14.00
+115,MN,Living independently 3,461.00,667.00,75.00,88.00
+116,MN,Living in household of another,316.67,544.66,59.33,158.66
+117,MN,"Nonmedical, group residential facility ~ ~ ~ ~",^4,^4,^4,^4
+118,MN,Medicaid facility,49.00,98.00,19.00,38.00
+119,MO,Licensed residential-care facility I,532.00,871.00,146.00,292.00
+120,MO,Licensed residential-care facility ll II,659.00,1125.00,273.00,546.00
+121,MO,Licensed intermediate care or skilled nursing home,750.00,1307.00,364.00,728.00
+122,MO,Aid to the blind ~ ~,^4,^4,297.00,594.00
+123,MT,Personal-care facilities,480.00,772.00,94.00,193.00
+124,MT,Group home for mentally disabled (ill),480.00,772.00,94.00,193.00
+125,MT,Community home for physically or developmentally disabled,480.00,772.00,94.00,193.00
+126,MT,Child and adult foster care,438.75,689.50,52.75,110.50
+127,MT,Transitional living services for developmentally disabled,412.00,636.00,26.00,57.00
+128,NE,Living independently 3,423.50,644.00,37.50,65.00
+129,NE,Living with an essential person,644.00,N/A,65.00,N/A
+130,NE,Room and board facility4,389.50,770.00,3.50,191.00
+131,NE,Licensed domiciliary facility4,471.50,934.00,85.50,355.00
+132,NE,Certified adult family home 4,466.50,924.00,80.50,345.00
+133,NE,Licensed residential-care facility4,496.50,984.00,110.50,405.00
+134,NE,Licensed group home for children or child caring agency:,466.50,N/A,80.50,N/A
+135,NE,Center for developmentally disabled,444.50,N/A,58.50,N/A
+136,NE,Medicaid facility,35.00,70.00,5.00,10.00
+137,NV,Living independently: Aged,422.40,653.46,36.40,74.46
+138,NV,Living independently: Blind,495.30,953.60,109.30,374.60
+139,NV,Living in household of another: Aged,281.61,435.64,24.27,49.64
+140,NV,Living in household of another: Blind,471.30,917.94,213.96,531.94
+141,NV,Domiciliary care: Aged and blind,662.40,1287.80,276.40,708.80
+142,NH,Living independently 3,413.00,600.00,27.00,21.00
+143,NH,Living with an essential person 4,N/A,785.00,N/A,13.00
+144,NH,Shared home for adult.a,653.00,^5,267.00,^5
+145,NH,Community residences,595.00,^5,196.00,^5
+146,NH,Medicaid facility,40.00,^5,10.00,^5
+147,NJ,Licensed residential facility8,536.05,1053.36,150.05,474.36
+148,NJ,Living alone or with others,417.25,604.36,31.25,25.36
+149,NJ,Living alone with an ineligible spouse 4,604.36,N/A,218.36,N/A
+150,NJ,Living with essential peraon5,604.36,N/A,25.36,N/A
+151,NJ,Living in household of another,301.65,479.09,44.31,93.09
+152,NJ,Medicaid facility,40.00,80.00,10.00,20.00
+153,NM,Licensed adult residential care home3 1/1/90,472.00,751.00,86.00,172.00
+154,NY,Living alone,472.00,681.50,86.00,102.50
+155,NY,Living with others,409.00,624.00,23.00,45.00
+156,NY,Congregate care I Areas A and B,634.96,1269.92,248.96,690.92
+157,NY,Congregate care I Area C,596.96,1193.92,210.96,614.92
+158,NY,Congregate care II Areas A and B,821.00,1642.00,435.00,1063.00
+159,NY,Congregate care II Area C,791.00,1582.00,405.00,1003.00
+160,NY,Congregate care m:5 7 III Area A,868.96,1737.92,482.96,1158.92
+161,NY,Congregate care m:5 7 III Areas B and C,844.96,1689.92,458.96,1110.92
+162,NY,Living in household of another,280.34,431.00,23.00,45.00
+163,NY,Medicaid facility8,35.00,70.00,5.00,10.00
+164,NC,Domiciliary care ( Ambulatory),724.00,1135.00,338.00,556.00
+165,NC,Domiciliary care ( Semi-ambulatory),760.00,1171.00,374.00,592.00
+166,NC,Blind ineligible for SSI Not paying shelter/utilities,N/A,N/A,97.00,194.00
+167,NC,Blind ineligible for SSI Paying shelter/utilities,N/A,N/A,146.00,243.00
+168,OH,Adult family home3,450.00,900.00,64.00,321.00
+169,OH,Group homes,550.00,1100.00,164.00,521.00
+170,OH,Rest homes,550.00,1100.00,164.00,521.00
+171,OK,Living independently,450.00,707.00,64.00,128.00
+172,OR,Living independently: Aged and disabled,387.70,579.00,1.70,0
+173,OR,Living independently: Blind,412.70,604.60,26.70,25.60
+174,OR,Living with an ineligible spouse: Aged and disabled,387.70,N/A,1.70,N/A
+175,OR,Living with an ineligible spouse: Blind,412.70,N/A,26.70,N/A
+176,OR,Living with essential person: Blind,604.60,N/A,25.60,N/A
+177,OR,Living in household of another: Aged and disabled,259.04,281.04,386.00,411.60
+178,OR,Living in household of another: Blind,1.70,26.70,0,25.60
+179,OR,Adult foster /residential care:2 3 Aged and disabled,387.70,412.70,775.40,825.40
+180,OR,Adult foster /residential care:2 3 Blind,1.70,26.70,196.40,246.40
+181,OR,Room and board:2 Aged and disabled,387.70,412.70,775.40,825.40
+182,OR,Room and board:2 Blind,1.70,26.70,196.40,246.40
+183,PA,Living alone,418.40,627.70,32.40,48.70
+184,PA,Living in household of another,289.74,434.70,32.40,48.70
+185,PA,Living with an essential person8,627.70,845.05,48.70,73.05
+186,PA,Living with an essential jerson in household of another,434.70,587.72,48.70,73.05
+187,PA,Living in domiciliary-care facility or personal-care boarding home,533.30,952.40,147.30,373.40
+188,RI,Living alone,450.35,699.50,64.35,120.50
+189,RI,Living in household of another,331.94,522.50,74.60,136.50
+190,RI,Medicaid facility3,40.00,80.00,10.00,20.00
+191,SC,Licensed residential-care facility8,612.00,1224.00,226.00,645.00
+192,SD,Living independently,401.00,594.00,15.00,15.00
+193,SD,Supervised personal-care facility4,559.00,N/A,173.00,N/A
+194,SD,Adult foster-care 4,494.00,N/A,108.00,N/A
+195,UT,Living alone or with others,392.00,591.00,6.00,12.00
+196,VT,Living independently,449.10,693.80,63.10,114.80
+197,VT,Living in the household of another,299.34,439.40,42.00,53.40
+198,VT,"Custodial-care, licensed home with limited nursing care",637.00,1138.80,251.00,559.80
+199,VT,"Custodial-care, licensed community care home",598.00,1101.20,212.00,522.20
+200,VT,"Custodial-care, family home",484.90,894.20,98.90,315.20
+201,VT,Medicaid facility,45.00,90.00,15.00,30.00
+202,VT,Living independently with an essential persons,693.80,871.64,307.80,292.64
+203,VT,Living in the household of another with ineligi'ble spouse who is an essential persons,449.10,N/A,191.76,N/A
+204,VA,Licensed home for adult.a (domiciliary institution): 4 Planning district 8,703.00,1406.00,317.00,827.00
+205,VA,Licensed home for adult.a (domiciliary institution): 4 All other areas,616.00,1232.00,230.00,653.00
+206,VA,Adult family care:6 Planning district 8,530.00,1060.00,144.00,481.00
+207,VA,Adult family care:6 All other areas,465.00,930.00,79.00,351.00
+208,WA,Living independently: 3 4 Area 1,414.00,601.00,28.00,22.00
+209,WA,Living independently: 3 4 Area 2,393.55,579.00,7.55,0
+210,WA,Living with ineligible spouse:4 Area 1,578.00,N/A,192.00,N/A
+211,WA,Living with ineligible spouse:4 Area 2,546.15,N/A,160.15,N/A
+212,WA,Living in household of another,263.15,392.30,5.81,6.30
+213,WA,Living in household of another with ineligible spouse,376.97,N/A,119.63,N/A
+214,WA,Living with one essential person:4 5 Area 1,601.00,N/A,22.00,N/A
+215,WA,Living with one essential person:4 5 Area 2,579.00,N/A,0,N/A
+216,WA,Living in household of another with one essential person 5,392.30,N/A,6.30,N/A
+217,WA,Medicaid facility6,41.62,83.24,11.62,23.24
+218,WI,Living independently 3,488.72,744.86,102.72,165.86
+219,WI,Living in household of another,360.06,551.86,102.72,165.86
+220,WI,Living independently with an ineligible spouse,540.08,N/A,154.08,N/A
+221,WI,Household of another with ineligible spouse,411.42,N/A,154.08,N/A
+222,WI,Private nonmedical group home or supported living arrangements,589.16,1098.02,203.16,519.02
+223,WI,Living independently with an essential person (nonspouse) 4,681.72,937.86,102.72,165.86
+224,WI,Household of another with an essential person (nonspouse) 4,488.72,680.53,102.72,165.86
+225,WI,Living independently with an ineligible spouse who is an essential person 4,733.08,N/A,154.08,N/A
+226,WI,Household of another with an ineligible spouse who is an essential person 4,540.08,N/A,154.08,N/A
+227,WY,Living independently,406.00,619.00,20.00,40.00
+228,WY,Living in the household of another,277.34,426.00,20.00,40.00
