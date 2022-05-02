@@ -1,0 +1,232 @@
+,year,state,liv_arr,combn_indv,combn_cpl,state_indv,state_cpl
+0,1991,AL,Receiving personal care in a private home or a personal care home Level A,467.00,730.00,60.00,120.00
+1,1991,AL,Receiving personal care in a private home or a personal care home Level B,463.00,722.00,56.00,112.00
+2,1991,AL,Receiving personal care and support and maintenance in a private home or personal care home Level A,331.34,526.67,60.00,120.00
+3,1991,AL,Receiving personal care and support and maintenance in a private home or personal care home Level B,327.34,518.67,56.00,112.00
+4,1991,AL,Receiving nursing care in a private home or personal care care home,467.00,730.00,60.00,120.00
+5,1991,AL,Receiving nursing care and support and maintenance in a private home or personal care home,331.34,526.67,60.00,120.00
+6,1991,AL,Living in foster home with personal care or nursing care,517.00,830.00,110.00,220.00
+7,1991,AL,Living in cerebral palsy treatment center,603.00,1002.00,196.00,392.00
+8,1991,AK,Living independently,756.00,1120.00,349.00,510.00
+9,1991,AK,Living independently with ineligible spouse,909.00,N/A,502.00,N/A
+10,1991,AK,Living in household of another,626.34,930.67,355.00,524.00
+11,1991,AK,Living in household of another with ineligible spouse,718.34,N/A,447.00,N/A
+12,1991,AK,Medicaid facility,75.00,150.00,45.00,90.00
+13,1991,AZ,Requires housekeeping services,477.00,N/A,70.00,N/A
+14,1991,AZ,Licensed private nursing homes,487.00,770.00,80.00,160.00
+15,1991,AZ,Licensed county operated nursing homes,N/A,N/A,174.00,348.00
+16,1991,AZ,"Licensed supervisory care homes, adult foster care homes, or 24-hour treatment facilities",457.00,710.00,50.00,100.00
+17,1991,CA,Independent living with cooking facilities Aged and disabled,630.00,1167.00,223.00,557.00
+18,1991,CA,Independent living with cooking facilities Blind,704.00,1372.00,297.00,762.00
+19,1991,CA,Nonmedical out-of-home care,709.00,1418.00,302.00,808.00
+20,1991,CA,Independent living without cooking facilities Aged and disabled,698.00,1303.00,291.00,693.00
+21,1991,CA,Living in household of another Aged and disabled,501.34,974.00,230.00,567.33
+22,1991,CA,Living in household of another Blind,575.34,1179.00,304.00,772.33
+23,1991,CA,"Disabled minor in home of parent, guardian, or relative",499.00,N/A,92.00,N/A
+24,1991,CA,"Nonmedical out-of-home care, living in household of another",580.34,1225.00,309.00,818.33
+25,1991,CA,Disabled minor in the household of another,370.34,N/A,99.00,N/A
+26,1991,CA,Medicaid facility,42.00,84.00,12.00,24.00
+27,1991,CO,Living independently Aged,452.00,904.00,45.00,294.00
+28,1991,CO,Living independently Blind and disabled,407.00,814.00,0.00,204.00
+29,1991,CO,Adult foster care,604.00,N/A,197.00,N/A
+30,1991,CO,Home care Aged,771.00,N/A,364.00,N/A
+31,1991,CO,Home care Blind and disabled,726.00,N/A,319.00,N/A
+32,1991,CO,Individual with essential spouse Blind and disabled,535.00,N/A,128.00,N/A
+33,1991,CT,Independent community living,766.00,1132.00,359.00,522.00
+34,1991,DE,Living in adult residential care facility,547.00,1058.00,140.00,448.00
+35,1991,DC,Adult foster-care home (50 beds or less),554.20,1108.40,147.20,498.40
+36,1991,DC,Adult foster-care home (over 50 beds),664.20,1328.40,257.20,718.40
+37,1991,DC,Living independently,422.00,640.00,15.00,30.00
+38,1991,DC,Living in household of another,286.34,436.67,15.00,30.00
+39,1991,DC,Living independently with an essential person,626.00,844.00,15.00,30.00
+40,1991,DC,Living in household of another with an essential person,422.34,572.68,15.00,30.00
+41,1991,DC,Medicaid facility,60.00,120.00,30.00,60.00
+42,1991,FL,"Community care program, Adult foster care Normal/Minimal",618.00,N/A,211.00,N/A
+43,1991,FL,"Community care program, Adult foster care Moderate",618.00,N/A,211.00,N/A
+44,1991,FL,Adult congregate living facilities,618.00,N/A,211.00,N/A
+45,1991,FL,Foster home Minimal,618.00,N/A,211.00,N/A
+46,1991,FL,Foster home Moderate,618.00,N/A,211.00,N/A
+47,1991,FL,Foster home Intensive,618.00,N/A,211.00,N/A
+48,1991,FL,"Long-term residential care program for the disabled, Small group home Minimal",662.00,N/A,255.00,N/A
+49,1991,FL,"Long-term residential care program for the disabled, Small group home Moderate",680.00,N/A,273.00,N/A
+50,1991,FL,"Long-term residential care program for the disabled, Small group home Intensive",704.00,N/A,297.00,N/A
+51,1991,FL,Large group home/Residential habilitation center A. Mild/moderate disability,577.00,N/A,170.00,N/A
+52,1991,FL,Large group home/Residential habilitation center B. Severe or disruptive behavior,598.00,N/A,191.00,N/A
+53,1991,FL,"Large group home/Residential habilitation center C. Deaf, blind, nonambulatory",610.00,N/A,203.00,N/A
+54,1991,FL,Large group home/Residential habilitation center D. Combin. B and C,621.00,N/A,214.00,N/A
+55,1991,FL,Large group home/Residential habilitation center E. Any combin. above,633.00,N/A,226.00,N/A
+56,1991,FL,Medicaid facility,35.00,70.00,5.00,10.00
+57,1991,HI,Living independently,411.90,618.80,4.90,8.80
+58,1991,HI,Domiciliary Care I,671.90,1343.80,264.90,733.80
+59,1991,HI,Domiciliary Care II,756.90,1513.80,349.90,903.80
+60,1991,HI,Domiciliary Care III,858.90,1717.80,451.90,1107.80
+61,1991,ID,Living Independently,477.00,654.00,70.00,44.00
+62,1991,ID,Living with essential person,654.00,N/A,43.00,N/A
+63,1991,ID,Room and board facilitys,529.00,N/A,122.00,N/A
+64,1991,ID,Licensed shelter homes,656.00,N/A,249.00,N/A
+65,1991,ID,Unlicensed shelter homes,408.00,N/A,1.00,N/A
+66,1991,ID,Adult foster care homes,587.00,N/A,180.00,N/A
+67,1991,ID,Specialized shelter homes,769.00,N/A,362.00,N/A
+68,1991,ID,Semi-independent group residential facilitys,583.00,N/A,176.00,N/A
+69,1991,IN,Licensed residential facility,789.00,N/A,382.00,N/A
+70,1991,IA,Living independently Blind,429.00,654.00,22.00,44.00
+71,1991,IA,Living in household of another Blind,293.34,450.67,22.00,44.00
+72,1991,IA,Living with dependent person Aged and disabled,611.00,814.00,204.00,204.00
+73,1991,IA,Living with dependent person Blind,633.00,858.00,226.00,248.00
+74,1991,IA,Family life or boarding home,469.20,958.40,62.20,348.40
+75,1991,IA,Living with dependent person in household of another Aged and disabled,475.34,610.67,204.00,204.00
+76,1991,IA,Living with dependent person in household of another Blind,497.34,654.67,226.00,248.00
+77,1991,IA,Family life or boarding home (1/3 reduction in Federal benefit rate applies),333.54,755.07,62.20,348.40
+78,1991,IA,Residential-care,661.22,N/A,254.22,N/A
+79,1991,IA,In-home health care,797.15,1390.30,390.15,780.30
+80,1991,KY,Personal-care facility,690.00,N/A,283.00,N/A
+81,1991,KY,Family care home,510.00,N/A,103.00,N/A
+82,1991,KY,Caretaker in home,440.00,682.00,33.00,72.00
+83,1991,LA,Medicaid facility,38.00,76.00,8.00,16.00
+84,1991,ME,Living alone or with others,417.00,625.00,10.00,15.00
+85,1991,ME,Living in the household of another,279.34,418.67,8.00,12.00
+86,1991,ME,Foster home,471.00,906.00,64.00,296.00
+87,1991,ME,Flat rate boarding home,599.00,1143.00,192.00,533.00
+88,1991,ME,Cost reimbursement boarding home,641.00,1254.00,234.00,644.00
+89,1991,ME,Medicaid facility,40.00,80.00,10.00,20.00
+90,1991,MD,Care Home Minimal supervision,480.00,N/A,73.00,N/A
+91,1991,MD,Care Home Moderate supervision,613.00,N/A,206.00,N/A
+92,1991,MD,Care Home Extensive supervision,865.00,N/A,458.00,N/A
+93,1991,MD,Care Home Specialized and intensive services,1116.00,N/A,709.00,N/A
+94,1991,MD,DOMCARE,654.00,N/A,247.00,N/A
+95,1991,MA,Living independently Aged,535.82,811.72,128.82,201.72
+96,1991,MA,Living independently Blind,556.74,1113.48,149.74,503.48
+97,1991,MA,Living independently Disabled,521.39,790.06,114.39,180.06
+98,1991,MA,Shared living expenses Aged,446.26,811.72,39.26,201.72
+99,1991,MA,Shared living expenses Blind,556.74,1113.48,149.74,503.48
+100,1991,MA,Shared living expenses Disabled,437.40,790.06,30.40,180.06
+101,1991,MA,Living in household of another Aged,375.70,622.47,104.36,215.80
+102,1991,MA,Living in household of another Blind,556.74,1113.47,285.40,706.80
+103,1991,MA,Living in household of another Disabled,358.92,600.85,87.58,194.18
+104,1991,MA,Licensed rest home Aged and disabled,700.00,1400.00,293.00,790.00
+105,1991,MA,Licensed rest home Blind,556.74,1113.48,149.74,503.48
+106,1991,MA,Medicaid facility,72.80,145.60,42.80,85.60
+107,1991,MI,Living independently,437.80,656.20,30.80,46.20
+108,1991,MI,Living in household of another,292.74,438.77,21.40,32.10
+109,1991,MI,Domiciliary-care,498.00,996.00,91.00,386.00
+110,1991,MI,Personal-care,568.50,1137.00,161.50,527.00
+111,1991,MI,Home for the aged,590.30,1180.60,183.30,570.60
+112,1991,MI,Living independently with essential person,641.80,860.20,30.80,46.20
+113,1991,MI,Living in household of another with essential person,428.74,574.78,21.40,32.10
+114,1991,MI,Medicaid facility,37.00,74.00,7.00,14.00
+115,1991,MN,Living independently,488.00,742.00,81.00,132.00
+116,1991,MN,Living in household of another,381.34,742.67,110.00,336.00
+117,1991,MN,"Nonmedical, group residential facility",52.00,52.00,52.00,52.00
+118,1991,MN,Medicaid facility,52.00,104.00,22.00,44.00
+119,1991,MO,Licensed residential-care facility I,555.00,906.00,148.00,296.00
+120,1991,MO,Licensed residential-care facility II,683.00,1162.00,276.00,552.00
+121,1991,MO,Licensed intermediate care or skilled nursing home,775.00,1346.00,368.00,736.00
+122,1991,MO,Aid to the blind,N/A,N/A,300.00,600.00
+123,1991,MT,Personal-care facilities,501.00,803.00,94.00,193.00
+124,1991,MT,Group home for mentally disabled,501.00,803.00,94.00,193.00
+125,1991,MT,Community home for physically or developmentally disabled,501.00,803.00,94.00,193.00
+126,1991,MT,Child and adult foster care,459.75,720.50,52.75,110.50
+127,1991,MT,Transitional living services for developmentally disabled,433.00,667.00,26.00,57.00
+128,1991,NE,Living independently,431.00,644.00,24.00,34.00
+129,1991,NE,Living with an essential person,644.00,N/A,33.00,N/A
+130,1991,NE,Room and board facility,387.00,774.00,115.66,367.33
+131,1991,NE,Licensed domiciliary facility,479.00,958.00,72.00,348.00
+132,1991,NE,Certified adult family home,474.00,948.00,67.00,338.00
+133,1991,NE,Licensed residential-care facility,514.00,1028.00,107.00,418.00
+134,1991,NE,Licensed group home for children or child caring agency,474.00,N/A,67.00,N/A
+135,1991,NE,Center for developmentally disabled,437.00,N/A,30.00,N/A
+136,1991,NE,Medicaid facility,35.00,70.00,5.00,10.00
+137,1991,NV,Living independently Aged,443.40,684.46,36.40,74.46
+138,1991,NV,Living independently Blind,516.30,984.60,109.30,374.60
+139,1991,NV,Living in household of another Aged,295.61,456.31,24.27,49.64
+140,1991,NV,Living in household of another Blind,485.30,938.61,213.96,531.94
+141,1991,NV,Domiciliary care Aged and blind,683.40,1318.80,276.40,708.80
+142,1991,NH,Living independently,434.00,631.00,27.00,21.00
+143,1991,NH,Living with an essential person,N/A,827.00,N/A,13.00
+144,1991,NH,Residential care facility for adult,653.00,1306.0,246.00,492.0
+145,1991,NH,Community residences,595.00,1190.0,188.00,376.0
+146,1991,NH,Medicaid facility,40.00,80.0,10.00,20.0
+147,1991,NJ,Licensed residential facility,557.05,1095.36,150.05,485.36
+148,1991,NJ,Living alone or with others,438.25,635.36,31.25,25.36
+149,1991,NJ,Living alone with an ineligible spouse,635.36,228.36,635.36,24.36
+150,1991,NJ,Living with essential person,N/A,N/A,N/A,N/A
+151,1991,NJ,Living in household of another,315.65,499.76,44.31,93.09
+152,1991,NJ,Medicaid facility,40.00,80.00,10.00,20.00
+153,1991,NM,Licensed adult residential care home,507.00,810.00,100.00,200.00
+154,1991,NY,Living alone,493.00,712.50,86.00,102.50
+155,1991,NY,Living with others,430.00,655.00,23.00,45.00
+156,1991,NY,Congregate care I Areas A and B,673.48,1346.96,266.48,736.96
+157,1991,NY,Congregate care I Area C,635.48,1270.96,228.48,660.96
+158,1991,NY,Congregate care II Areas A and B,842.00,1684.00,435.00,1074.00
+159,1991,NY,Congregate care II Area C,812.00,1624.00,405.00,1014.00
+160,1991,NY,Congregate care III Area A,889.96,1779.92,482.96,1169.92
+161,1991,NY,Congregate care III Areas B and C,865.96,1731.92,458.96,1121.92
+162,1991,NY,Living in household of another,294.34,451.67,23.00,45.00
+163,1991,NY,Medicaid facility,35.00,70.00,5.00,10.00
+164,1991,NC,Domiciliary care (Ambulatory),756.00,1188.00,349.00,578.00
+165,1991,NC,Domiciliary care (Semi-ambulatory),793.00,1225.00,386.00,615.00
+166,1991,NC,Blind ineligible for SSI Not paying shelter/utilities,N/A,N/A,97.00,194.00
+167,1991,NC,Blind ineligible for SSI Paying shelter/utilities,N/A,N/A,146.00,243.00
+168,1991,OH,Adult family home,450.00,900.00,43.00,290.00
+169,1991,OH,Group home,500.00,1000.00,93.00,390.00
+170,1991,OH,Rest home,500.00,1000.00,93.00,390.00
+171,1991,OK,Living independently,471.00,738.00,64.00,128.00
+172,1991,OR,Living independently Aged and disabled,408.70,610.00,1.70,0
+173,1991,OR,Living independently Blind,433.70,635.60,26.70,25.60
+174,1991,OR,Living with an ineligible spouse Aged and disabled,408.70,N/A,1.70,N/A
+175,1991,OR,Living with an ineligible spouse Blind,433.70,N/A,26.70,N/A
+176,1991,OR,Living with essential person Blind,636.60,N/A,25.60,N/A
+177,1991,OR,Living in household of another Aged and disabled,273.04,406.67,1.70,0
+178,1991,OR,Living in household of another Blind,298.04,432.27,26.70,25.60
+179,1991,OR,Adult foster/residential care Aged and disabled,408.70,806.40,1.70,196.40
+180,1991,OR,Adult foster/residential care Blind,433.70,856.40,26.70,246.40
+181,1991,OR,Room and board Aged and disabled,408.70,806.40,1.70,196.40
+182,1991,OR,Room and board Blind,433.70,856.40,26.70,246.40
+183,1991,PA,Living alone,439.40,658.70,32.40,48.70
+184,1991,PA,Living in household of another,303.74,455.37,32.40,48.70
+185,1991,PA,Living with an essential person,659.70,887.05,48.70,73.05
+186,1991,PA,Living with an essential person in household of another,456.04,615.73,48.70,73.05
+187,1991,PA,Domiciliary-care facility for adults,554.30,983.40,147.30,373.40
+188,1991,PA,Personal-care boarding home,559.30,993.40,152.30,383.40
+189,1991,RI,Living alone,471.35,730.50,64.35,120.50
+190,1991,RI,Living in household of another,345.94,543.17,74.60,136.50
+191,1991,RI,Shelter care facility,739.00,N/A,332.00,N/A
+192,1991,RI,Medicaid facility,40.00,80.00,10.00,20.00
+193,1991,SC,Licensed residential-care facility,650.00,1300.00,243.00,690.00
+194,1991,SD,Living independently,422.00,625.00,15.00,15.00
+195,1991,SD,Supervised personal-care facility,630.00,N/A,223.00,N/A
+196,1991,SD,Adult foster-care,537.00,N/A,130.00,N/A
+197,1991,UT,Living alone or with others,413.00,622.00,6.00,12.00
+198,1991,VT,Living independently,471.99,728.24,64.99,118.24
+199,1991,VT,Living in the household of another,314.60,461.67,43.26,55.00
+200,1991,VT,"Custodial-care, licensed home with limited nursing care",665.53,1186.59,258.53,576.59
+201,1991,VT,"Custodial-care, licensed community care home",625.36,1147.87,218.36,537.87
+202,1991,VT,"Custodial-care, family home",508.87,934.66,101.87,324.66
+203,1991,VT,Medicaid facility,45.00,90.00,15.00,30.00
+204,1991,VT,Living independently with an essential person,728.24,911.42,321.24,301.42
+205,1991,VT,Living in the household of another with ineligible spouse who is an essential person,471.99,N/A,200.65,N/A
+206,1991,VA,Licensed home for adults Planning district 8,727.00,1454.00,320.00,844.00
+207,1991,VA,Licensed home for adults All other areas,637.00,1274.00,230.00,664.00
+208,1991,VA,Adult family care Planning district 8,548.00,1096.00,141.00,486.00
+209,1991,VA,Adult family care All other areas,480.00,960.00,73.00,350.00
+210,1991,WA,Living independently Area 1,435.00,632.00,28.00,22.00
+211,1991,WA,Living independently Area 2,414.55,610.00,7.55,0
+212,1991,WA,Living with ineligible spouse Area 1,599.00,N/A,192.00,N/A
+213,1991,WA,Living with ineligible spouse Area 2,567.15,N/A,160.15,N/A
+214,1991,WA,Living in household of another,277.15,412.97,5.81,6.30
+215,1991,WA,Living in household of another with ineligible spouse,390.97,N/A,119.63,N/A
+216,1991,WA,Living with one essential person Area 1,633.00,N/A,22.00,N/A
+217,1991,WA,Living with one essential person Area 2,611.00,N/A,0,N/A
+218,1991,WA,Living in household of another with one essential person,413.64,N/A,6.30,N/A
+219,1991,WA,Medicaid facility,41.62,83.24,11.62,23.24
+220,1991,WI,Living independently,509.72,775.86,102.72,165.86
+221,1991,WI,Living in household of another,374.06,572.53,102.72,165.86
+222,1991,WI,Living independently with an ineligible spouse,561.08,N/A,154.08,N/A
+223,1991,WI,Living in household of another with ineligible spouse,425.42,N/A,154.08,N/A
+224,1991,WI,Private nonmedical group home or natural residential settings,610.16,1129.02,203.16,519.02
+225,1991,WI,Living independently with an essential person (nonspouse),713.72,979.86,102.72,165.86
+226,1991,WI,Living in household of another with an essential person (nonspouse),510.06,708.54,102.72,165.86
+227,1991,WI,Living independently with an ineligible spouse who is an essential person,765.08,N/A,154.08,N/A
+228,1991,WI,Living in household of another with an ineligible spouse who is an essential person,561.42,N/A,154.08,N/A
+229,1991,WY,Living independently,427.00,650.00,20.00,40.00
+230,1991,WY,Living in the household of another,291.34,446.67,20.00,40.00
