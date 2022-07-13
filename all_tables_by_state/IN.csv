@@ -1,0 +1,23 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,IN,Licensed residential facility,,789,0,403,0,386,0,-403,false
+1991,IN,Licensed residential facility,,789,0,382,0,407,0,-382,false
+1992,IN,Licensed residential facility,,789,0,367,0,422,0,-367,false
+1994,IN,Licensed residential facility,,789,0,343,0,446,0,-343,false
+1995,IN,Licensed residential facility,,789,0,331,0,458,0,-331,false
+1996,IN,Licensed residential facility,,1100.36,0,630.36,0,469.9999999999999,0,-630.36,false
+1997,IN,Licensed residential facility,,1100.36,0,616.36,0,483.9999999999999,0,-616.36,false
+1998,IN,Licensed residential facility,,1220.2,0,726.2,0,494,0,-726.2,false
+1999,IN,Licensed residential facility,,1269.61,0,769.61,0,499.9999999999999,0,-769.61,false
+2000,IN,Licensed residential facility,,1348.79,0,836.79,0,512,0,-836.79,false
+2004,IN,Licensed residential facility,,1271.85,0,707.85,0,563.9999999999999,0,-707.85,false
+2004,IN,Medicaid facility,,52,104,22,44,30,60,22,true
+2005,IN,Licensed residential facility,,1196.85,0,617.85,0,578.9999999999999,0,-617.85,false
+2005,IN,Medicaid facility,,52,104,22,44,30,60,22,true
+2006,IN,Licensed residential facility,,1196.9,0,593.9,0,603.0000000000001,0,-593.9,false
+2006,IN,Medicaid facility,,52,104,22,44,30,60,22,true
+2007,IN,Licensed residential facility,,1216.9,0,593.9,0,623.0000000000001,0,-593.9,false
+2007,IN,Medicaid facility,,52,104,22,44,30,60,22,true
+2008,IN,Licensed residential facility,,1196.9,0,559.9,0,637.0000000000001,0,-559.9,false
+2008,IN,Medicaid facility,,52,104,22,44,30,60,22,true
+2011,IN,Licensed residential facility,,1501.06,0,827.06,0,674,0,-827.06,false
+2011,IN,Medicaid facility,,52,104,22,44,30,60,22,true

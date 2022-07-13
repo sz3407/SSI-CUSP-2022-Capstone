@@ -1,0 +1,49 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,SD,Living independently,,401,594,15,15,386,579,0,false
+1990,SD,Supervised personal-care facility,,559,0,173,0,386,0,-173,false
+1990,SD,Adult foster-care,,494,0,108,0,386,0,-108,false
+1991,SD,Living independently,,422,625,15,15,407,610,0,false
+1991,SD,Supervised personal-care facility,,630,0,223,0,407,0,-223,false
+1991,SD,Adult foster-care,,537,0,130,0,407,0,-130,false
+1992,SD,Living independently,,437,648,15,15,422,633,0,false
+1992,SD,Assisted living facility,,672,0,250,0,422,0,-250,false
+1992,SD,Adult foster-care,,574,0,152,0,422,0,-152,false
+1994,SD,Living independently,,461,684,15,15,446,669,0,false
+1994,SD,Assisted living facility,,696,0,250,0,446,0,-250,false
+1994,SD,Adult foster-care,,598,0,152,0,446,0,-152,false
+1995,SD,Living independently,,473,702,15,15,458,687,0,false
+1995,SD,Assisted living facility,,708,0,250,0,458,0,-250,false
+1995,SD,Adult foster-care,,610,0,152,0,458,0,-152,false
+1996,SD,Living independently,,485,720,15,15,470,705,0,false
+1996,SD,Assisted living facility,,720,0,250,0,470,0,-250,false
+1996,SD,Adult foster-care,,622,0,152,0,470,0,-152,false
+1997,SD,Living independently,,499,741,15,15,484,726,0,false
+1997,SD,Assisted living facility,,734,0,250,0,484,0,-250,false
+1997,SD,Adult foster-care,,636,0,152,0,484,0,-152,false
+1998,SD,Living independently,,509,756,15,15,494,741,0,false
+1998,SD,Assisted living facility,,910,0,416,0,494,0,-416,false
+1998,SD,Adult foster-care,,711,0,217,0,494,0,-217,false
+1999,SD,Living independently,,515,766,15,15,500,751,0,false
+1999,SD,Assisted living facility,,934,0,434,0,500,0,-434,false
+1999,SD,Adult foster care,,730,0,230,0,500,0,-230,false
+2000,SD,Living independently,,527,784,15,15,512,769,0,false
+2000,SD,Assisted living facility,,946,0,434,0,512,0,-434,false
+2000,SD,Adult foster care,,742,0,230,0,512,0,-230,false
+2004,SD,Living independently,,579,861,15,15,564,846,0,false
+2004,SD,Assisted living facility,,1095,0,531,0,564,0,-531,false
+2004,SD,Adult foster care,,831,0,267,0,564,0,-267,false
+2005,SD,Living independently,,594,884,15,15,579,869,0,false
+2005,SD,Assisted living facility,,1110,0,531,0,579,0,-531,false
+2005,SD,Adult foster care,,846,0,267,0,579,0,-267,false
+2006,SD,Living independently,,618,919,15,15,603,904,0,false
+2006,SD,Assisted living facility,,1173,0,570,0,603,0,-570,false
+2006,SD,Adult foster care,,890,0,287,0,603,0,-287,false
+2007,SD,Living independently,,638,949,15,15,623,934,0,false
+2007,SD,Assisted living facility,,1212,0,589,0,623,0,-589,false
+2007,SD,Adult foster care,,919,0,296,0,623,0,-296,false
+2008,SD,Living independently,,652,971,15,15,637,956,0,false
+2008,SD,Assisted living facility,,1248,0,671,0,577,0,-671,false
+2008,SD,Adult foster care,,947,0,370,0,577,0,-370,false
+2011,SD,Living independently,,689,1026,15,15,674,1011,0,false
+2011,SD,Assisted living facility,,1379,0,765,0,614,0,-765,false
+2011,SD,Adult foster care,,1002,0,388,0,614,0,-388,false

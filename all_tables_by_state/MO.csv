@@ -1,0 +1,65 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,MO,Licensed residential-care facility,I,532,871,146,292,386,579,146,true
+1990,MO,Licensed residential-care facility,II,659,1125,273,546,386,579,273,true
+1990,MO,Licensed intermediate care or skilled nursing home,,750,1307,364,728,386,579,364,true
+1990,MO,Aid to the blind,,0,0,297,594,-297,-594,297,true
+1991,MO,Licensed residential-care facility,II,555,906,148,296,407,610,148,true
+1991,MO,Licensed residential-care facility,II,683,1162,276,552,407,610,276,true
+1991,MO,Licensed intermediate care or skilled nursing home,,775,1346,368,736,407,610,368,true
+1991,MO,Aid to the blind,,0,0,300,600,-300,-600,300,true
+1992,MO,Licensed residential-care facility,I,570,929,148,296,422,633,148,true
+1992,MO,Licensed residential-care facility,II,698,1185,276,552,422,633,276,true
+1992,MO,Licensed intermediate care or skilled nursing home,,790,1369,368,736,422,633,368,true
+1992,MO,Aid to the blind,,0,0,322,644,-322,-644,322,true
+1994,MO,Licensed residential-care facility,I,594,965,148,296,446,669,148,true
+1994,MO,Licensed residential-care facility,II,722,1221,276,552,446,669,276,true
+1994,MO,Licensed intermediate care or skilled nursing home,,814,1405,368,736,446,669,368,true
+1994,MO,Aid to the blind,,0,0,322,644,-322,-644,322,true
+1995,MO,Licensed residential-care facility,I,606,983,148,296,458,687,148,true
+1995,MO,Licensed residential-care facility,II,734,1239,276,552,458,687,276,true
+1995,MO,Licensed intermediate care or skilled nursing home,,826,1423,368,736,458,687,368,true
+1995,MO,Aid to the blind,,0,0,373,746,-373,-746,373,true
+1996,MO,Licensed residential-care facility,I,618,1001,148,296,470,705,148,true
+1996,MO,Licensed residential-care facility,II,746,1257,276,552,470,705,276,true
+1996,MO,Licensed intermediate care or skilled nursing home,,838,1441,368,736,470,705,368,true
+1996,MO,Aid to the blind,,0,0,373,746,-373,-746,373,true
+1997,MO,Licensed residential-care facility,I,635,1028,151,302,484,726,151,true
+1997,MO,Licensed residential-care facility,II,766,1290,282,564,484,726,282,true
+1997,MO,Licensed intermediate care or skilled nursing home,,859,1476,375,750,484,726,375,true
+1997,MO,Aid to the blind,,0,0,373,746,-373,-746,373,true
+1998,MO,Licensed residential-care facility,I,645,1043,151,302,494,741,151,true
+1998,MO,Licensed residential-care facility,II,776,1305,282,564,494,741,282,true
+1998,MO,Licensed intermediate care or skilled nursing home,,869,1491,375,750,494,741,375,true
+1998,MO,Aid to the blind,,0,0,373,746,-373,-746,373,true
+1999,MO,Licensed residential care facility,I,654,1059,154,308,500,751,154,true
+1999,MO,Licensed residential care facility,II,788,1327,288,576,500,751,288,true
+1999,MO,Licensed intermediate care or skilled nursing home,,883,1517,383,766,500,751,383,true
+1999,MO,Aid to the blind,,0,0,383,766,-383,-766,383,true
+2000,MO,Licensed residential care facility,I,666,1077,154,308,512,769,154,true
+2000,MO,Licensed residential care facility,II,800,1345,288,576,512,769,288,true
+2000,MO,Licensed intermediate care or skilled nursing home,,895,1535,383,766,512,769,383,true
+2000,MO,Aid to the blind,,0,0,391,782,-391,-782,391,true
+2004,MO,Licensed residential care facility,I,720,1158,156,312,564,846,156,true
+2004,MO,Licensed residential care facility,II,856,1430,292,584,564,846,292,true
+2004,MO,Licensed intermediate care or skilled nursing home,,954,1626,390,780,564,846,390,true
+2004,MO,Aid to the blind,,1034,1786,470,940,564,846,470,true
+2005,MO,Licensed residential care facility,I,735,1181,156,312,579,869,156,true
+2005,MO,Licensed residential care facility,II,871,1453,292,584,579,869,292,true
+2005,MO,Licensed intermediate care or skilled nursing home,,969,1649,390,780,579,869,390,true
+2005,MO,Aid to the blind,,1058,1827,479,958,579,869,479,true
+2006,MO,Licensed residential care facility,I,759,1216,156,312,603,904,156,true
+2006,MO,Licensed residential care facility,II,895,1488,292,584,603,904,292,true
+2006,MO,Licensed intermediate care or skilled nursing home,,933,1684,390,780,543,904,390,true
+2006,MO,Aid to the blind,,510,1020,0,0,510,1020,0,true
+2007,MO,Licensed residential care facility,I,779,1246,156,312,623,934,156,true
+2007,MO,Licensed residential care facility,II,915,1518,292,584,623,934,292,true
+2007,MO,Licensed intermediate care or skilled nursing home,,1013,1714,390,780,623,934,390,true
+2007,MO,Aid to the blind,,510,1020,0,0,510,1020,0,true
+2008,MO,Licensed residential care facility,I,793,1268,156,312,637,956,156,true
+2008,MO,Licensed residential care facility,II,929,1540,292,584,637,956,292,true
+2008,MO,Licensed intermediate care or skilled nursing home,,1027,1736,390,780,637,956,390,true
+2008,MO,Aid to the blind,,510,1020,0,0,510,1020,0,true
+2011,MO,Licensed residential care facility,I,830,1323,156,312,674,1011,156,true
+2011,MO,Licensed residential care facility,II,966,1595,292,584,674,1011,292,true
+2011,MO,Licensed intermediate care or skilled nursing home,,1064,1791,390,780,674,1011,390,true
+2011,MO,Aid to the blind,,510,1020,0,0,510,1020,0,true

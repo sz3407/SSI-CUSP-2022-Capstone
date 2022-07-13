@@ -1,0 +1,49 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,KY,Personal-care facility,,595,0,209,0,386,0,-209,false
+1990,KY,Family care home,,484,0,98,0,386,0,-98,false
+1990,KY,Caretaker in home,,417,647,31,68,386,579,37,false
+1991,KY,Personal-care facility,,690,0,283,0,407,0,-283,false
+1991,KY,Family care home,,510,0,103,0,407,0,-103,false
+1991,KY,Caretaker in home,,440,682,33,72,407,610,39,false
+1992,KY,Personal-care facility,,720,0,298,0,422,0,-298,false
+1992,KY,Family care home,,525,0,103,0,422,0,-103,false
+1992,KY,Caretaker in home,,455,705,33,72,422,633,39,false
+1994,KY,Personal-care facility,,780,0,334,0,446,0,-334,false
+1994,KY,Family care home,,585,0,139,0,446,0,-139,false
+1994,KY,Caretaker in home,,479,741,33,72,446,669,39,false
+1995,KY,Personal-care facility,,792,0,334,0,458,0,-334,false
+1995,KY,Family care home,,597,0,139,0,458,0,-139,false
+1995,KY,Caretaker in home,,491,759,33,72,458,687,39,false
+1996,KY,Personal-care facility,,804,0,334,0,470,0,-334,false
+1996,KY,Family care home,,609,0,139,0,470,0,-139,false
+1996,KY,Caretaker in home,,503,777,33,72,470,705,39,false
+1997,KY,Personal-care facility,,818,0,334,0,484,0,-334,false
+1997,KY,Family care home,,623,0,139,0,484,0,-139,false
+1997,KY,Caretaker in home,,517,798,33,72,484,726,39,false
+1998,KY,Personal-care facility,,828,0,334,0,494,0,-334,false
+1998,KY,Family care home,,633,0,139,0,494,0,-139,false
+1998,KY,Caretaker in home,,527,813,33,72,494,741,39,false
+1999,KY,Personal-care facility,,894,0,394,0,500,0,-394,false
+1999,KY,Family care home,,639,0,139,0,500,0,-139,false
+1999,KY,Caretaker in home,,533,823,33,72,500,751,39,false
+2000,KY,Personal-care facility,,906,0,394,0,512,0,-394,false
+2000,KY,Family care home,,651,0,139,0,512,0,-139,false
+2000,KY,Caretaker in home,,545,841,33,72,512,769,39,false
+2004,KY,Personal-care facility,,1004,0,440,0,564,0,-440,false
+2004,KY,Family care home,,736,0,172,0,564,0,-172,false
+2004,KY,Caretaker in home,,626,961,62,115,564,846,53,false
+2005,KY,Personal-care facility,,1019,0,440,0,579,0,-440,false
+2005,KY,Family care home,,751,0,172,0,579,0,-172,false
+2005,KY,Caretaker in home,,641,984,62,115,579,869,53,false
+2006,KY,Personal-care facility,,1123,0,520,0,603,0,-520,false
+2006,KY,Family care home,,775,0,172,0,603,0,-172,false
+2006,KY,Caretaker in home,,665,1019,62,115,603,904,53,false
+2007,KY,Personal-care facility,,1143,0,520,0,623,0,-520,false
+2007,KY,Family care home,,795,0,172,0,623,0,-172,false
+2007,KY,Caretaker in home,,685,1049,62,115,623,934,53,false
+2008,KY,Personal-care facility,,1157,0,520,0,637,0,-520,false
+2008,KY,Family care home,,809,0,172,0,637,0,-172,false
+2008,KY,Caretaker in home,,699,1071,62,115,637,956,53,false
+2011,KY,Personal-care facility,,1194,0,520,0,674,0,-520,false
+2011,KY,Family care home,,846,0,172,0,674,0,-172,false
+2011,KY,Caretaker in home,,736,1126,62,115,674,1011,53,false

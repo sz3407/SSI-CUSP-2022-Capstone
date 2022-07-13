@@ -1,0 +1,127 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,MI,Living independently,,416.2,624.3,30.2,45.3,386,579,15.099999999999998,false
+1990,MI,Living in household of another,,278.34,417.5,21,31.5,257.34,386,10.5,false
+1990,MI,Domiciliary-care,,473,946,87,367,386,579,280,false
+1990,MI,Personal-care,,543.5,1087,157.5,508,386,579,350.5,false
+1990,MI,Home for the aged,,565.3,1130.6,179.3,551.6,385.99999999999994,578.9999999999999,372.3,false
+1990,MI,Living independently with essential person,,609.2,817.3,30.2,45.3,579,772,15.099999999999998,false
+1990,MI,Living in household of another with essential person,,407,546.17,21,31.5,386,514.67,10.5,false
+1990,MI,Medicaid facility,,37,74,7,14,30,60,7,true
+1991,MI,Living independently,,437.8,656.2,30.8,46.2,407,610,15.400000000000002,false
+1991,MI,Living in household of another,,292.74,438.77,21.4,32.1,271.34000000000003,406.66999999999996,10.700000000000003,false
+1991,MI,Domiciliary-care,,498,996,91,386,407,610,295,false
+1991,MI,Personal-care,,568.5,1137,161.5,527,407,610,365.5,false
+1991,MI,Home for the aged,,590.3,1180.6,183.3,570.6,406.99999999999994,609.9999999999999,387.3,false
+1991,MI,Living independently with essential person,,641.8,860.2,30.8,46.2,611,814,15.400000000000002,false
+1991,MI,Living in household of another with essential person,,428.74,574.78,21.4,32.1,407.34000000000003,542.68,10.700000000000003,false
+1991,MI,Medicaid facility,,37,74,7,14,30,60,7,true
+1992,MI,Living independently,,436,654,14,21,422,633,7,false
+1992,MI,Living in household of another,,290.67,436,9.33,14,281.34000000000003,422,4.67,false
+1992,MI,Domiciliary-care,,509,1018,87,385,422,633,298,false
+1992,MI,Personal-care,,579.5,1159,157.5,526,422,633,368.5,false
+1992,MI,Home for the aged,,601.3,1202.6,179.3,569.6,421.99999999999994,632.9999999999999,390.3,false
+1992,MI,Living independently with essential person,,647,865,14,21,633,844,7,false
+1992,MI,Living in household of another with essential person,,431.33,576.67,9.33,14,422,562.67,4.67,false
+1992,MI,Medicaid facility,,37,74,7,14,30,60,7,true
+1994,MI,Living independently,,460,690,14,21,446,669,7,false
+1994,MI,Living in household of another,,306.67,460,9.33,14,297.34000000000003,446,4.67,false
+1994,MI,Domiciliary-care,,521,1042,75,373,446,669,298,false
+1994,MI,Personal-care,,591.5,1183,145.5,514,446,669,368.5,false
+1994,MI,Home for the aged,,613.3,1226.6,167.3,557.6,445.99999999999994,668.9999999999999,390.3,false
+1994,MI,Living independently with essential,,683,913,14,21,669,892,7,false
+1994,MI,Living in household with essential of another,,455.33,608.67,9.33,14,446,594.67,4.67,false
+1994,MI,Medicaid facility,,37,74,7,14,30,60,7,true
+1995,MI,Living independently,,472,715,14,28,458,687,14,true
+1995,MI,Living in household of another,,314.67,476.66,9.33,18.66,305.34000000000003,458,9.33,true
+1995,MI,Domiciliary-care,,533,1066,75,379,458,687,304,false
+1995,MI,Personal-care,,603.5,1207,145.5,520,458,687,374.5,false
+1995,MI,Home for the aged,,625.3,1250.6,167.3,563.6,457.99999999999994,686.9999999999999,396.3,false
+1995,MI,Living independently with essential person,,701,937,14,21,687,916,7,false
+1995,MI,Living in household of another with essential person,,467.33,624.67,9.33,14,458,610.67,4.67,false
+1995,MI,Medicaid facility,,37,74,7,14,30,60,7,true
+1996,MI,Living independently,,484,733,14,28,470,705,14,true
+1996,MI,Living in household of another,,322.67,488.66,9.33,18.66,313.34000000000003,470,9.33,true
+1996,MI,Domiciliary-care,,545,1084,75,379,470,705,304,false
+1996,MI,Personal-care,,615.5,1225,145.5,520,470,705,374.5,false
+1996,MI,Home for the aged,,637.3,1268.6,167.3,563.6,469.99999999999994,704.9999999999999,396.3,false
+1996,MI,Living independently with essential person,,719,961,14,21,705,940,7,false
+1996,MI,Living in household of another with essential person,,479.33,640.67,9.33,14,470,626.67,4.67,false
+1996,MI,Medicaid facility,,37,74,7,14,30,60,7,true
+1997,MI,Living independently,,498,754,14,28,484,726,14,true
+1997,MI,Living in household of another,,332,502.66,9.33,18.66,322.67,484,9.33,true
+1997,MI,Domiciliary-care,,571,1142,87,416,484,726,329,false
+1997,MI,Personal-care,,641.5,1283,157.5,557,484,726,399.5,false
+1997,MI,Home for the aged,,663.3,1326.6,179.3,600.6,483.99999999999994,725.9999999999999,421.3,false
+1997,MI,Living independently with essential person,,740,989,14,21,726,968,7,false
+1997,MI,Living in household of another with essential person,,493.33,659.34,9.33,14,484,645.34,4.67,false
+1997,MI,Medicaid facility,,37,74,7,14,30,60,7,true
+1998,MI,Living independently,,508,769,14,28,494,741,14,true
+1998,MI,Living in household of another,,338.67,512.66,9.33,18.66,329.34000000000003,493.99999999999994,9.33,true
+1998,MI,Domiciliary-care,,581,1162,87,421,494,741,334,false
+1998,MI,Personal-care,,651.5,1303,157.5,562,494,741,404.5,false
+1998,MI,Home for the aged,,673.3,1346.6,179.3,605.6,493.99999999999994,740.9999999999999,426.3,false
+1998,MI,Living independently with essential pereon,,755,1009,14,21,741,988,7,false
+1998,MI,Living in household of another with essential person,,503.33,672.67,9.33,14,494,658.67,4.67,false
+1998,MI,Medicaid facility,,37,74,7,14,30,60,7,true
+1999,MI,Living independently,,514,779,14,28,500,751,14,true
+1999,MI,Living in household of another,,342.67,519.33,9.33,18.66,333.34000000000003,500.67,9.33,true
+1999,MI,Domiciliary care,,587,1174,87,423,500,751,336,false
+1999,MI,Personal care,,657.5,1315,157.5,564,500,751,406.5,false
+1999,MI,Home for the aged,,679.3,1358.6,179.3,607.6,499.99999999999994,750.9999999999999,428.3,false
+1999,MI,Living independently with essential person,,764,1022,14,21,750,1001,7,false
+1999,MI,Living in household of another with essential person,,509.33,681.34,9.33,14,500,667.34,4.67,false
+1999,MI,Medicaid facility,,37,74,7,14,30,60,7,true
+2000,MI,Living independently,,526,797,14,28,512,769,14,true
+2000,MI,Living in household of another,,350.67,531.33,9.33,18.66,341.34000000000003,512.6700000000001,9.33,true
+2000,MI,Domiciliary care,,599,1198,87,429,512,769,342,false
+2000,MI,Personal care,,669.5,1339,157.5,570,512,769,412.5,false
+2000,MI,Home for the aged,,691.3,1382.6,179.3,613.6,511.99999999999994,768.9999999999999,434.3,false
+2000,MI,Living independently with essential person,,783,1047,14,21,769,1026,7,false
+2000,MI,Living in household of another with essential person,,522.33,698.34,9.33,14,513,684.34,4.67,false
+2000,MI,Medicaid facility,,37,74,7,14,30,60,7,true
+2004,MI,Living independently,,578,874,14,28,564,846,14,true
+2004,MI,Living in household of another,,385.33,582.66,9.33,18.66,376,564,9.33,true
+2004,MI,Domiciliary care,,651,1302,87,456,564,846,369,false
+2004,MI,Personal care facility,,721.5,1443,157.5,597,564,846,439.5,false
+2004,MI,Home for the aged,,743.3,1486.6,179.3,640.6,564,845.9999999999999,461.3,false
+2004,MI,Living independently with essential person,,860,1149,14,21,846,1128,7,false
+2004,MI,Living in household of another with essential person,,573.33,766,9.33,14,564,752,4.67,false
+2004,MI,Medicaid facility,,37,74,7,14,30,60,7,true
+2005,MI,Living independently,,593,897,14,28,579,869,14,true
+2005,MI,Living in household of another,,395.33,598,9.33,18.66,386,579.34,9.33,true
+2005,MI,Domiciliary care,,666,1332,87,463,579,869,376,false
+2005,MI,Personal care facility,,736.5,1473,157.5,604,579,869,446.5,false
+2005,MI,Home for the aged,,758.3,1516,179.3,647.6,579,868.4,468.3,false
+2005,MI,Living independently with essential person,,883,1180,14,21,869,1159,7,false
+2005,MI,Medicaid facility,,37,74,7,14,30,60,7,true
+2006,MI,Living independently,,617,932,14,28,603,904,14,true
+2006,MI,Living in household of another,,411.33,621.33,9.33,18.66,402,602.6700000000001,9.33,true
+2006,MI,Domiciliary care,,690,1380,87,476,603,904,389,false
+2006,MI,Personal care facility,,760.5,1521,157.5,617,603,904,459.5,false
+2006,MI,Home for the aged,,782.3,1564.6,179.3,660.6,603,903.9999999999999,481.3,false
+2006,MI,Living independently with essential person,,919,1227,14,21,905,1206,7,false
+2006,MI,Medicaid facility,,37,74,7,14,30,60,7,true
+2007,MI,Living independently,,637,962,14,28,623,934,14,true
+2007,MI,Living in household of another,,424.67,641.33,9.33,18.66,415.34000000000003,622.6700000000001,9.33,true
+2007,MI,Domiciliary care,,710,1420,87,486,623,934,399,false
+2007,MI,Personal care facility,,780.5,1561,157.5,627,623,934,469.5,false
+2007,MI,Home for the aged,,802.3,1604.6,179.3,670.6,623,933.9999999999999,491.3,false
+2007,MI,Living independently with essential person,,949,1267,14,21,935,1246,7,false
+2007,MI,Living in the household of another with essential person,,632.67,844.67,9.33,14,623.3399999999999,830.67,4.67,false
+2007,MI,Medicaid facility,,37,74,7,14,30,60,7,true
+2008,MI,Living independently,,651,984,14,28,637,956,14,true
+2008,MI,Living in household of another,,434,656,9.33,18.66,424.67,637.34,9.33,true
+2008,MI,Domiciliary care,,724,1448,87,492,637,956,405,false
+2008,MI,Personal care facility,,794,1589,157.5,633,636.5,956,475.5,false
+2008,MI,Home for the aged,,816.3,1632,179.3,676.6,637,955.4,497.3,false
+2008,MI,Living independently with essential person,,970,1296,14,21,956,1275,7,false
+2008,MI,Living in the household of another with essential person,,646.67,864,9.33,14,637.3399999999999,850,4.67,false
+2008,MI,Medicaid facility,,37,74,7,14,30,60,7,true
+2011,MI,Living independently,,688,1039,14,28,674,1011,14,true
+2011,MI,Living in household of another,,458.67,692.66,9.33,18.66,449.34000000000003,674,9.33,true
+2011,MI,Domiciliary care,,761,1522,87,511,674,1011,424,false
+2011,MI,Personal care facility,,831.5,1663,157.5,652,674,1011,494.5,false
+2011,MI,Home for the aged,,853.3,1706,179.3,695.6,674,1010.4,516.3,false
+2011,MI,Living independently with essential person,,1026,1370,14,21,1012,1349,7,false
+2011,MI,Living in the household of another with essential person,,684,913.34,9.33,14,674.67,899.34,4.67,false
+2011,MI,Medicaid facility,,37,74,7,14,30,60,7,true
