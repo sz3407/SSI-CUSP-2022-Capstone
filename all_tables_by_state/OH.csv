@@ -1,91 +1,91 @@
 year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
-1990,OH,Adult family home,,450,900,64,321,386,579,257,false
-1990,OH,Group homes,,550,1100,164,521,386,579,357,false
-1990,OH,Rest homes,,550,1100,164,521,386,579,357,false
-1991,OH,Adult family home,,450,900,43,290,407,610,247,false
-1991,OH,Group home,,500,1000,93,390,407,610,297,false
-1991,OH,Rest home,,500,1000,93,390,407,610,297,false
-1992,OH,Adult foster home,,779,1492,357,859,422,633,502,false
-1992,OH,Adult family home,,779,1492,357,859,422,633,502,false
-1992,OH,Group home,,879,1692,457,1059,422,633,602,false
-1992,OH,Rest home,,879,1692,457,1059,422,633,602,false
-1994,OH,Adult foster home,,802,1528,356,859,446,669,503,false
-1994,OH,Adult family home,,802,1528,356,859,446,669,503,false
-1994,OH,Apartment or room,,602,1128,156,459,446,669,303,false
-1994,OH,Community alternative home,,802,1528,356,859,446,669,503,false
-1994,OH,Group home,,902,1728,456,1059,446,669,603,false
-1994,OH,Residential facility,,802,1528,356,859,446,669,503,false
-1994,OH,Rest home,,902,1728,456,1059,446,669,603,false
-1995,OH,Adult foster home,,814,1546,356,859,458,687,503,false
-1995,OH,Adult family home,,814,1546,356,859,458,687,503,false
-1995,OH,Apartment or room,Community Mental Health Program,614,1146,156,459,458,687,303,false
-1995,OH,Community alternative home,,814,1546,356,859,458,687,503,false
-1995,OH,Group home,,914,1746,456,1059,458,687,603,false
-1995,OH,Residential facility,,814,1546,356,859,458,687,503,false
-1995,OH,Rest home,,914,1746,456,1059,458,687,603,false
-1996,OH,Adult foster home,,876,1664,406,959,470,705,553,false
-1996,OH,Adult family home,,876,1664,406,959,470,705,553,false
-1996,OH,Apartment or room,Community Mental Health Program,676,1264,206,559,470,705,353,false
-1996,OH,Community alternative home,,876,1664,406,959,470,705,553,false
-1996,OH,Group home,,976,1864,506,1159,470,705,653,false
-1996,OH,Residential,,976,1864,506,1159,470,705,653,false
-1997,OH,Adult foster homes,,890,1685,406,959,484,726,553,false
-1997,OH,Adult family homes,,890,1685,406,959,484,726,553,false
-1997,OH,Apartment or room,Community Mental Health Program,690,1285,206,559,484,726,353,false
-1997,OH,Community alternative home,,890,1685,406,959,484,726,553,false
-1997,OH,Group homes,,990,1885,506,1159,484,726,653,false
-1997,OH,Residential Care Facility,,990,1885,506,1159,484,726,653,false
-1998,OH,Adult foster homes,,950,1800,456,1059,494,741,603,false
-1998,OH,Adult family homes,,950,1800,456,1059,494,741,603,false
-1998,OH,Apartment or room,Community Mental Health Program,750,1400,256,659,494,741,403,false
-1998,OH,Community alternative home,,950,1800,456,1059,494,741,603,false
-1998,OH,Group homes,,1050,2000,556,1259,494,741,703,false
-1998,OH,Residential Care Facility,,1050,2000,556,1259,494,741,703,false
-1999,OH,Adult family/foster home,,956,1810,456,1059,500,751,603,false
-1999,OH,Adult community mental health housing,,756,1410,256,659,500,751,403,false
-1999,OH,Adult community alternative home,Community Mental Health Program,956,1810,456,1059,500,751,603,false
-1999,OH,Adult group home,,1056,2010,556,1259,500,751,703,false
-1999,OH,Adult residential care facility,,1056,2010,556,1259,500,751,703,false
-1999,OH,Adult residential facility,,956,1810,456,1059,500,751,603,false
-2000,OH,Adult family/foster home,,968,1828,456,1059,512,769,603,false
-2000,OH,Adult community mental health housing,,768,1428,256,659,512,769,403,false
-2000,OH,Adult community alternative home,,968,1828,456,1059,512,769,603,false
-2000,OH,Adult group home,,1068,2028,556,1259,512,769,703,false
-2000,OH,Adult residential care facility,,1068,2028,556,1259,512,769,703,false
-2000,OH,Adult residential facility,,968,1828,456,1059,512,769,603,false
-2004,OH,Adult family/foster home,,1070,2005,506,1159,564,846,653,false
-2004,OH,Adult community mental health housing,,870,1605,306,759,564,846,453,false
-2004,OH,Adult community alternative home,,1070,2005,506,1159,564,846,653,false
-2004,OH,Adult group home,,1170,2205,606,1359,564,846,753,false
-2004,OH,Residential care facility,,1170,2205,606,1359,564,846,753,false
-2004,OH,Adult residential care facility,,1070,2005,506,1159,564,846,653,false
-2005,OH,Adult family/foster home,,1085,2028,506,1159,579,869,653,false
-2005,OH,Adult community mental health housing,,885,1628,306,759,579,869,453,false
-2005,OH,Adult community alternative home,,1085,2028,506,1159,579,869,653,false
-2005,OH,Adult group home,,1185,2228,606,1359,579,869,753,false
-2005,OH,Residential care facility,,1185,2228,606,1359,579,869,753,false
-2005,OH,Adult residential care facility,,1085,2028,506,1159,579,869,653,false
-2006,OH,Adult family/foster home,,1109,2063,506,1159,603,904,653,false
-2006,OH,Adult community mental health housing,,909,1663,306,759,603,904,453,false
-2006,OH,Adult community alternative home,,1109,2063,506,1159,603,904,653,false
-2006,OH,Adult group home,,1209,2263,606,1359,603,904,753,false
-2006,OH,Residential care facility,,1209,2263,606,1359,603,904,753,false
-2006,OH,Adult residential care facility,,1109,2063,506,1159,603,904,653,false
-2007,OH,Adult family/foster home,,1129,2093,506,1159,623,934,653,false
-2007,OH,Adult community mental health housing,,929,1693,306,759,623,934,453,false
-2007,OH,Adult community alternative home,,1129,2093,506,1159,623,934,653,false
-2007,OH,Adult group home,,1229,2293,606,1359,623,934,753,false
-2007,OH,Residential care facility,,1229,2293,606,1359,623,934,753,false
-2007,OH,Adult residential care facility,,1129,2093,506,1159,623,934,653,false
-2008,OH,Adult family/foster home,,1143,2115,506,1159,637,956,653,false
-2008,OH,Adult community mental health housing,,943,1715,306,759,637,956,453,false
-2008,OH,Adult community alternative home,,1143,2115,506,1159,637,956,653,false
-2008,OH,Adult group home,,1243,2315,606,1359,637,956,753,false
-2008,OH,Residential care facility,,1243,2315,606,1359,637,956,753,false
-2008,OH,Adult residential care facility,,1143,2115,506,1159,637,956,653,false
-2011,OH,Adult family/foster home,,1180,2170,506,1159,674,1011,653,false
-2011,OH,Adult community mental health housing,,980,1770,306,759,674,1011,453,false
-2011,OH,Adult community alternative home,,1180,2170,506,1159,674,1011,653,false
-2011,OH,Adult group home,,1280,2370,606,1359,674,1011,753,false
-2011,OH,Residential care facility,,1280,2370,606,1359,674,1011,753,false
-2011,OH,Adult residential care facility,,1180,2170,506,1159,674,1011,653,false
+1990,OH,Adult family home,,450.00,900.00,64.00,321.00,386.00,579.00,257.00,FALSE
+1990,OH,Group homes,,550.00,1100.00,164.00,521.00,386.00,579.00,357.00,FALSE
+1990,OH,Rest homes,,550.00,1100.00,164.00,521.00,386.00,579.00,357.00,FALSE
+1991,OH,Adult family home,,450.00,900.00,43.00,290.00,407.00,610.00,247.00,FALSE
+1991,OH,Group home,,500.00,1000.00,93.00,390.00,407.00,610.00,297.00,FALSE
+1991,OH,Rest home,,500.00,1000.00,93.00,390.00,407.00,610.00,297.00,FALSE
+1992,OH,Adult foster home,,779.00,1492.00,357.00,859.00,422.00,633.00,502.00,FALSE
+1992,OH,Adult family home,,779.00,1492.00,357.00,859.00,422.00,633.00,502.00,FALSE
+1992,OH,Group home,,879.00,1692.00,457.00,1059.00,422.00,633.00,602.00,FALSE
+1992,OH,Rest home,,879.00,1692.00,457.00,1059.00,422.00,633.00,602.00,FALSE
+1994,OH,Adult foster home,,802.00,1528.00,356.00,859.00,446.00,669.00,503.00,FALSE
+1994,OH,Adult family home,,802.00,1528.00,356.00,859.00,446.00,669.00,503.00,FALSE
+1994,OH,Apartment or room,,602.00,1128.00,156.00,459.00,446.00,669.00,303.00,FALSE
+1994,OH,Community alternative home,,802.00,1528.00,356.00,859.00,446.00,669.00,503.00,FALSE
+1994,OH,Group home,,902.00,1728.00,456.00,1059.00,446.00,669.00,603.00,FALSE
+1994,OH,Residential facility,,802.00,1528.00,356.00,859.00,446.00,669.00,503.00,FALSE
+1994,OH,Rest home,,902.00,1728.00,456.00,1059.00,446.00,669.00,603.00,FALSE
+1995,OH,Adult foster home,,814.00,1546.00,356.00,859.00,458.00,687.00,503.00,FALSE
+1995,OH,Adult family home,,814.00,1546.00,356.00,859.00,458.00,687.00,503.00,FALSE
+1995,OH,Apartment or room,Community Mental Health Program,614.00,1146.00,156.00,459.00,458.00,687.00,303.00,FALSE
+1995,OH,Community alternative home,,814.00,1546.00,356.00,859.00,458.00,687.00,503.00,FALSE
+1995,OH,Group home,,914.00,1746.00,456.00,1059.00,458.00,687.00,603.00,FALSE
+1995,OH,Residential facility,,814.00,1546.00,356.00,859.00,458.00,687.00,503.00,FALSE
+1995,OH,Rest home,,914.00,1746.00,456.00,1059.00,458.00,687.00,603.00,FALSE
+1996,OH,Adult foster home,,876.00,1664.00,406.00,959.00,470.00,705.00,553.00,FALSE
+1996,OH,Adult family home,,876.00,1664.00,406.00,959.00,470.00,705.00,553.00,FALSE
+1996,OH,Apartment or room,Community Mental Health Program,676.00,1264.00,206.00,559.00,470.00,705.00,353.00,FALSE
+1996,OH,Community alternative home,,876.00,1664.00,406.00,959.00,470.00,705.00,553.00,FALSE
+1996,OH,Group home,,976.00,1864.00,506.00,1159.00,470.00,705.00,653.00,FALSE
+1996,OH,Residential,,976.00,1864.00,506.00,1159.00,470.00,705.00,653.00,FALSE
+1997,OH,Adult foster homes,,890.00,1685.00,406.00,959.00,484.00,726.00,553.00,FALSE
+1997,OH,Adult family homes,,890.00,1685.00,406.00,959.00,484.00,726.00,553.00,FALSE
+1997,OH,Apartment or room,Community Mental Health Program,690.00,1285.00,206.00,559.00,484.00,726.00,353.00,FALSE
+1997,OH,Community alternative home,,890.00,1685.00,406.00,959.00,484.00,726.00,553.00,FALSE
+1997,OH,Group homes,,990.00,1885.00,506.00,1159.00,484.00,726.00,653.00,FALSE
+1997,OH,Residential Care Facility,,990.00,1885.00,506.00,1159.00,484.00,726.00,653.00,FALSE
+1998,OH,Adult foster homes,,950.00,1800.00,456.00,1059.00,494.00,741.00,603.00,FALSE
+1998,OH,Adult family homes,,950.00,1800.00,456.00,1059.00,494.00,741.00,603.00,FALSE
+1998,OH,Apartment or room,Community Mental Health Program,750.00,1400.00,256.00,659.00,494.00,741.00,403.00,FALSE
+1998,OH,Community alternative home,,950.00,1800.00,456.00,1059.00,494.00,741.00,603.00,FALSE
+1998,OH,Group homes,,1050.00,2000.00,556.00,1259.00,494.00,741.00,703.00,FALSE
+1998,OH,Residential Care Facility,,1050.00,2000.00,556.00,1259.00,494.00,741.00,703.00,FALSE
+1999,OH,Adult family/foster home,,956.00,1810.00,456.00,1059.00,500.00,751.00,603.00,FALSE
+1999,OH,Adult community mental health housing,,756.00,1410.00,256.00,659.00,500.00,751.00,403.00,FALSE
+1999,OH,Adult community alternative home,Community Mental Health Program,956.00,1810.00,456.00,1059.00,500.00,751.00,603.00,FALSE
+1999,OH,Adult group home,,1056.00,2010.00,556.00,1259.00,500.00,751.00,703.00,FALSE
+1999,OH,Adult residential care facility,,1056.00,2010.00,556.00,1259.00,500.00,751.00,703.00,FALSE
+1999,OH,Adult residential facility,,956.00,1810.00,456.00,1059.00,500.00,751.00,603.00,FALSE
+2000,OH,Adult family/foster home,,968.00,1828.00,456.00,1059.00,512.00,769.00,603.00,FALSE
+2000,OH,Adult community mental health housing,,768.00,1428.00,256.00,659.00,512.00,769.00,403.00,FALSE
+2000,OH,Adult community alternative home,,968.00,1828.00,456.00,1059.00,512.00,769.00,603.00,FALSE
+2000,OH,Adult group home,,1068.00,2028.00,556.00,1259.00,512.00,769.00,703.00,FALSE
+2000,OH,Adult residential care facility,,1068.00,2028.00,556.00,1259.00,512.00,769.00,703.00,FALSE
+2000,OH,Adult residential facility,,968.00,1828.00,456.00,1059.00,512.00,769.00,603.00,FALSE
+2004,OH,Adult family/foster home,,1070.00,2005.00,506.00,1159.00,564.00,846.00,653.00,FALSE
+2004,OH,Adult community mental health housing,,870.00,1605.00,306.00,759.00,564.00,846.00,453.00,FALSE
+2004,OH,Adult community alternative home,,1070.00,2005.00,506.00,1159.00,564.00,846.00,653.00,FALSE
+2004,OH,Adult group home,,1170.00,2205.00,606.00,1359.00,564.00,846.00,753.00,FALSE
+2004,OH,Residential care facility,,1170.00,2205.00,606.00,1359.00,564.00,846.00,753.00,FALSE
+2004,OH,Adult residential care facility,,1070.00,2005.00,506.00,1159.00,564.00,846.00,653.00,FALSE
+2005,OH,Adult family/foster home,,1085.00,2028.00,506.00,1159.00,579.00,869.00,653.00,FALSE
+2005,OH,Adult community mental health housing,,885.00,1628.00,306.00,759.00,579.00,869.00,453.00,FALSE
+2005,OH,Adult community alternative home,,1085.00,2028.00,506.00,1159.00,579.00,869.00,653.00,FALSE
+2005,OH,Adult group home,,1185.00,2228.00,606.00,1359.00,579.00,869.00,753.00,FALSE
+2005,OH,Residential care facility,,1185.00,2228.00,606.00,1359.00,579.00,869.00,753.00,FALSE
+2005,OH,Adult residential care facility,,1085.00,2028.00,506.00,1159.00,579.00,869.00,653.00,FALSE
+2006,OH,Adult family/foster home,,1109.00,2063.00,506.00,1159.00,603.00,904.00,653.00,FALSE
+2006,OH,Adult community mental health housing,,909.00,1663.00,306.00,759.00,603.00,904.00,453.00,FALSE
+2006,OH,Adult community alternative home,,1109.00,2063.00,506.00,1159.00,603.00,904.00,653.00,FALSE
+2006,OH,Adult group home,,1209.00,2263.00,606.00,1359.00,603.00,904.00,753.00,FALSE
+2006,OH,Residential care facility,,1209.00,2263.00,606.00,1359.00,603.00,904.00,753.00,FALSE
+2006,OH,Adult residential care facility,,1109.00,2063.00,506.00,1159.00,603.00,904.00,653.00,FALSE
+2007,OH,Adult family/foster home,,1129.00,2093.00,506.00,1159.00,623.00,934.00,653.00,FALSE
+2007,OH,Adult community mental health housing,,929.00,1693.00,306.00,759.00,623.00,934.00,453.00,FALSE
+2007,OH,Adult community alternative home,,1129.00,2093.00,506.00,1159.00,623.00,934.00,653.00,FALSE
+2007,OH,Adult group home,,1229.00,2293.00,606.00,1359.00,623.00,934.00,753.00,FALSE
+2007,OH,Residential care facility,,1229.00,2293.00,606.00,1359.00,623.00,934.00,753.00,FALSE
+2007,OH,Adult residential care facility,,1129.00,2093.00,506.00,1159.00,623.00,934.00,653.00,FALSE
+2008,OH,Adult family/foster home,,1143.00,2115.00,506.00,1159.00,637.00,956.00,653.00,FALSE
+2008,OH,Adult community mental health housing,,943.00,1715.00,306.00,759.00,637.00,956.00,453.00,FALSE
+2008,OH,Adult community alternative home,,1143.00,2115.00,506.00,1159.00,637.00,956.00,653.00,FALSE
+2008,OH,Adult group home,,1243.00,2315.00,606.00,1359.00,637.00,956.00,753.00,FALSE
+2008,OH,Residential care facility,,1243.00,2315.00,606.00,1359.00,637.00,956.00,753.00,FALSE
+2008,OH,Adult residential care facility,,1143.00,2115.00,506.00,1159.00,637.00,956.00,653.00,FALSE
+2011,OH,Adult family/foster home,,1180.00,2170.00,506.00,1159.00,674.00,1011.00,653.00,FALSE
+2011,OH,Adult community mental health housing,,980.00,1770.00,306.00,759.00,674.00,1011.00,453.00,FALSE
+2011,OH,Adult community alternative home,,1180.00,2170.00,506.00,1159.00,674.00,1011.00,653.00,FALSE
+2011,OH,Adult group home,,1280.00,2370.00,606.00,1359.00,674.00,1011.00,753.00,FALSE
+2011,OH,Residential care facility,,1280.00,2370.00,606.00,1359.00,674.00,1011.00,753.00,FALSE
+2011,OH,Adult residential care facility,,1180.00,2170.00,506.00,1159.00,674.00,1011.00,653.00,FALSE

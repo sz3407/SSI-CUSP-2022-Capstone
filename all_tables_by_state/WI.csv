@@ -1,121 +1,121 @@
 year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
-1990,WI,Living independently,,488.72,744.86,102.72,165.86,386,579,63.140000000000015,false
-1990,WI,Living in household of another,,360.06,551.86,102.72,165.86,257.34000000000003,386,63.140000000000015,false
-1990,WI,Living independently with an ineligible spouse,,540.08,0,154.08,0,386,0,-154.08,false
-1990,WI,Living in household of another with ineligible spouse,,411.42,0,154.08,0,257.34000000000003,0,-154.08,false
-1990,WI,Private nonmedical group home or supported living arrangements,,589.16,1098.02,203.16,519.02,386,579,315.86,false
-1990,WI,Living independently with an essential person,(nonspouse),681.72,937.86,102.72,165.86,579,772,63.140000000000015,false
-1990,WI,Living in household of another with an essential person,(nonspouse),488.72,680.53,102.72,165.86,386,514.67,63.140000000000015,false
-1990,WI,Living independently with an ineligible spouse who is an essential person,,733.08,0,154.08,0,579,0,-154.08,false
-1990,WI,Living in household of another with an ineligible spouse who is an essential person,,540.08,0,154.08,0,386,0,-154.08,false
-1991,WI,Living independently,,509.72,775.86,102.72,165.86,407,610,63.140000000000015,false
-1991,WI,Living in household of another,,374.06,572.53,102.72,165.86,271.34000000000003,406.66999999999996,63.140000000000015,false
-1991,WI,Living independently with an ineligible spouse,,561.08,0,154.08,0,407,0,-154.08,false
-1991,WI,Living in household of another with ineligible spouse,,425.42,0,154.08,0,271.34000000000003,0,-154.08,false
-1991,WI,Private nonmedical group home or natural residential settings,,610.16,1129.02,203.16,519.02,407,610,315.86,false
-1991,WI,Living independently with an essential person,(nonspouse),713.72,979.86,102.72,165.86,611,814,63.140000000000015,false
-1991,WI,Living in household of another with an essential person,(nonspouse),510.06,708.54,102.72,165.86,407.34000000000003,542.68,63.140000000000015,false
-1991,WI,Living independently with an ineligible spouse who is an essential person,,765.08,0,154.08,0,611,0,-154.08,false
-1991,WI,Living in household of another with an ineligible spouse who is an essential person,,561.42,0,154.08,0,407.3399999999999,0,-154.08,false
-1992,WI,Living independently,,514.72,778.86,92.72,145.86,422,633,53.140000000000015,false
-1992,WI,Living in household of another,,374.06,567.86,92.72,145.86,281.34000000000003,422,53.140000000000015,false
-1992,WI,Living independently with an ineligible spouse,,566.08,0,144.08,0,422,0,-144.08,false
-1992,WI,Living in household of another with ineligible spouse,,425.42,0,144.08,0,281.34000000000003,0,-144.08,false
-1992,WI,Private nonmedical group home or natural residential settings,,615.16,1132.02,193.16,499.02,422,633,305.86,false
-1992,WI,Living independently with an essential person,(nonspouse),725.72,989.86,92.72,145.86,633,844,53.140000000000015,false
-1992,WI,Living in household of another with an essential person,(nonspouse),514.72,708.53,92.72,145.86,422,562.67,53.140000000000015,false
-1992,WI,Living independently with an ineligible spouse who is an essential person,,777.08,0,144.08,0,633,0,-144.08,false
-1992,WI,Living in household of another with an ineligible spouse who is an essential person,,566.08,0,144.08,0,422,0,-144.08,false
-1994,WI,Living independently,,530.7,802.67,84.7,133.67,446.00000000000006,669,48.969999999999985,false
-1994,WI,Living in household of another,,382.04,579.67,84.7,133.67,297.34000000000003,446,48.969999999999985,false
-1994,WI,Living independently with an ineligible spouse,,578.03,0,132.03,0,446,0,-132.03,false
-1994,WI,Living in household of another with ineligible spouse,,434.04,0,136.7,0,297.34000000000003,0,-136.7,false
-1994,WI,Private nonmedical group home or natural residential settings,,627.97,1152.26,181.97,483.26,446,669,301.28999999999996,false
-1994,WI,Living independently with an essential person,(nonspouse),753.7,1025.67,84.7,133.67,669,892.0000000000001,48.969999999999985,false
-1994,WI,Living in household of another with an essential person,(nonspouse),530.7,728.34,84.7,133.67,446.00000000000006,594.6700000000001,48.969999999999985,false
-1994,WI,Living independently with an ineligible spouse who is an essential person,,801.03,0,132.03,0,669,0,-132.03,false
-1994,WI,Living in household of another with an ineligible spouse who is an essential person,,582.7,0,136.7,0,446.00000000000006,0,-136.7,false
-1995,WI,Living independently,,541.78,819.05,83.78,132.05,458,687,48.27000000000001,false
-1995,WI,Living in household of another,,389.12,590.05,83.78,132.05,305.34000000000003,457.99999999999994,48.27000000000001,false
-1995,WI,Living independently with an ineligible spouse,,588.43,0,130.43,0,457.99999999999994,0,-130.43,false
-1995,WI,Living in household of another with ineligible spouse,,440.39,0,135.05,0,305.34,0,-135.05,false
-1995,WI,Private nonmedical group home or natural residential settings,,637.77,1164.41,179.77,477.41,458,687,297.64,false
-1995,WI,Living independently with an essential person,(nonspouse),770.78,1048.05,83.78,132.05,687,916,48.27000000000001,false
-1995,WI,Living in household of another with an essential person,(nonspouse),541.78,742.72,83.78,132.05,458,610.6700000000001,48.27000000000001,false
-1995,WI,Living independently with an ineligible spouse who is an essential person,,817.43,0,130.43,0,687,0,-130.43,false
-1995,WI,Living in household of another with an ineligible spouse who is an essential person,,593.05,0,135.05,0,457.99999999999994,0,-135.05,false
-1996,WI,Living independently,,553.78,837.05,83.78,132.05,470,705,48.27000000000001,false
-1996,WI,Living in household of another,,397.12,602.05,83.78,132.05,313.34000000000003,469.99999999999994,48.27000000000001,false
-1996,WI,Living independently with an ineligible spouse,,600.43,0,130.43,0,469.99999999999994,0,-130.43,false
-1996,WI,Living in household of another with ineligible spouse,,448.39,0,135.05,0,313.34,0,-135.05,false
-1996,WI,Private nonmedical group home or natural residential settings,,649.77,1182.41,179.77,477.41,470,705,297.64,false
-1996,WI,Living independently with an essential person,(nonspouse),788.78,1072.05,83.78,132.05,705,940,48.27000000000001,false
-1996,WI,Living in household of another with an essential person,(nonspouse),553.78,837.05,83.78,132.05,470,705,48.27000000000001,false
-1996,WI,Living independently with an ineligible spouse who is an essential person,,835.43,0,130.43,0,705,0,-130.43,false
-1996,WI,Living in household of another with an ineligible spouse who is an essential person,,605.05,0,135.05,0,469.99999999999994,0,-135.05,false
-1997,WI,Living independently,,567.78,858.05,83.78,132.05,484,726,48.27000000000001,false
-1997,WI,Living in household of another,,406.45,616.05,83.78,132.05,322.66999999999996,483.99999999999994,48.27000000000001,false
-1997,WI,Living independently with an ineligible spouse,,614.43,0,130.43,0,483.99999999999994,0,-130.43,false
-1997,WI,Living in household of another with ineligible spouse,,457.72,0,135.05,0,322.67,0,-135.05,false
-1997,WI,Private nonmedical group home or natural residential settings,,663.77,1203.41,179.77,477.41,484,726,297.64,false
-1997,WI,Living independently with an essential person,(nonspouse),809.78,1100.05,83.78,132.05,726,968,48.27000000000001,false
-1997,WI,Living in household of another with an essential person,(nonspouse),567.78,858.05,83.78,132.05,484,726,48.27000000000001,false
-1997,WI,Living independently with an ineligible spouse who is an essential person,,856.43,0,130.43,0,726,0,-130.43,false
-1997,WI,Living in household of another with an ineligible spouse who is an essential person,,619.05,0,135.05,0,483.99999999999994,0,-135.05,false
-1998,WI,Living independently,,577.78,873.05,83.78,132.05,494,741,48.27000000000001,false
-1998,WI,Living in household of another,,413.12,626.05,83.78,132.05,329.34000000000003,493.99999999999994,48.27000000000001,false
-1998,WI,Living independently with an ineligible spouse,,624.43,0,130.43,0,493.99999999999994,0,-130.43,false
-1998,WI,Living in household of another with ineligible spouse,,464.39,0,135.05,0,329.34,0,-135.05,false
-1998,WI,Private nonmedical group home or natural residential settings,,673.77,1218.41,179.77,477.41,494,741,297.64,false
-1998,WI,Living independently with an essential person,(nonspouse),824.78,1120.05,83.78,132.05,741,988,48.27000000000001,false
-1998,WI,Living in household of another with an essential person,(nonspouse),577.78,873.05,83.78,132.05,494,741,48.27000000000001,false
-1998,WI,Living independently with an ineligible spouse who is an essential person,,871.43,0,130.43,0,741,0,-130.43,false
-1998,WI,Living in household of another with an ineligible spouse who is an essential person,,629.05,0,135.05,0,493.99999999999994,0,-135.05,false
-1999,WI,Living independently,,583.78,883.05,83.78,132.05,500,751,48.27000000000001,false
-1999,WI,Living in household of another,,417.12,632.72,83.78,132.05,333.34000000000003,500.67,48.27000000000001,false
-1999,WI,Living independently with an ineligible spouse,,630.43,0,130.43,0,499.99999999999994,0,-130.43,false
-1999,WI,Living in household of another with ineligible spouse,,468.39,0,135.05,0,333.34,0,-135.05,false
-1999,WI,Private nonmedical group home or natural residential settings,,679.77,1228.41,179.77,477.41,500,751,297.64,false
-1999,WI,Living independently with an essential person,(nonspouse),833.78,1133.05,83.78,132.05,750,1001,48.27000000000001,false
-1999,WI,Living in household of another with an essential person,(nonspouse),583.78,799.39,83.78,132.05,500,667.3399999999999,48.27000000000001,false
-1999,WI,Living independently with an ineligible spouse who is an essential person,,880.43,0,130.43,0,750,0,-130.43,false
-1999,WI,Living in household of another with an ineligible spouse who is an essential person,,635.05,0,135.05,0,499.99999999999994,0,-135.05,false
-2000,WI,Living independently,,595.78,901.05,83.78,132.05,512,769,48.27000000000001,false
-2000,WI,Living in household of another,,425.12,644.72,83.78,132.05,341.34000000000003,512.6700000000001,48.27000000000001,false
-2000,WI,Living independently with an ineligible spouse,,642.43,0,130.43,0,511.99999999999994,0,-130.43,false
-2000,WI,Living in household of another with ineligible spouse,,476.39,0,135.05,0,341.34,0,-135.05,false
-2000,WI,Private nonmedical group home or natural residential settings,,691.77,1246.41,179.77,477.41,512,769,297.64,false
-2000,WI,Living independently with an essential person,(non-spouse),852.78,1158.05,83.78,132.05,769,1026,48.27000000000001,false
-2000,WI,Living in household of another with an essential person,(non-spouse),595.78,817.39,83.78,132.05,512,685.3399999999999,48.27000000000001,false
-2000,WI,Living independently with an ineligible spouse who is an essential person,,899.43,0,130.43,0,769,0,-130.43,false
-2000,WI,Living in household of another with an ineligible spouse who is an essential person,,647.05,0,135.05,0,511.99999999999994,0,-135.05,false
-2004,WI,Living independently,,647.78,978.05,83.78,132.05,564,846,48.27000000000001,false
-2004,WI,Living in household of another,,459.78,696.05,83.78,132.05,376,564,48.27000000000001,false
-2004,WI,Living independently with an ineligible spouse,,694.43,0,130.43,0,564,0,-130.43,false
-2004,WI,Living in household of another with ineligible spouse,,511.05,0,135.05,0,376,0,-135.05,false
-2004,WI,Private nonmedical group home or natural residential settings,,743.77,1323.41,179.77,477.41,564,846,297.64,false
-2005,WI,Living independently,,662.78,1001.05,83.78,132.05,579,869,48.27000000000001,false
-2005,WI,Living in household of another,,469.78,711.39,83.78,132.05,386,579.3399999999999,48.27000000000001,false
-2005,WI,Living independently with an ineligible spouse,,709.43,0,130.43,0,579,0,-130.43,false
-2005,WI,Living in household of another with ineligible spouse,,521.05,0,135.05,0,385.99999999999994,0,-135.05,false
-2005,WI,Private nonmedical group home or natural residential settings,,758.77,1346.41,179.77,477.41,579,869,297.64,false
-2006,WI,Living independently,,686.78,1036.05,83.78,132.05,603,904,48.27000000000001,false
-2006,WI,Living in household of another,,485.78,734.72,83.78,132.05,402,602.6700000000001,48.27000000000001,false
-2006,WI,Living independently with an ineligible spouse,,733.43,0,130.43,0,603,0,-130.43,false
-2006,WI,Living in household of another with ineligible spouse,,537.05,0,135.05,0,401.99999999999994,0,-135.05,false
-2006,WI,Private nonmedical group home or natural residential settings,,782.77,1381.41,179.77,477.41,603,904,297.64,false
-2007,WI,Living independently,,706.78,1066.05,83.78,132.05,623,934,48.27000000000001,false
-2007,WI,Living in household of another,,499.12,754.72,83.78,132.05,415.34000000000003,622.6700000000001,48.27000000000001,false
-2007,WI,Living independently with an ineligible spouse,,753.43,0,130.43,0,623,0,-130.43,false
-2007,WI,Living in household of another with ineligible spouse,,550.39,0,135.05,0,415.34,0,-135.05,false
-2007,WI,Private nonmedical group home or natural residential settings,,802.77,1411.41,179.77,477.41,623,934,297.64,false
-2008,WI,Living independently,,720.78,1088.05,83.78,132.05,637,956,48.27000000000001,false
-2008,WI,Living in household of another,,508.45,769.39,83.78,132.05,424.66999999999996,637.3399999999999,48.27000000000001,false
-2008,WI,Living independently with an ineligible spouse,,767.43,0,130.43,0,637,0,-130.43,false
-2008,WI,Living in household of another with ineligible spouse,,559.72,0,135.05,0,424.67,0,-135.05,false
-2008,WI,Private nonmedical group home or natural residential settings,,816.77,1433.41,179.77,477.41,637,956,297.64,false
-2011,WI,Living independently,,757.78,1143.05,83.78,132.05,674,1011,48.27000000000001,false
-2011,WI,Living in household of another,,533.12,806.05,83.78,132.05,449.34000000000003,674,48.27000000000001,false
-2011,WI,Living independently with an ineligible spouse,,804.43,0,130.43,0,674,0,-130.43,false
-2011,WI,Living in household of another with ineligible spouse,,584.39,0,135.05,0,449.34,0,-135.05,false
-2011,WI,Private nonmedical group home or natural residential settings,,853.77,1488.41,179.77,477.41,674,1011,297.64,false
+1990,WI,Living independently,,488.72,744.86,102.72,165.86,386.00,579.00,63.14,FALSE
+1990,WI,Living in household of another,,360.06,551.86,102.72,165.86,257.34,386.00,63.14,FALSE
+1990,WI,Living independently with an ineligible spouse,,540.08,0.00,154.08,0.00,386.00,0.00,-154.08,FALSE
+1990,WI,Living in household of another with ineligible spouse,,411.42,0.00,154.08,0.00,257.34,0.00,-154.08,FALSE
+1990,WI,Private nonmedical group home or supported living arrangements,,589.16,1098.02,203.16,519.02,386.00,579.00,315.86,FALSE
+1990,WI,Living independently with an essential person,(nonspouse),681.72,937.86,102.72,165.86,579.00,772.00,63.14,FALSE
+1990,WI,Living in household of another with an essential person,(nonspouse),488.72,680.53,102.72,165.86,386.00,514.67,63.14,FALSE
+1990,WI,Living independently with an ineligible spouse who is an essential person,,733.08,0.00,154.08,0.00,579.00,0.00,-154.08,FALSE
+1990,WI,Living in household of another with an ineligible spouse who is an essential person,,540.08,0.00,154.08,0.00,386.00,0.00,-154.08,FALSE
+1991,WI,Living independently,,509.72,775.86,102.72,165.86,407.00,610.00,63.14,FALSE
+1991,WI,Living in household of another,,374.06,572.53,102.72,165.86,271.34,406.67,63.14,FALSE
+1991,WI,Living independently with an ineligible spouse,,561.08,0.00,154.08,0.00,407.00,0.00,-154.08,FALSE
+1991,WI,Living in household of another with ineligible spouse,,425.42,0.00,154.08,0.00,271.34,0.00,-154.08,FALSE
+1991,WI,Private nonmedical group home or natural residential settings,,610.16,1129.02,203.16,519.02,407.00,610.00,315.86,FALSE
+1991,WI,Living independently with an essential person,(nonspouse),713.72,979.86,102.72,165.86,611.00,814.00,63.14,FALSE
+1991,WI,Living in household of another with an essential person,(nonspouse),510.06,708.54,102.72,165.86,407.34,542.68,63.14,FALSE
+1991,WI,Living independently with an ineligible spouse who is an essential person,,765.08,0.00,154.08,0.00,611.00,0.00,-154.08,FALSE
+1991,WI,Living in household of another with an ineligible spouse who is an essential person,,561.42,0.00,154.08,0.00,407.34,0.00,-154.08,FALSE
+1992,WI,Living independently,,514.72,778.86,92.72,145.86,422.00,633.00,53.14,FALSE
+1992,WI,Living in household of another,,374.06,567.86,92.72,145.86,281.34,422.00,53.14,FALSE
+1992,WI,Living independently with an ineligible spouse,,566.08,0.00,144.08,0.00,422.00,0.00,-144.08,FALSE
+1992,WI,Living in household of another with ineligible spouse,,425.42,0.00,144.08,0.00,281.34,0.00,-144.08,FALSE
+1992,WI,Private nonmedical group home or natural residential settings,,615.16,1132.02,193.16,499.02,422.00,633.00,305.86,FALSE
+1992,WI,Living independently with an essential person,(nonspouse),725.72,989.86,92.72,145.86,633.00,844.00,53.14,FALSE
+1992,WI,Living in household of another with an essential person,(nonspouse),514.72,708.53,92.72,145.86,422.00,562.67,53.14,FALSE
+1992,WI,Living independently with an ineligible spouse who is an essential person,,777.08,0.00,144.08,0.00,633.00,0.00,-144.08,FALSE
+1992,WI,Living in household of another with an ineligible spouse who is an essential person,,566.08,0.00,144.08,0.00,422.00,0.00,-144.08,FALSE
+1994,WI,Living independently,,530.70,802.67,84.70,133.67,446.00,669.00,48.97,FALSE
+1994,WI,Living in household of another,,382.04,579.67,84.70,133.67,297.34,446.00,48.97,FALSE
+1994,WI,Living independently with an ineligible spouse,,578.03,0.00,132.03,0.00,446.00,0.00,-132.03,FALSE
+1994,WI,Living in household of another with ineligible spouse,,434.04,0.00,136.70,0.00,297.34,0.00,-136.70,FALSE
+1994,WI,Private nonmedical group home or natural residential settings,,627.97,1152.26,181.97,483.26,446.00,669.00,301.29,FALSE
+1994,WI,Living independently with an essential person,(nonspouse),753.70,1025.67,84.70,133.67,669.00,892.00,48.97,FALSE
+1994,WI,Living in household of another with an essential person,(nonspouse),530.70,728.34,84.70,133.67,446.00,594.67,48.97,FALSE
+1994,WI,Living independently with an ineligible spouse who is an essential person,,801.03,0.00,132.03,0.00,669.00,0.00,-132.03,FALSE
+1994,WI,Living in household of another with an ineligible spouse who is an essential person,,582.70,0.00,136.70,0.00,446.00,0.00,-136.70,FALSE
+1995,WI,Living independently,,541.78,819.05,83.78,132.05,458.00,687.00,48.27,FALSE
+1995,WI,Living in household of another,,389.12,590.05,83.78,132.05,305.34,458.00,48.27,FALSE
+1995,WI,Living independently with an ineligible spouse,,588.43,0.00,130.43,0.00,458.00,0.00,-130.43,FALSE
+1995,WI,Living in household of another with ineligible spouse,,440.39,0.00,135.05,0.00,305.34,0.00,-135.05,FALSE
+1995,WI,Private nonmedical group home or natural residential settings,,637.77,1164.41,179.77,477.41,458.00,687.00,297.64,FALSE
+1995,WI,Living independently with an essential person,(nonspouse),770.78,1048.05,83.78,132.05,687.00,916.00,48.27,FALSE
+1995,WI,Living in household of another with an essential person,(nonspouse),541.78,742.72,83.78,132.05,458.00,610.67,48.27,FALSE
+1995,WI,Living independently with an ineligible spouse who is an essential person,,817.43,0.00,130.43,0.00,687.00,0.00,-130.43,FALSE
+1995,WI,Living in household of another with an ineligible spouse who is an essential person,,593.05,0.00,135.05,0.00,458.00,0.00,-135.05,FALSE
+1996,WI,Living independently,,553.78,837.05,83.78,132.05,470.00,705.00,48.27,FALSE
+1996,WI,Living in household of another,,397.12,602.05,83.78,132.05,313.34,470.00,48.27,FALSE
+1996,WI,Living independently with an ineligible spouse,,600.43,0.00,130.43,0.00,470.00,0.00,-130.43,FALSE
+1996,WI,Living in household of another with ineligible spouse,,448.39,0.00,135.05,0.00,313.34,0.00,-135.05,FALSE
+1996,WI,Private nonmedical group home or natural residential settings,,649.77,1182.41,179.77,477.41,470.00,705.00,297.64,FALSE
+1996,WI,Living independently with an essential person,(nonspouse),788.78,1072.05,83.78,132.05,705.00,940.00,48.27,FALSE
+1996,WI,Living in household of another with an essential person,(nonspouse),553.78,837.05,83.78,132.05,470.00,705.00,48.27,FALSE
+1996,WI,Living independently with an ineligible spouse who is an essential person,,835.43,0.00,130.43,0.00,705.00,0.00,-130.43,FALSE
+1996,WI,Living in household of another with an ineligible spouse who is an essential person,,605.05,0.00,135.05,0.00,470.00,0.00,-135.05,FALSE
+1997,WI,Living independently,,567.78,858.05,83.78,132.05,484.00,726.00,48.27,FALSE
+1997,WI,Living in household of another,,406.45,616.05,83.78,132.05,322.67,484.00,48.27,FALSE
+1997,WI,Living independently with an ineligible spouse,,614.43,0.00,130.43,0.00,484.00,0.00,-130.43,FALSE
+1997,WI,Living in household of another with ineligible spouse,,457.72,0.00,135.05,0.00,322.67,0.00,-135.05,FALSE
+1997,WI,Private nonmedical group home or natural residential settings,,663.77,1203.41,179.77,477.41,484.00,726.00,297.64,FALSE
+1997,WI,Living independently with an essential person,(nonspouse),809.78,1100.05,83.78,132.05,726.00,968.00,48.27,FALSE
+1997,WI,Living in household of another with an essential person,(nonspouse),567.78,858.05,83.78,132.05,484.00,726.00,48.27,FALSE
+1997,WI,Living independently with an ineligible spouse who is an essential person,,856.43,0.00,130.43,0.00,726.00,0.00,-130.43,FALSE
+1997,WI,Living in household of another with an ineligible spouse who is an essential person,,619.05,0.00,135.05,0.00,484.00,0.00,-135.05,FALSE
+1998,WI,Living independently,,577.78,873.05,83.78,132.05,494.00,741.00,48.27,FALSE
+1998,WI,Living in household of another,,413.12,626.05,83.78,132.05,329.34,494.00,48.27,FALSE
+1998,WI,Living independently with an ineligible spouse,,624.43,0.00,130.43,0.00,494.00,0.00,-130.43,FALSE
+1998,WI,Living in household of another with ineligible spouse,,464.39,0.00,135.05,0.00,329.34,0.00,-135.05,FALSE
+1998,WI,Private nonmedical group home or natural residential settings,,673.77,1218.41,179.77,477.41,494.00,741.00,297.64,FALSE
+1998,WI,Living independently with an essential person,(nonspouse),824.78,1120.05,83.78,132.05,741.00,988.00,48.27,FALSE
+1998,WI,Living in household of another with an essential person,(nonspouse),577.78,873.05,83.78,132.05,494.00,741.00,48.27,FALSE
+1998,WI,Living independently with an ineligible spouse who is an essential person,,871.43,0.00,130.43,0.00,741.00,0.00,-130.43,FALSE
+1998,WI,Living in household of another with an ineligible spouse who is an essential person,,629.05,0.00,135.05,0.00,494.00,0.00,-135.05,FALSE
+1999,WI,Living independently,,583.78,883.05,83.78,132.05,500.00,751.00,48.27,FALSE
+1999,WI,Living in household of another,,417.12,632.72,83.78,132.05,333.34,500.67,48.27,FALSE
+1999,WI,Living independently with an ineligible spouse,,630.43,0.00,130.43,0.00,500.00,0.00,-130.43,FALSE
+1999,WI,Living in household of another with ineligible spouse,,468.39,0.00,135.05,0.00,333.34,0.00,-135.05,FALSE
+1999,WI,Private nonmedical group home or natural residential settings,,679.77,1228.41,179.77,477.41,500.00,751.00,297.64,FALSE
+1999,WI,Living independently with an essential person,(nonspouse),833.78,1133.05,83.78,132.05,750.00,1001.00,48.27,FALSE
+1999,WI,Living in household of another with an essential person,(nonspouse),583.78,799.39,83.78,132.05,500.00,667.34,48.27,FALSE
+1999,WI,Living independently with an ineligible spouse who is an essential person,,880.43,0.00,130.43,0.00,750.00,0.00,-130.43,FALSE
+1999,WI,Living in household of another with an ineligible spouse who is an essential person,,635.05,0.00,135.05,0.00,500.00,0.00,-135.05,FALSE
+2000,WI,Living independently,,595.78,901.05,83.78,132.05,512.00,769.00,48.27,FALSE
+2000,WI,Living in household of another,,425.12,644.72,83.78,132.05,341.34,512.67,48.27,FALSE
+2000,WI,Living independently with an ineligible spouse,,642.43,0.00,130.43,0.00,512.00,0.00,-130.43,FALSE
+2000,WI,Living in household of another with ineligible spouse,,476.39,0.00,135.05,0.00,341.34,0.00,-135.05,FALSE
+2000,WI,Private nonmedical group home or natural residential settings,,691.77,1246.41,179.77,477.41,512.00,769.00,297.64,FALSE
+2000,WI,Living independently with an essential person,(non-spouse),852.78,1158.05,83.78,132.05,769.00,1026.00,48.27,FALSE
+2000,WI,Living in household of another with an essential person,(non-spouse),595.78,817.39,83.78,132.05,512.00,685.34,48.27,FALSE
+2000,WI,Living independently with an ineligible spouse who is an essential person,,899.43,0.00,130.43,0.00,769.00,0.00,-130.43,FALSE
+2000,WI,Living in household of another with an ineligible spouse who is an essential person,,647.05,0.00,135.05,0.00,512.00,0.00,-135.05,FALSE
+2004,WI,Living independently,,647.78,978.05,83.78,132.05,564.00,846.00,48.27,FALSE
+2004,WI,Living in household of another,,459.78,696.05,83.78,132.05,376.00,564.00,48.27,FALSE
+2004,WI,Living independently with an ineligible spouse,,694.43,0.00,130.43,0.00,564.00,0.00,-130.43,FALSE
+2004,WI,Living in household of another with ineligible spouse,,511.05,0.00,135.05,0.00,376.00,0.00,-135.05,FALSE
+2004,WI,Private nonmedical group home or natural residential settings,,743.77,1323.41,179.77,477.41,564.00,846.00,297.64,FALSE
+2005,WI,Living independently,,662.78,1001.05,83.78,132.05,579.00,869.00,48.27,FALSE
+2005,WI,Living in household of another,,469.78,711.39,83.78,132.05,386.00,579.34,48.27,FALSE
+2005,WI,Living independently with an ineligible spouse,,709.43,0.00,130.43,0.00,579.00,0.00,-130.43,FALSE
+2005,WI,Living in household of another with ineligible spouse,,521.05,0.00,135.05,0.00,386.00,0.00,-135.05,FALSE
+2005,WI,Private nonmedical group home or natural residential settings,,758.77,1346.41,179.77,477.41,579.00,869.00,297.64,FALSE
+2006,WI,Living independently,,686.78,1036.05,83.78,132.05,603.00,904.00,48.27,FALSE
+2006,WI,Living in household of another,,485.78,734.72,83.78,132.05,402.00,602.67,48.27,FALSE
+2006,WI,Living independently with an ineligible spouse,,733.43,0.00,130.43,0.00,603.00,0.00,-130.43,FALSE
+2006,WI,Living in household of another with ineligible spouse,,537.05,0.00,135.05,0.00,402.00,0.00,-135.05,FALSE
+2006,WI,Private nonmedical group home or natural residential settings,,782.77,1381.41,179.77,477.41,603.00,904.00,297.64,FALSE
+2007,WI,Living independently,,706.78,1066.05,83.78,132.05,623.00,934.00,48.27,FALSE
+2007,WI,Living in household of another,,499.12,754.72,83.78,132.05,415.34,622.67,48.27,FALSE
+2007,WI,Living independently with an ineligible spouse,,753.43,0.00,130.43,0.00,623.00,0.00,-130.43,FALSE
+2007,WI,Living in household of another with ineligible spouse,,550.39,0.00,135.05,0.00,415.34,0.00,-135.05,FALSE
+2007,WI,Private nonmedical group home or natural residential settings,,802.77,1411.41,179.77,477.41,623.00,934.00,297.64,FALSE
+2008,WI,Living independently,,720.78,1088.05,83.78,132.05,637.00,956.00,48.27,FALSE
+2008,WI,Living in household of another,,508.45,769.39,83.78,132.05,424.67,637.34,48.27,FALSE
+2008,WI,Living independently with an ineligible spouse,,767.43,0.00,130.43,0.00,637.00,0.00,-130.43,FALSE
+2008,WI,Living in household of another with ineligible spouse,,559.72,0.00,135.05,0.00,424.67,0.00,-135.05,FALSE
+2008,WI,Private nonmedical group home or natural residential settings,,816.77,1433.41,179.77,477.41,637.00,956.00,297.64,FALSE
+2011,WI,Living independently,,757.78,1143.05,83.78,132.05,674.00,1011.00,48.27,FALSE
+2011,WI,Living in household of another,,533.12,806.05,83.78,132.05,449.34,674.00,48.27,FALSE
+2011,WI,Living independently with an ineligible spouse,,804.43,0.00,130.43,0.00,674.00,0.00,-130.43,FALSE
+2011,WI,Living in household of another with ineligible spouse,,584.39,0.00,135.05,0.00,449.34,0.00,-135.05,FALSE
+2011,WI,Private nonmedical group home or natural residential settings,,853.77,1488.41,179.77,477.41,674.00,1011.00,297.64,FALSE

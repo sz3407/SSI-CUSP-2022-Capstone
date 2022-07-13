@@ -1,163 +1,163 @@
 year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
-1990,CA,Independent living with cooking facilities,Aged and disabled,630,1167,244,588,386,579,344,false
-1990,CA,Independent living with cooking facilities,Blind,704,1372,318,793,386,579,475,false
-1990,CA,Nonmedical out-of-home care,,709,1418,323,839,386,579,516,false
-1990,CA,Independent living without cooking facilities,Aged and disabled,698,1303,312,724,386,579,412,false
-1990,CA,Living in household of another,Aged and disabled,501.34,974,244,588,257.34,386,344,false
-1990,CA,Living in household of another,Blind,575.34,1179,318,793,257.34000000000003,386,475,false
-1990,CA,Disabled minor in home of parent/guardian/relative,,499,0,113,0,386,0,-113,false
-1990,CA,Nonmedical out-of-home careliving in household of another,,580.34,1225,323,839,257.34000000000003,386,516,false
-1990,CA,Disabled minor in the household of another,,370.34,0,113,0,257.34,0,-113,false
-1990,CA,Medicaid facility,,42,84,12,24,30,60,12,true
-1991,CA,Independent living with cooking facilities,Aged and disabled,630,1167,223,557,407,610,334,false
-1991,CA,Independent living with cooking facilities,Blind,704,1372,297,762,407,610,465,false
-1991,CA,Nonmedical out-of-home care,,709,1418,302,808,407,610,506,false
-1991,CA,Independent living without cooking facilities,Aged and disabled,698,1303,291,693,407,610,402,false
-1991,CA,Living in household of another,Aged and disabled,501.34,974,230,567.33,271.34,406.66999999999996,337.33000000000004,false
-1991,CA,Living in household of another,Blind,575.34,1179,304,772.33,271.34000000000003,406.66999999999996,468.33000000000004,false
-1991,CA,Disabled minor in home of parent/guardian/relative,,499,0,92,0,407,0,-92,false
-1991,CA,Nonmedical out-of-home care living in household of another,,580.34,1225,309,818.33,271.34000000000003,406.66999999999996,509.33000000000004,false
-1991,CA,Disabled minor in the household of another,,370.34,0,99,0,271.34,0,-99,false
-1991,CA,Medicaid facility,,42,84,12,24,30,60,12,true
-1992,CA,Independent living with cooking facilities,Aged and disabled,645,1190,223,557,422,633,334,false
-1992,CA,Independent living with cooking facilities,Blind,719,1395,297,762,422,633,465,false
-1992,CA,Nonmedical out-of-home care,,724,1441,302,808,422,633,506,false
-1992,CA,Independent living without cooking facilities,Aged and disabled,713,1326,291,693,422,633,402,false
-1992,CA,Living in household of another,Aged and disabled,511.34,989.33,230,567.33,281.34,422,337.33000000000004,false
-1992,CA,Living in household of another,Blind,585.34,1194.33,304,772.33,281.34000000000003,421.9999999999999,468.33000000000004,false
-1992,CA,Disabled minor in home of parent/guardian/relative,,514,0,92,0,422,0,-92,false
-1992,CA,Nonmedical out-of-home care living in household of another,,590.34,1240.33,309,818.33,281.34000000000003,421.9999999999999,509.33000000000004,false
-1992,CA,Disabled minor in the household of another,,380.34,0,99,0,281.34,0,-99,false
-1992,CA,Medicaid facility,,42,84,12,24,30,60,12,true
-1994,CA,Independent living with cooking facilities,Aged and disabled,603.4,1109.22,157.4,440.22,446,669,282.82000000000005,false
-1994,CA,Independent living with cooking facilities,Blind,670.4,1297.01,224.4,628.01,446,669,403.61,false
-1994,CA,Nonmedical out-of-home care,,748,1477,302,808,446,669,506,false
-1994,CA,Independent living without cooking facilities,Aged and disabled,671.4,1245.22,225.4,576.22,446,669,350.82000000000005,false
-1994,CA,Living in household of another,Aged and disabled,476.77,919.82,179.43,473.82,297.34,446.00000000000006,294.39,false
-1994,CA,Living in household of another,Blind,543.91,1106.61,246.57,660.61,297.34,445.9999999999999,414.04,false
-1994,CA,Disabled minor in home of parent,,509.4,0,63.4,0,446,0,-63.4,false
-1994,CA,Nonmedical out-of-home care living in household of another,,606.34,1264.33,309,818.33,297.34000000000003,445.9999999999999,509.33000000000004,false
-1994,CA,Disabled minor in the household of another,,364.17,0,66.83,0,297.34000000000003,0,-66.83,false
-1994,CA,Medicaid facility,,42,84,12,24,30,60,12,true
-1995,CA,Independent living with cooking facilities,Aged and disabled,614.4,1101.71,156.4,414.71,458,687,258.30999999999995,false
-1995,CA,Independent living with cooking facilities,Blind,669.4,1285.18,211.4,598.18,458,687.0000000000001,386.78,false
-1995,CA,Nonmedical out-of-home care,,760,1520,302,833,458,687,531,false
-1995,CA,Independent living without cooking facilities,Aged and disabled,682.4,1237.71,224.4,550.71,458,687,326.31000000000006,false
-1995,CA,Living in household of another,Aged and disabled,473.8,910.02,168.46,452.02,305.34000000000003,458,283.55999999999995,false
-1995,CA,Living in household of another,Blind,539.4,1093.49,234.06,635.49,305.34,458,401.43,false
-1995,CA,Disabled minor in home of parent,,521.4,0,63.4,0,458,0,-63.4,false
-1995,CA,Nonmedical out-of-home care living in household of another,,614.34,1276.33,309,818.33,305.34000000000003,457.9999999999999,509.33000000000004,false
-1995,CA,Disabled minor in the household of another,,372.17,0,66.83,0,305.34000000000003,0,-66.83,false
-1995,CA,Medicaid facility,,42,84,12,24,30,60,12,true
-1996,CA,Independent living with cooking facilities,Aged and disabled,626.4,1101.2,156.4,396.2,470,705,239.79999999999998,false
-1996,CA,Independent living with cooking facilities,Blind,681.4,1248.2,211.4,543.2,470,705,331.80000000000007,false
-1996,CA,Nonmedical out-of-home care,,772,1544,302,839,470,705,537,false
-1996,CA,Independent living without cooking facilities,Aged and disabled,694.4,681.4,1237.2,1237.2,-542.8000000000001,-555.8000000000001,0,false
-1996,CA,Independent living without cooking facilities,Blind,224.4,532.2,473.17,877.43,-248.77,-345.2299999999999,404.25999999999993,false
-1996,CA,Living in household of another,Aged and disabled,211.4,532.2,528.17,1051.91,-316.77,-519.71,523.7400000000001,false
-1996,CA,Living in household of another,Blind,159.83,214.83,407.43,581.91,-247.6,-367.0799999999999,174.47999999999996,false
-1996,CA,Disabled minor in home of parent,,533.4,0,63.4,0,470,0,-63.4,false
-1996,CA,Nonmedical out-of-home care living in household of another,,622.34,1288.33,309,818.33,313.34000000000003,469.9999999999999,509.33000000000004,false
-1996,CA,Disabled minor in the household of another,,380.17,0,66.83,0,313.34000000000003,0,-66.83,false
-1996,CA,Medicaid facility,,42,84,12,24,30,60,12,true
-1997,CA,Independent living with cooking facilities,Aged and disabled,640.4,1122.2,156.4,396.2,484,726,239.79999999999998,false
-1997,CA,Independent living with cooking facilities,Blind,695.4,1269.2,211.4,543.2,484,726,331.80000000000007,false
-1997,CA,Nonmedical out-of-home care,,786,1572,302,846,484,726,544,false
-1997,CA,Independent living without cooking facilities,Aged and disabled,708.4,1258.2,224.4,532.2,484,726,307.80000000000007,false
-1997,CA,Living in household of another,Aged and disabled,482.5,891.43,159.83,407.43,322.66999999999996,483.99999999999994,247.6,false
-1997,CA,Living in household of another,Blind,537.5,1065.91,214.83,581.91,322.66999999999996,484.0000000000001,367.0799999999999,false
-1997,CA,Disabled minor in home of parent,,547.4,0,63.4,0,484,0,-63.4,false
-1997,CA,Nonmedical out-of-home careliving in household of another,,631.67,1302.33,309,818.33,322.66999999999996,483.9999999999999,509.33000000000004,false
-1997,CA,Disabled minor in the household of another,,389.5,0,66.83,0,322.67,0,-66.83,false
-1997,CA,Medicaid facility,,42,84,12,24,30,60,12,true
-1998,CA,Independent living with cooking facilities,Aged and disabled,650.4,1155.71,156.4,414.71,494,741,258.30999999999995,false
-1998,CA,Independent living with cooking facilities,Blind,705.4,1339.18,211.4,598.18,494,741.0000000000001,386.78,false
-1998,CA,Nonmedical out-of-home care,,796,1592,302,851,494,741,549,false
-1998,CA,Independent living without cooking facilities,Aged and disabled,718.4,1291.71,224.4,550.71,494,741,326.31000000000006,false
-1998,CA,Living in household of another,Aged and disabled,497.8,946.02,168.46,452.02,329.34000000000003,494,283.55999999999995,false
-1998,CA,Living in household of another,Blind,563.4,1129.49,234.06,635.49,329.34,494,401.43,false
-1998,CA,Disabled minor in home of parent,,557.4,0,63.4,0,494,0,-63.4,false
-1998,CA,Nonmedical out-of-home careliving in household of another,,638.34,1312.33,309,818.33,329.34000000000003,493.9999999999999,509.33000000000004,false
-1998,CA,Disabled minor in the household of another,,396.17,0,66.83,0,329.34000000000003,0,-66.83,false
-1998,CA,Medicaid facility,,42,84,12,24,30,60,12,true
-1999,CA,Independent living with cooking facilities,Aged and disabled,676,1201,176,450,500,751,274,false
-1999,CA,Independent living with cooking facilities,Blind,732,1391,232,640,500,751,408,false
-1999,CA,Nonmedical out-of-home care,,827,1654,327,903,500,751,576,false
-1999,CA,Independent living without cooking facilities,Aged and disabled,747,1343,247,592,500,751,345,false
-1999,CA,Living in household,Aged and disabled,517,983,183.66,482.33,333.34000000000003,500.67,298.66999999999996,false
-1999,CA,Living in household,Blind,585,1174,251.66,673.33,333.34000000000003,500.66999999999996,421.6700000000001,false
-1999,CA,Disabled minor in home of parent guardian or relative by marriage,,579,0,79,0,500,0,-79,false
-1999,CA,Nonmedical out-of-home care living in household of another,,663,1364,329.66,863.33,333.34,500.66999999999996,533.6700000000001,false
-1999,CA,Disabled minor in the household another of,,411,0,77.66,0,333.34000000000003,0,-77.66,false
-1999,CA,Medicaid facility,,43,86,13,26,30,60,13,true
-2000,CA,Independent living with cooking facilities,Aged and disabled,692,1229,180,460,512,769,280,false
-2000,CA,Independent living with cooking facilities,Blind,749,1424,237,655,512,769,418,false
-2000,CA,Nonmedical out-of-home care,,847,1694,335,925,512,769,590,false
-2000,CA,Independent living without cooking facilities,Aged and disabled,765,1375,253,606,512,769,353,false
-2000,CA,Independent living without cooking facilities,Blind,749,1424,237,655,512,769,418,false
-2000,CA,Living in household of another,Aged and disabled,529,1006,187.66,493.33,341.34000000000003,512.6700000000001,305.66999999999996,false
-2000,CA,Living in household of another,Blind,599,1202,257.66,689.33,341.34,512.67,431.67,false
-2000,CA,Disabled minor in home of parent/guardian/relative by marriage,,593,0,81,0,512,0,-81,false
-2000,CA,Nonmedical out-of-home care living in household of another,,679,1396,337.66,883.33,341.34,512.67,545.6700000000001,false
-2000,CA,Disabled minor in the household of another,,421,0,79.66,0,341.34000000000003,0,-79.66,false
-2000,CA,Medicaid facility,,44,8,14,28,30,-20,14,true
-2004,CA,Independent living with cooking facilities,Aged and disabled,790,1399,226,553,564,846,327,false
-2004,CA,Independent living with cooking facilities,Blind,854,1619,290,773,564,846,483,false
-2004,CA,Nonmedical out-of-home care,,964,1928,400,1082,564,846,682,false
-2004,CA,Independent living without cooking facilities,Aged and disabled,872,1563,308,717,564,846,409,false
-2004,CA,Living in household of another,Aged and disabled,603,1143.33,227,579.33,376,563.9999999999999,352.33000000000004,false
-2004,CA,Living in household of another,Blind,682,1364.33,306,800.33,376,563.9999999999999,494.33000000000004,false
-2004,CA,Disabled minor in home of parent/guardian/relative by marriage,,679,0,115,0,564,0,-115,false
-2004,CA,Nonmedical out-of-home care living in household of another,,772,1581.33,396,1017.33,376,563.9999999999999,621.33,false
-2004,CA,Disabled minor in the household of another,,481,0,105,0,376,0,-105,false
-2004,CA,Medicaid facility,,49,98,19,38,30,60,19,true
-2005,CA,Independent living with cooking facilities,Aged and disabled,805,1422,226,553,579,869,327,false
-2005,CA,Independent living with cooking facilities,Blind,869,1642,290,773,579,869,483,false
-2005,CA,Nonmedical out-of-home care,,979,1958,400,1089,579,869,689,false
-2005,CA,Independent living without cooking facilities,Aged and disabled,887,1586,308,717,579,869,409,false
-2005,CA,Living in household of another,Aged and disabled,613,1158.67,227,579.33,386,579.34,352.33000000000004,false
-2005,CA,Living in household of another,Blind,692,1379.67,306,800.33,386,579.34,494.33000000000004,false
-2005,CA,Disabled minor in home of parent/guardian/relative by marriage,,694,0,115,0,579,0,-115,false
-2005,CA,Nonmedical out-of-home care living in household of another,,782,1596.67,396,1017.33,386,579.34,621.33,false
-2005,CA,Disabled minor in the household of another,,491,0,105,0,386,0,-105,false
-2005,CA,Medicaid facility,,49,98,19,38,30,60,19,true
-2006,CA,Independent living with cooking facilities,Aged and disabled,812,1437,209,533,603,904,324,false
-2006,CA,Independent living with cooking facilities,Blind,877,1664,274,760,603,904,486,false
-2006,CA,Nonmedical out-of-home care,,1015,2030,412,1126,603,904,714,false
-2006,CA,Independent living without cooking facilities,Aged and disabled,896,1605,293,701,603,904,408,false
-2006,CA,Living in household of another,Aged and disabled,620,1175,218,572.33,402,602.67,354.33000000000004,false
-2006,CA,Living in household of another,Blind,701,1402,299,799.33,402,602.67,500.33000000000004,false
-2006,CA,Disabled minor in home of parent/guardian/relative by marriage,,698,0,95,0,603,0,-95,false
-2006,CA,Nonmedical out-of-home care living in household of another,,809,1648.33,407,1045.66,402,602.6699999999998,638.6600000000001,false
-2006,CA,Disabled minor in the household of another,,494,0,92,0,402,0,-92,false
-2006,CA,Medicaid facility,,50,100,20,40,30,60,20,true
-2007,CA,Independent living with cooking facilities,Aged and disabled,856,1502,233,568,623,934,335,false
-2007,CA,Independent living with cooking facilities,Blind,921,1729,298,795,623,934,497,false
-2007,CA,Nonmedical out-of-home care,,1035,2070,412,1136,623,934,724,false
-2007,CA,Independent living without cooking facilities,Aged and disabled,940,1670,317,736,623,934,419,false
-2007,CA,Living in household of another,Aged and disabled,649.34,1218.33,234,595.66,415.34000000000003,622.67,361.65999999999997,false
-2007,CA,Living in household of another,Blind,730.34,1445.33,315,822.66,415.34000000000003,622.67,507.65999999999997,false
-2007,CA,Disabled minor in home of parent/guardian/relative by marriage,,742,0,119,0,623,0,-119,false
-2007,CA,Nonmedical out-of-home care living in household of another,,822.34,1668.33,407,1045.66,415.34000000000003,622.6699999999998,638.6600000000001,false
-2007,CA,Disabled minor in the household of another,,523.34,0,108,0,415.34000000000003,0,-108,false
-2007,CA,Medicaid facility,,50,100,20,40,30,60,20,true
-2008,CA,Independent living with cooking facilities,Aged and disabled,870,1524,233,568,637,956,335,false
-2008,CA,Independent living with cooking facilities,Blind,935,1751,298,795,637,956,497,false
-2008,CA,Nonmedical out-of-home care,,1049,2098,412,1142,637,956,730,false
-2008,CA,Independent living without cooking facilities,Aged and disabled,954,1692,317,736,637,956,419,false
-2008,CA,Living in household of another,Aged and disabled,658.67,1233,234,595.66,424.66999999999996,637.34,361.65999999999997,false
-2008,CA,Living in household of another,Blind,739.67,1460,315,822.66,424.66999999999996,637.34,507.65999999999997,false
-2008,CA,Disabled minor in home of parent/guardian/relative by marriage,,756,0,119,0,637,0,-119,false
-2008,CA,Nonmedical out-of-home care living in household of another,,831.67,1683,407,1045.66,424.66999999999996,637.3399999999999,638.6600000000001,false
-2008,CA,Disabled minor in the household of another,,532.67,0,108,0,424.66999999999996,0,-108,false
-2008,CA,Medicaid facility,,50,100,20,40,30,60,20,true
-2011,CA,Independent living with cooking facilities,Aged and disabled,845,1407.2,171,396.2,674,1011,225.2,false
-2011,CA,Independent living with cooking facilities,Blind,908,1554.2,234,543.2,674,1011,309.20000000000005,false
-2011,CA,Nonmedical out-of-home care,,1086,2172,412,1161,674,1011,749,false
-2011,CA,Independent living without cooking facilities,Aged and disabled,929,1575.2,255,564.2,674,1011,309.20000000000005,false
-2011,CA,Living in household of another,Aged and disabled,639.66,1075.33,190.32,401.33,449.34,674,211.01,false
-2011,CA,Living in household of another,Blind,718.32,1222.33,268.98,548.33,449.34000000000003,673.9999999999999,279.35,false
-2011,CA,Disabled minor in home of parent/guardian/relative by marriage,,739,0,65,0,674,0,-65,false
-2011,CA,Nonmedical out-of-home care living in household of another,,856.34,1719.66,407,1045.66,449.34000000000003,674,638.6600000000001,false
-2011,CA,Disabled minor in the household of another,,517.3,0,67.96,0,449.34,0,-67.96,false
-2011,CA,Medicaid facility,,50,100,20,40,30,60,20,true
+1990,CA,Independent living with cooking facilities,Aged and disabled,630.00,1167.00,244.00,588.00,386.00,579.00,344.00,FALSE
+1990,CA,Independent living with cooking facilities,Blind,704.00,1372.00,318.00,793.00,386.00,579.00,475.00,FALSE
+1990,CA,Nonmedical out-of-home care,,709.00,1418.00,323.00,839.00,386.00,579.00,516.00,FALSE
+1990,CA,Independent living without cooking facilities,Aged and disabled,698.00,1303.00,312.00,724.00,386.00,579.00,412.00,FALSE
+1990,CA,Living in household of another,Aged and disabled,501.34,974.00,244.00,588.00,257.34,386.00,344.00,FALSE
+1990,CA,Living in household of another,Blind,575.34,1179.00,318.00,793.00,257.34,386.00,475.00,FALSE
+1990,CA,Disabled minor in home of parent/guardian/relative,,499.00,0.00,113.00,0.00,386.00,0.00,-113.00,FALSE
+1990,CA,Nonmedical out-of-home careliving in household of another,,580.34,1225.00,323.00,839.00,257.34,386.00,516.00,FALSE
+1990,CA,Disabled minor in the household of another,,370.34,0.00,113.00,0.00,257.34,0.00,-113.00,FALSE
+1990,CA,Medicaid facility,,42.00,84.00,12.00,24.00,30.00,60.00,12.00,TRUE
+1991,CA,Independent living with cooking facilities,Aged and disabled,630.00,1167.00,223.00,557.00,407.00,610.00,334.00,FALSE
+1991,CA,Independent living with cooking facilities,Blind,704.00,1372.00,297.00,762.00,407.00,610.00,465.00,FALSE
+1991,CA,Nonmedical out-of-home care,,709.00,1418.00,302.00,808.00,407.00,610.00,506.00,FALSE
+1991,CA,Independent living without cooking facilities,Aged and disabled,698.00,1303.00,291.00,693.00,407.00,610.00,402.00,FALSE
+1991,CA,Living in household of another,Aged and disabled,501.34,974.00,230.00,567.33,271.34,406.67,337.33,FALSE
+1991,CA,Living in household of another,Blind,575.34,1179.00,304.00,772.33,271.34,406.67,468.33,FALSE
+1991,CA,Disabled minor in home of parent/guardian/relative,,499.00,0.00,92.00,0.00,407.00,0.00,-92.00,FALSE
+1991,CA,Nonmedical out-of-home care living in household of another,,580.34,1225.00,309.00,818.33,271.34,406.67,509.33,FALSE
+1991,CA,Disabled minor in the household of another,,370.34,0.00,99.00,0.00,271.34,0.00,-99.00,FALSE
+1991,CA,Medicaid facility,,42.00,84.00,12.00,24.00,30.00,60.00,12.00,TRUE
+1992,CA,Independent living with cooking facilities,Aged and disabled,645.00,1190.00,223.00,557.00,422.00,633.00,334.00,FALSE
+1992,CA,Independent living with cooking facilities,Blind,719.00,1395.00,297.00,762.00,422.00,633.00,465.00,FALSE
+1992,CA,Nonmedical out-of-home care,,724.00,1441.00,302.00,808.00,422.00,633.00,506.00,FALSE
+1992,CA,Independent living without cooking facilities,Aged and disabled,713.00,1326.00,291.00,693.00,422.00,633.00,402.00,FALSE
+1992,CA,Living in household of another,Aged and disabled,511.34,989.33,230.00,567.33,281.34,422.00,337.33,FALSE
+1992,CA,Living in household of another,Blind,585.34,1194.33,304.00,772.33,281.34,422.00,468.33,FALSE
+1992,CA,Disabled minor in home of parent/guardian/relative,,514.00,0.00,92.00,0.00,422.00,0.00,-92.00,FALSE
+1992,CA,Nonmedical out-of-home care living in household of another,,590.34,1240.33,309.00,818.33,281.34,422.00,509.33,FALSE
+1992,CA,Disabled minor in the household of another,,380.34,0.00,99.00,0.00,281.34,0.00,-99.00,FALSE
+1992,CA,Medicaid facility,,42.00,84.00,12.00,24.00,30.00,60.00,12.00,TRUE
+1994,CA,Independent living with cooking facilities,Aged and disabled,603.40,1109.22,157.40,440.22,446.00,669.00,282.82,FALSE
+1994,CA,Independent living with cooking facilities,Blind,670.40,1297.01,224.40,628.01,446.00,669.00,403.61,FALSE
+1994,CA,Nonmedical out-of-home care,,748.00,1477.00,302.00,808.00,446.00,669.00,506.00,FALSE
+1994,CA,Independent living without cooking facilities,Aged and disabled,671.40,1245.22,225.40,576.22,446.00,669.00,350.82,FALSE
+1994,CA,Living in household of another,Aged and disabled,476.77,919.82,179.43,473.82,297.34,446.00,294.39,FALSE
+1994,CA,Living in household of another,Blind,543.91,1106.61,246.57,660.61,297.34,446.00,414.04,FALSE
+1994,CA,Disabled minor in home of parent,,509.40,0.00,63.40,0.00,446.00,0.00,-63.40,FALSE
+1994,CA,Nonmedical out-of-home care living in household of another,,606.34,1264.33,309.00,818.33,297.34,446.00,509.33,FALSE
+1994,CA,Disabled minor in the household of another,,364.17,0.00,66.83,0.00,297.34,0.00,-66.83,FALSE
+1994,CA,Medicaid facility,,42.00,84.00,12.00,24.00,30.00,60.00,12.00,TRUE
+1995,CA,Independent living with cooking facilities,Aged and disabled,614.40,1101.71,156.40,414.71,458.00,687.00,258.31,FALSE
+1995,CA,Independent living with cooking facilities,Blind,669.40,1285.18,211.40,598.18,458.00,687.00,386.78,FALSE
+1995,CA,Nonmedical out-of-home care,,760.00,1520.00,302.00,833.00,458.00,687.00,531.00,FALSE
+1995,CA,Independent living without cooking facilities,Aged and disabled,682.40,1237.71,224.40,550.71,458.00,687.00,326.31,FALSE
+1995,CA,Living in household of another,Aged and disabled,473.80,910.02,168.46,452.02,305.34,458.00,283.56,FALSE
+1995,CA,Living in household of another,Blind,539.40,1093.49,234.06,635.49,305.34,458.00,401.43,FALSE
+1995,CA,Disabled minor in home of parent,,521.40,0.00,63.40,0.00,458.00,0.00,-63.40,FALSE
+1995,CA,Nonmedical out-of-home care living in household of another,,614.34,1276.33,309.00,818.33,305.34,458.00,509.33,FALSE
+1995,CA,Disabled minor in the household of another,,372.17,0.00,66.83,0.00,305.34,0.00,-66.83,FALSE
+1995,CA,Medicaid facility,,42.00,84.00,12.00,24.00,30.00,60.00,12.00,TRUE
+1996,CA,Independent living with cooking facilities,Aged and disabled,626.40,1101.20,156.40,396.20,470.00,705.00,239.80,FALSE
+1996,CA,Independent living with cooking facilities,Blind,681.40,1248.20,211.40,543.20,470.00,705.00,331.80,FALSE
+1996,CA,Nonmedical out-of-home care,,772.00,1544.00,302.00,839.00,470.00,705.00,537.00,FALSE
+1996,CA,Independent living without cooking facilities,Aged and disabled,694.40,681.40,1237.20,1237.20,-542.80,-555.80,0.00,FALSE
+1996,CA,Independent living without cooking facilities,Blind,224.40,532.20,473.17,877.43,-248.77,-345.23,404.26,FALSE
+1996,CA,Living in household of another,Aged and disabled,211.40,532.20,528.17,1051.91,-316.77,-519.71,523.74,FALSE
+1996,CA,Living in household of another,Blind,159.83,214.83,407.43,581.91,-247.60,-367.08,174.48,FALSE
+1996,CA,Disabled minor in home of parent,,533.40,0.00,63.40,0.00,470.00,0.00,-63.40,FALSE
+1996,CA,Nonmedical out-of-home care living in household of another,,622.34,1288.33,309.00,818.33,313.34,470.00,509.33,FALSE
+1996,CA,Disabled minor in the household of another,,380.17,0.00,66.83,0.00,313.34,0.00,-66.83,FALSE
+1996,CA,Medicaid facility,,42.00,84.00,12.00,24.00,30.00,60.00,12.00,TRUE
+1997,CA,Independent living with cooking facilities,Aged and disabled,640.40,1122.20,156.40,396.20,484.00,726.00,239.80,FALSE
+1997,CA,Independent living with cooking facilities,Blind,695.40,1269.20,211.40,543.20,484.00,726.00,331.80,FALSE
+1997,CA,Nonmedical out-of-home care,,786.00,1572.00,302.00,846.00,484.00,726.00,544.00,FALSE
+1997,CA,Independent living without cooking facilities,Aged and disabled,708.40,1258.20,224.40,532.20,484.00,726.00,307.80,FALSE
+1997,CA,Living in household of another,Aged and disabled,482.50,891.43,159.83,407.43,322.67,484.00,247.60,FALSE
+1997,CA,Living in household of another,Blind,537.50,1065.91,214.83,581.91,322.67,484.00,367.08,FALSE
+1997,CA,Disabled minor in home of parent,,547.40,0.00,63.40,0.00,484.00,0.00,-63.40,FALSE
+1997,CA,Nonmedical out-of-home careliving in household of another,,631.67,1302.33,309.00,818.33,322.67,484.00,509.33,FALSE
+1997,CA,Disabled minor in the household of another,,389.50,0.00,66.83,0.00,322.67,0.00,-66.83,FALSE
+1997,CA,Medicaid facility,,42.00,84.00,12.00,24.00,30.00,60.00,12.00,TRUE
+1998,CA,Independent living with cooking facilities,Aged and disabled,650.40,1155.71,156.40,414.71,494.00,741.00,258.31,FALSE
+1998,CA,Independent living with cooking facilities,Blind,705.40,1339.18,211.40,598.18,494.00,741.00,386.78,FALSE
+1998,CA,Nonmedical out-of-home care,,796.00,1592.00,302.00,851.00,494.00,741.00,549.00,FALSE
+1998,CA,Independent living without cooking facilities,Aged and disabled,718.40,1291.71,224.40,550.71,494.00,741.00,326.31,FALSE
+1998,CA,Living in household of another,Aged and disabled,497.80,946.02,168.46,452.02,329.34,494.00,283.56,FALSE
+1998,CA,Living in household of another,Blind,563.40,1129.49,234.06,635.49,329.34,494.00,401.43,FALSE
+1998,CA,Disabled minor in home of parent,,557.40,0.00,63.40,0.00,494.00,0.00,-63.40,FALSE
+1998,CA,Nonmedical out-of-home careliving in household of another,,638.34,1312.33,309.00,818.33,329.34,494.00,509.33,FALSE
+1998,CA,Disabled minor in the household of another,,396.17,0.00,66.83,0.00,329.34,0.00,-66.83,FALSE
+1998,CA,Medicaid facility,,42.00,84.00,12.00,24.00,30.00,60.00,12.00,TRUE
+1999,CA,Independent living with cooking facilities,Aged and disabled,676.00,1201.00,176.00,450.00,500.00,751.00,274.00,FALSE
+1999,CA,Independent living with cooking facilities,Blind,732.00,1391.00,232.00,640.00,500.00,751.00,408.00,FALSE
+1999,CA,Nonmedical out-of-home care,,827.00,1654.00,327.00,903.00,500.00,751.00,576.00,FALSE
+1999,CA,Independent living without cooking facilities,Aged and disabled,747.00,1343.00,247.00,592.00,500.00,751.00,345.00,FALSE
+1999,CA,Living in household,Aged and disabled,517.00,983.00,183.66,482.33,333.34,500.67,298.67,FALSE
+1999,CA,Living in household,Blind,585.00,1174.00,251.66,673.33,333.34,500.67,421.67,FALSE
+1999,CA,Disabled minor in home of parent guardian or relative by marriage,,579.00,0.00,79.00,0.00,500.00,0.00,-79.00,FALSE
+1999,CA,Nonmedical out-of-home care living in household of another,,663.00,1364.00,329.66,863.33,333.34,500.67,533.67,FALSE
+1999,CA,Disabled minor in the household another of,,411.00,0.00,77.66,0.00,333.34,0.00,-77.66,FALSE
+1999,CA,Medicaid facility,,43.00,86.00,13.00,26.00,30.00,60.00,13.00,TRUE
+2000,CA,Independent living with cooking facilities,Aged and disabled,692.00,1229.00,180.00,460.00,512.00,769.00,280.00,FALSE
+2000,CA,Independent living with cooking facilities,Blind,749.00,1424.00,237.00,655.00,512.00,769.00,418.00,FALSE
+2000,CA,Nonmedical out-of-home care,,847.00,1694.00,335.00,925.00,512.00,769.00,590.00,FALSE
+2000,CA,Independent living without cooking facilities,Aged and disabled,765.00,1375.00,253.00,606.00,512.00,769.00,353.00,FALSE
+2000,CA,Independent living without cooking facilities,Blind,749.00,1424.00,237.00,655.00,512.00,769.00,418.00,FALSE
+2000,CA,Living in household of another,Aged and disabled,529.00,1006.00,187.66,493.33,341.34,512.67,305.67,FALSE
+2000,CA,Living in household of another,Blind,599.00,1202.00,257.66,689.33,341.34,512.67,431.67,FALSE
+2000,CA,Disabled minor in home of parent/guardian/relative by marriage,,593.00,0.00,81.00,0.00,512.00,0.00,-81.00,FALSE
+2000,CA,Nonmedical out-of-home care living in household of another,,679.00,1396.00,337.66,883.33,341.34,512.67,545.67,FALSE
+2000,CA,Disabled minor in the household of another,,421.00,0.00,79.66,0.00,341.34,0.00,-79.66,FALSE
+2000,CA,Medicaid facility,,44.00,8.00,14.00,28.00,30.00,-20.00,14.00,TRUE
+2004,CA,Independent living with cooking facilities,Aged and disabled,790.00,1399.00,226.00,553.00,564.00,846.00,327.00,FALSE
+2004,CA,Independent living with cooking facilities,Blind,854.00,1619.00,290.00,773.00,564.00,846.00,483.00,FALSE
+2004,CA,Nonmedical out-of-home care,,964.00,1928.00,400.00,1082.00,564.00,846.00,682.00,FALSE
+2004,CA,Independent living without cooking facilities,Aged and disabled,872.00,1563.00,308.00,717.00,564.00,846.00,409.00,FALSE
+2004,CA,Living in household of another,Aged and disabled,603.00,1143.33,227.00,579.33,376.00,564.00,352.33,FALSE
+2004,CA,Living in household of another,Blind,682.00,1364.33,306.00,800.33,376.00,564.00,494.33,FALSE
+2004,CA,Disabled minor in home of parent/guardian/relative by marriage,,679.00,0.00,115.00,0.00,564.00,0.00,-115.00,FALSE
+2004,CA,Nonmedical out-of-home care living in household of another,,772.00,1581.33,396.00,1017.33,376.00,564.00,621.33,FALSE
+2004,CA,Disabled minor in the household of another,,481.00,0.00,105.00,0.00,376.00,0.00,-105.00,FALSE
+2004,CA,Medicaid facility,,49.00,98.00,19.00,38.00,30.00,60.00,19.00,TRUE
+2005,CA,Independent living with cooking facilities,Aged and disabled,805.00,1422.00,226.00,553.00,579.00,869.00,327.00,FALSE
+2005,CA,Independent living with cooking facilities,Blind,869.00,1642.00,290.00,773.00,579.00,869.00,483.00,FALSE
+2005,CA,Nonmedical out-of-home care,,979.00,1958.00,400.00,1089.00,579.00,869.00,689.00,FALSE
+2005,CA,Independent living without cooking facilities,Aged and disabled,887.00,1586.00,308.00,717.00,579.00,869.00,409.00,FALSE
+2005,CA,Living in household of another,Aged and disabled,613.00,1158.67,227.00,579.33,386.00,579.34,352.33,FALSE
+2005,CA,Living in household of another,Blind,692.00,1379.67,306.00,800.33,386.00,579.34,494.33,FALSE
+2005,CA,Disabled minor in home of parent/guardian/relative by marriage,,694.00,0.00,115.00,0.00,579.00,0.00,-115.00,FALSE
+2005,CA,Nonmedical out-of-home care living in household of another,,782.00,1596.67,396.00,1017.33,386.00,579.34,621.33,FALSE
+2005,CA,Disabled minor in the household of another,,491.00,0.00,105.00,0.00,386.00,0.00,-105.00,FALSE
+2005,CA,Medicaid facility,,49.00,98.00,19.00,38.00,30.00,60.00,19.00,TRUE
+2006,CA,Independent living with cooking facilities,Aged and disabled,812.00,1437.00,209.00,533.00,603.00,904.00,324.00,FALSE
+2006,CA,Independent living with cooking facilities,Blind,877.00,1664.00,274.00,760.00,603.00,904.00,486.00,FALSE
+2006,CA,Nonmedical out-of-home care,,1015.00,2030.00,412.00,1126.00,603.00,904.00,714.00,FALSE
+2006,CA,Independent living without cooking facilities,Aged and disabled,896.00,1605.00,293.00,701.00,603.00,904.00,408.00,FALSE
+2006,CA,Living in household of another,Aged and disabled,620.00,1175.00,218.00,572.33,402.00,602.67,354.33,FALSE
+2006,CA,Living in household of another,Blind,701.00,1402.00,299.00,799.33,402.00,602.67,500.33,FALSE
+2006,CA,Disabled minor in home of parent/guardian/relative by marriage,,698.00,0.00,95.00,0.00,603.00,0.00,-95.00,FALSE
+2006,CA,Nonmedical out-of-home care living in household of another,,809.00,1648.33,407.00,1045.66,402.00,602.67,638.66,FALSE
+2006,CA,Disabled minor in the household of another,,494.00,0.00,92.00,0.00,402.00,0.00,-92.00,FALSE
+2006,CA,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE
+2007,CA,Independent living with cooking facilities,Aged and disabled,856.00,1502.00,233.00,568.00,623.00,934.00,335.00,FALSE
+2007,CA,Independent living with cooking facilities,Blind,921.00,1729.00,298.00,795.00,623.00,934.00,497.00,FALSE
+2007,CA,Nonmedical out-of-home care,,1035.00,2070.00,412.00,1136.00,623.00,934.00,724.00,FALSE
+2007,CA,Independent living without cooking facilities,Aged and disabled,940.00,1670.00,317.00,736.00,623.00,934.00,419.00,FALSE
+2007,CA,Living in household of another,Aged and disabled,649.34,1218.33,234.00,595.66,415.34,622.67,361.66,FALSE
+2007,CA,Living in household of another,Blind,730.34,1445.33,315.00,822.66,415.34,622.67,507.66,FALSE
+2007,CA,Disabled minor in home of parent/guardian/relative by marriage,,742.00,0.00,119.00,0.00,623.00,0.00,-119.00,FALSE
+2007,CA,Nonmedical out-of-home care living in household of another,,822.34,1668.33,407.00,1045.66,415.34,622.67,638.66,FALSE
+2007,CA,Disabled minor in the household of another,,523.34,0.00,108.00,0.00,415.34,0.00,-108.00,FALSE
+2007,CA,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE
+2008,CA,Independent living with cooking facilities,Aged and disabled,870.00,1524.00,233.00,568.00,637.00,956.00,335.00,FALSE
+2008,CA,Independent living with cooking facilities,Blind,935.00,1751.00,298.00,795.00,637.00,956.00,497.00,FALSE
+2008,CA,Nonmedical out-of-home care,,1049.00,2098.00,412.00,1142.00,637.00,956.00,730.00,FALSE
+2008,CA,Independent living without cooking facilities,Aged and disabled,954.00,1692.00,317.00,736.00,637.00,956.00,419.00,FALSE
+2008,CA,Living in household of another,Aged and disabled,658.67,1233.00,234.00,595.66,424.67,637.34,361.66,FALSE
+2008,CA,Living in household of another,Blind,739.67,1460.00,315.00,822.66,424.67,637.34,507.66,FALSE
+2008,CA,Disabled minor in home of parent/guardian/relative by marriage,,756.00,0.00,119.00,0.00,637.00,0.00,-119.00,FALSE
+2008,CA,Nonmedical out-of-home care living in household of another,,831.67,1683.00,407.00,1045.66,424.67,637.34,638.66,FALSE
+2008,CA,Disabled minor in the household of another,,532.67,0.00,108.00,0.00,424.67,0.00,-108.00,FALSE
+2008,CA,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE
+2011,CA,Independent living with cooking facilities,Aged and disabled,845.00,1407.20,171.00,396.20,674.00,1011.00,225.20,FALSE
+2011,CA,Independent living with cooking facilities,Blind,908.00,1554.20,234.00,543.20,674.00,1011.00,309.20,FALSE
+2011,CA,Nonmedical out-of-home care,,1086.00,2172.00,412.00,1161.00,674.00,1011.00,749.00,FALSE
+2011,CA,Independent living without cooking facilities,Aged and disabled,929.00,1575.20,255.00,564.20,674.00,1011.00,309.20,FALSE
+2011,CA,Living in household of another,Aged and disabled,639.66,1075.33,190.32,401.33,449.34,674.00,211.01,FALSE
+2011,CA,Living in household of another,Blind,718.32,1222.33,268.98,548.33,449.34,674.00,279.35,FALSE
+2011,CA,Disabled minor in home of parent/guardian/relative by marriage,,739.00,0.00,65.00,0.00,674.00,0.00,-65.00,FALSE
+2011,CA,Nonmedical out-of-home care living in household of another,,856.34,1719.66,407.00,1045.66,449.34,674.00,638.66,FALSE
+2011,CA,Disabled minor in the household of another,,517.30,0.00,67.96,0.00,449.34,0.00,-67.96,FALSE
+2011,CA,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE

@@ -1,129 +1,129 @@
 year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
-1990,AL,Receiving IHC in a private home or a personal care,Level A,446,699,60,120,386,579,60,true
-1990,AL,Receiving IHC in a private home or a personal care,Level B,442,691,56,112,386,579,56,true
-1990,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,317.34,506,60,120,257.34,386,60,true
-1990,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,313.34,498,56,112,257.34,386,56,true
-1990,AL,Receiving specialized IHC in a private home or personal care home,,446,699,60,120,386,579,60,true
-1990,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,317.34,506,60,120,257.34,386,60,true
-1990,AL,Living in foster home with IHC or specialized IHC,,496,799,110,220,386,579,110,true
-1990,AL,Living in cerebral palsy treatment center,,582,971,196,392,386,579,196,true
-1991,AL,Receiving IHC in a private home or a personal care,Level A,467,730,60,120,407,610,60,true
-1991,AL,Receiving IHC in a private home or a personal care,Level B,463,722,56,112,407,610,56,true
-1991,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,331.34,526.67,60,120,271.34,406.66999999999996,60,true
-1991,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,327.34,518.67,56,112,271.34,406.66999999999996,56,true
-1991,AL,Receiving specialized IHC in a private home or personal care home,,467,730,60,120,407,610,60,true
-1991,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,331.34,526.67,60,120,271.34,406.66999999999996,60,true
-1991,AL,Living in foster home with IHC or specialized IHC,,517,830,110,220,407,610,110,true
-1991,AL,Living in cerebral palsy treatment center,,603,1002,196,392,407,610,196,true
-1992,AL,Receiving IHC in a private home or a personal care,Level A,482,753,60,120,422,633,60,true
-1992,AL,Receiving IHC in a private home or a personal care,Level B,478,745,56,112,422,633,56,true
-1992,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,341.34,542,60,120,281.34,422,60,true
-1992,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,337.34,534,56,112,281.34,422,56,true
-1992,AL,Receiving specialized IHC in a private home or personal care home,,482,753,60,120,422,633,60,true
-1992,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,341.34,542,60,120,281.34,422,60,true
-1992,AL,Living in foster home with IHC or specialized IHC,,532,853,110,220,422,633,110,true
-1992,AL,Living in cerebral palsy treatment center,,618,1025,196,392,422,633,196,true
-1994,AL,Receiving IHC in a private home or a personal care,Level A,506,789,60,120,446,669,60,true
-1994,AL,Receiving IHC in a private home or a personal care,Level B,502,781,56,112,446,669,56,true
-1994,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,357.34,566,60,120,297.34,446,60,true
-1994,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,353.34,558,56,112,297.34,446,56,true
-1994,AL,Receiving specialized IHC in a private home or personal care home,,506,789,60,120,446,669,60,true
-1994,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,357.34,566,60,120,297.34,446,60,true
-1994,AL,Living in foster home with IHC or specialized IHC,,556,889,110,220,446,669,110,true
-1994,AL,Living in cerebral palsy treatment center,,642,1061,196,392,446,669,196,true
-1995,AL,Receiving IHC in a private home or a personal care,Level A,518,807,60,120,458,687,60,true
-1995,AL,Receiving IHC in a private home or a personal care,Level B,514,799,56,112,458,687,56,true
-1995,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,365.34,578,60,120,305.34,458,60,true
-1995,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,361.34,570,56,112,305.34,458,56,true
-1995,AL,Receiving specialized IHC in a private home or personal care home,,518,807,60,120,458,687,60,true
-1995,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,365.34,578,60,120,305.34,458,60,true
-1995,AL,Living in foster home with IHC or specialized IHC,,568,907,110,220,458,687,110,true
-1995,AL,Living in cerebral palsy treatment center,,654,1079,196,392,458,687,196,true
-1996,AL,Receiving IHC in a private home or a personal care,Level A,530,825,60,120,470,705,60,true
-1996,AL,Receiving IHC in a private home or a personal care,Level B,526,817,56,112,470,705,56,true
-1996,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,373.34,590,60,120,313.34,470,60,true
-1996,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,369.34,582,56,112,313.34,470,56,true
-1996,AL,Receiving specialized IHC in a private home or personal care home,,530,825,60,120,470,705,60,true
-1996,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,373.34,590,60,120,313.34,470,60,true
-1996,AL,Living in foster home with IHC or specialized IHC,,580,925,110,220,470,705,110,true
-1996,AL,Living in cerebral palsy treatment center,,666,1097,196,392,470,705,196,true
-1997,AL,Receiving IHC in a private home or a personal care,Level A,544,846,60,120,484,726,60,true
-1997,AL,Receiving IHC in a private home or a personal care,Level B,540,838,56,112,484,726,56,true
-1997,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,382.67,604,60,120,322.67,484,60,true
-1997,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,378.67,596,56,112,322.67,484,56,true
-1997,AL,Receiving specialized IHC in a private home or personal care home,,544,846,60,120,484,726,60,true
-1997,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,382.67,604,60,120,322.67,484,60,true
-1997,AL,Living in foster home with IHC or specialized IHC,,594,946,110,220,484,726,110,true
-1997,AL,Living in cerebral palsy treatment center,,680,1118,196,392,484,726,196,true
-1998,AL,Receiving IHC in a private home or a personal care,Level A,554,861,60,120,494,741,60,true
-1998,AL,Receiving IHC in a private home or a personal care,Level B,550,853,56,112,494,741,56,true
-1998,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,389.34,614,60,120,329.34,494,60,true
-1998,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,385.34,606,56,112,329.34,494,56,true
-1998,AL,Receiving specialized IHC in a private home or personal care home,,554,861,60,120,494,741,60,true
-1998,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,389.34,614,60,120,329.34,494,60,true
-1998,AL,Living in foster home with IHC or specialized IHC,,604,961,110,220,494,741,110,true
-1998,AL,Living in cerebral palsy treatment center,,690,1133,196,392,494,741,196,true
-1999,AL,Receiving IHC in a private home or a personal care,Level A,560,871,60,120,500,751,60,true
-1999,AL,Receiving IHC in a private home or a personal care,Level B,556,863,56,112,500,751,56,true
-1999,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,393.34,620.67,60,120,333.34,500.66999999999996,60,true
-1999,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,389.34,612.67,56,112,333.34,500.66999999999996,56,true
-1999,AL,Receiving specialized IHC in a private home or personal care home,,560,871,60,120,500,751,60,true
-1999,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,393.34,620.67,60,120,333.34,500.66999999999996,60,true
-1999,AL,Living in foster home with IHC or specialized IHC,,610,971,110,220,500,751,110,true
-1999,AL,Living in cerebral palsy treatment center,,696,1143,196,392,500,751,196,true
-2000,AL,Receiving IHC in a private home or a personal care home,Level A,572,889,60,120,512,769,60,true
-2000,AL,Receiving IHC in a private home or a personal care home,Level B,568,881,56,112,512,769,56,true
-2000,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,401.34,632.67,60,120,341.34,512.67,60,true
-2000,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,397.34,624.67,56,112,341.34,512.67,56,true
-2000,AL,Receiving specialized IHC in a private home or personal care home,,572,889,60,120,512,769,60,true
-2000,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,401.34,632.67,60,120,341.34,512.67,60,true
-2000,AL,Living in foster home with IHC or specialized IHC,,622,989,110,220,512,769,110,true
-2000,AL,Living in cerebral palsy treatment center,,708,1161,196,392,512,769,196,true
-2004,AL,Receiving IHC in a private home or a personal care home,Level A,624,966,60,120,564,846,60,true
-2004,AL,Receiving IHC in a private home or a personal care home,Level B,620,958,56,112,564,846,56,true
-2004,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,436,684,60,120,376,564,60,true
-2004,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,432,676,56,112,376,564,56,true
-2004,AL,Receiving specialized IHC in a private home or personal care home,,624,966,60,120,564,846,60,true
-2004,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,436,684,60,120,376,564,60,true
-2004,AL,Living in foster home with IHC or specialized IHC,,674,1066,110,220,564,846,110,true
-2004,AL,Living in cerebral palsy treatment center,,760,1238,196,392,564,846,196,true
-2005,AL,Receiving IHC in a private home or a personal care home,Level A,639,989,60,120,579,869,60,true
-2005,AL,Receiving IHC in a private home or a personal care home,Level B,635,981,56,112,579,869,56,true
-2005,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,446,699.34,60,120,386,579.34,60,true
-2005,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,442,691.34,56,112,386,579.34,56,true
-2005,AL,Receiving specialized IHC in a private home or personal care home,,639,989,60,120,579,869,60,true
-2005,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,446,699.34,60,120,386,579.34,60,true
-2005,AL,Living in foster home with IHC or specialized IHC,,689,1089,110,220,579,869,110,true
-2005,AL,Living in cerebral palsy treatment center,,775,1261,196,392,579,869,196,true
-2006,AL,Receiving IHC in a private home or a personal care home,Level A,663,1024,60,120,603,904,60,true
-2006,AL,Receiving IHC in a private home or a personal care home,Level B,659,1016,56,112,603,904,56,true
-2006,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,462,722.67,60,120,402,602.67,60,true
-2006,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,458,714.67,56,112,402,602.67,56,true
-2006,AL,Receiving specialized IHC in a private home or personal care home,,663,1024,60,120,603,904,60,true
-2006,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,462,722.67,60,120,402,602.67,60,true
-2006,AL,Living in foster home with IHC or specialized IHC,,713,1124,110,220,603,904,110,true
-2006,AL,Living in cerebral palsy treatment center,,799,1296,196,392,603,904,196,true
-2007,AL,Receiving IHC in a private home or a personal care home,Level A,683,1054,60,120,623,934,60,true
-2007,AL,Receiving IHC in a private home or a personal care home,Level B,679,1046,56,112,623,934,56,true
-2007,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,475.34,742.67,60,120,415.34,622.67,60,true
-2007,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,471.34,734.67,56,112,415.34,622.67,56,true
-2007,AL,Receiving specialized IHC in a private home or personal care home,,683,1054,60,120,623,934,60,true
-2007,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,475.34,742.67,60,120,415.34,622.67,60,true
-2007,AL,Living in foster home with IHC or specialized IHC,,733,1154,110,220,623,934,110,true
-2007,AL,Living in cerebral palsy treatment center,,819,1326,196,392,623,934,196,true
-2008,AL,Receiving IHC in a private home or a personal care home,Level A,697,1076,60,120,637,956,60,true
-2008,AL,Receiving IHC in a private home or a personal care home,Level B,693,1068,56,112,637,956,56,true
-2008,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,484.67,757.34,60,120,424.67,637.34,60,true
-2008,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,480.67,749.34,56,112,424.67,637.34,56,true
-2008,AL,Receiving specialized IHC in a private home or personal care home,,697,1076,60,120,637,956,60,true
-2008,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,484.67,757.34,60,120,424.67,637.34,60,true
-2008,AL,Living in foster home with IHC or specialized IHC,,747,1176,110,220,637,956,110,true
-2008,AL,Living in cerebral palsy treatment center,,833,1348,196,392,637,956,196,true
-2011,AL,Receiving IHC in a private home or a personal care home,Level A,734,1131,60,120,674,1011,60,true
-2011,AL,Receiving IHC in a private home or a personal care home,Level B,730,1123,56,112,674,1011,56,true
-2011,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,509.34,794,60,120,449.34,674,60,true
-2011,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,505.34,786,56,112,449.34,674,56,true
-2011,AL,Receiving specialized IHC in a private home or personal care home,,734,1131,60,120,674,1011,60,true
-2011,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,509.34,794,60,120,449.34,674,60,true
-2011,AL,Living in foster home with IHC or specialized IHC,,784,1231,110,220,674,1011,110,true
-2011,AL,Living in cerebral palsy treatment center,,870,1403,196,392,674,1011,196,true
+1990,AL,Receiving IHC in a private home or a personal care,Level A,446.00,699.00,60.00,120.00,386.00,579.00,60.00,TRUE
+1990,AL,Receiving IHC in a private home or a personal care,Level B,442.00,691.00,56.00,112.00,386.00,579.00,56.00,TRUE
+1990,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,317.34,506.00,60.00,120.00,257.34,386.00,60.00,TRUE
+1990,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,313.34,498.00,56.00,112.00,257.34,386.00,56.00,TRUE
+1990,AL,Receiving specialized IHC in a private home or personal care home,,446.00,699.00,60.00,120.00,386.00,579.00,60.00,TRUE
+1990,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,317.34,506.00,60.00,120.00,257.34,386.00,60.00,TRUE
+1990,AL,Living in foster home with IHC or specialized IHC,,496.00,799.00,110.00,220.00,386.00,579.00,110.00,TRUE
+1990,AL,Living in cerebral palsy treatment center,,582.00,971.00,196.00,392.00,386.00,579.00,196.00,TRUE
+1991,AL,Receiving IHC in a private home or a personal care,Level A,467.00,730.00,60.00,120.00,407.00,610.00,60.00,TRUE
+1991,AL,Receiving IHC in a private home or a personal care,Level B,463.00,722.00,56.00,112.00,407.00,610.00,56.00,TRUE
+1991,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,331.34,526.67,60.00,120.00,271.34,406.67,60.00,TRUE
+1991,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,327.34,518.67,56.00,112.00,271.34,406.67,56.00,TRUE
+1991,AL,Receiving specialized IHC in a private home or personal care home,,467.00,730.00,60.00,120.00,407.00,610.00,60.00,TRUE
+1991,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,331.34,526.67,60.00,120.00,271.34,406.67,60.00,TRUE
+1991,AL,Living in foster home with IHC or specialized IHC,,517.00,830.00,110.00,220.00,407.00,610.00,110.00,TRUE
+1991,AL,Living in cerebral palsy treatment center,,603.00,1002.00,196.00,392.00,407.00,610.00,196.00,TRUE
+1992,AL,Receiving IHC in a private home or a personal care,Level A,482.00,753.00,60.00,120.00,422.00,633.00,60.00,TRUE
+1992,AL,Receiving IHC in a private home or a personal care,Level B,478.00,745.00,56.00,112.00,422.00,633.00,56.00,TRUE
+1992,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,341.34,542.00,60.00,120.00,281.34,422.00,60.00,TRUE
+1992,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,337.34,534.00,56.00,112.00,281.34,422.00,56.00,TRUE
+1992,AL,Receiving specialized IHC in a private home or personal care home,,482.00,753.00,60.00,120.00,422.00,633.00,60.00,TRUE
+1992,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,341.34,542.00,60.00,120.00,281.34,422.00,60.00,TRUE
+1992,AL,Living in foster home with IHC or specialized IHC,,532.00,853.00,110.00,220.00,422.00,633.00,110.00,TRUE
+1992,AL,Living in cerebral palsy treatment center,,618.00,1025.00,196.00,392.00,422.00,633.00,196.00,TRUE
+1994,AL,Receiving IHC in a private home or a personal care,Level A,506.00,789.00,60.00,120.00,446.00,669.00,60.00,TRUE
+1994,AL,Receiving IHC in a private home or a personal care,Level B,502.00,781.00,56.00,112.00,446.00,669.00,56.00,TRUE
+1994,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,357.34,566.00,60.00,120.00,297.34,446.00,60.00,TRUE
+1994,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,353.34,558.00,56.00,112.00,297.34,446.00,56.00,TRUE
+1994,AL,Receiving specialized IHC in a private home or personal care home,,506.00,789.00,60.00,120.00,446.00,669.00,60.00,TRUE
+1994,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,357.34,566.00,60.00,120.00,297.34,446.00,60.00,TRUE
+1994,AL,Living in foster home with IHC or specialized IHC,,556.00,889.00,110.00,220.00,446.00,669.00,110.00,TRUE
+1994,AL,Living in cerebral palsy treatment center,,642.00,1061.00,196.00,392.00,446.00,669.00,196.00,TRUE
+1995,AL,Receiving IHC in a private home or a personal care,Level A,518.00,807.00,60.00,120.00,458.00,687.00,60.00,TRUE
+1995,AL,Receiving IHC in a private home or a personal care,Level B,514.00,799.00,56.00,112.00,458.00,687.00,56.00,TRUE
+1995,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,365.34,578.00,60.00,120.00,305.34,458.00,60.00,TRUE
+1995,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,361.34,570.00,56.00,112.00,305.34,458.00,56.00,TRUE
+1995,AL,Receiving specialized IHC in a private home or personal care home,,518.00,807.00,60.00,120.00,458.00,687.00,60.00,TRUE
+1995,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,365.34,578.00,60.00,120.00,305.34,458.00,60.00,TRUE
+1995,AL,Living in foster home with IHC or specialized IHC,,568.00,907.00,110.00,220.00,458.00,687.00,110.00,TRUE
+1995,AL,Living in cerebral palsy treatment center,,654.00,1079.00,196.00,392.00,458.00,687.00,196.00,TRUE
+1996,AL,Receiving IHC in a private home or a personal care,Level A,530.00,825.00,60.00,120.00,470.00,705.00,60.00,TRUE
+1996,AL,Receiving IHC in a private home or a personal care,Level B,526.00,817.00,56.00,112.00,470.00,705.00,56.00,TRUE
+1996,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,373.34,590.00,60.00,120.00,313.34,470.00,60.00,TRUE
+1996,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,369.34,582.00,56.00,112.00,313.34,470.00,56.00,TRUE
+1996,AL,Receiving specialized IHC in a private home or personal care home,,530.00,825.00,60.00,120.00,470.00,705.00,60.00,TRUE
+1996,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,373.34,590.00,60.00,120.00,313.34,470.00,60.00,TRUE
+1996,AL,Living in foster home with IHC or specialized IHC,,580.00,925.00,110.00,220.00,470.00,705.00,110.00,TRUE
+1996,AL,Living in cerebral palsy treatment center,,666.00,1097.00,196.00,392.00,470.00,705.00,196.00,TRUE
+1997,AL,Receiving IHC in a private home or a personal care,Level A,544.00,846.00,60.00,120.00,484.00,726.00,60.00,TRUE
+1997,AL,Receiving IHC in a private home or a personal care,Level B,540.00,838.00,56.00,112.00,484.00,726.00,56.00,TRUE
+1997,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,382.67,604.00,60.00,120.00,322.67,484.00,60.00,TRUE
+1997,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,378.67,596.00,56.00,112.00,322.67,484.00,56.00,TRUE
+1997,AL,Receiving specialized IHC in a private home or personal care home,,544.00,846.00,60.00,120.00,484.00,726.00,60.00,TRUE
+1997,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,382.67,604.00,60.00,120.00,322.67,484.00,60.00,TRUE
+1997,AL,Living in foster home with IHC or specialized IHC,,594.00,946.00,110.00,220.00,484.00,726.00,110.00,TRUE
+1997,AL,Living in cerebral palsy treatment center,,680.00,1118.00,196.00,392.00,484.00,726.00,196.00,TRUE
+1998,AL,Receiving IHC in a private home or a personal care,Level A,554.00,861.00,60.00,120.00,494.00,741.00,60.00,TRUE
+1998,AL,Receiving IHC in a private home or a personal care,Level B,550.00,853.00,56.00,112.00,494.00,741.00,56.00,TRUE
+1998,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,389.34,614.00,60.00,120.00,329.34,494.00,60.00,TRUE
+1998,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,385.34,606.00,56.00,112.00,329.34,494.00,56.00,TRUE
+1998,AL,Receiving specialized IHC in a private home or personal care home,,554.00,861.00,60.00,120.00,494.00,741.00,60.00,TRUE
+1998,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,389.34,614.00,60.00,120.00,329.34,494.00,60.00,TRUE
+1998,AL,Living in foster home with IHC or specialized IHC,,604.00,961.00,110.00,220.00,494.00,741.00,110.00,TRUE
+1998,AL,Living in cerebral palsy treatment center,,690.00,1133.00,196.00,392.00,494.00,741.00,196.00,TRUE
+1999,AL,Receiving IHC in a private home or a personal care,Level A,560.00,871.00,60.00,120.00,500.00,751.00,60.00,TRUE
+1999,AL,Receiving IHC in a private home or a personal care,Level B,556.00,863.00,56.00,112.00,500.00,751.00,56.00,TRUE
+1999,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,393.34,620.67,60.00,120.00,333.34,500.67,60.00,TRUE
+1999,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,389.34,612.67,56.00,112.00,333.34,500.67,56.00,TRUE
+1999,AL,Receiving specialized IHC in a private home or personal care home,,560.00,871.00,60.00,120.00,500.00,751.00,60.00,TRUE
+1999,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,393.34,620.67,60.00,120.00,333.34,500.67,60.00,TRUE
+1999,AL,Living in foster home with IHC or specialized IHC,,610.00,971.00,110.00,220.00,500.00,751.00,110.00,TRUE
+1999,AL,Living in cerebral palsy treatment center,,696.00,1143.00,196.00,392.00,500.00,751.00,196.00,TRUE
+2000,AL,Receiving IHC in a private home or a personal care home,Level A,572.00,889.00,60.00,120.00,512.00,769.00,60.00,TRUE
+2000,AL,Receiving IHC in a private home or a personal care home,Level B,568.00,881.00,56.00,112.00,512.00,769.00,56.00,TRUE
+2000,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,401.34,632.67,60.00,120.00,341.34,512.67,60.00,TRUE
+2000,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,397.34,624.67,56.00,112.00,341.34,512.67,56.00,TRUE
+2000,AL,Receiving specialized IHC in a private home or personal care home,,572.00,889.00,60.00,120.00,512.00,769.00,60.00,TRUE
+2000,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,401.34,632.67,60.00,120.00,341.34,512.67,60.00,TRUE
+2000,AL,Living in foster home with IHC or specialized IHC,,622.00,989.00,110.00,220.00,512.00,769.00,110.00,TRUE
+2000,AL,Living in cerebral palsy treatment center,,708.00,1161.00,196.00,392.00,512.00,769.00,196.00,TRUE
+2004,AL,Receiving IHC in a private home or a personal care home,Level A,624.00,966.00,60.00,120.00,564.00,846.00,60.00,TRUE
+2004,AL,Receiving IHC in a private home or a personal care home,Level B,620.00,958.00,56.00,112.00,564.00,846.00,56.00,TRUE
+2004,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,436.00,684.00,60.00,120.00,376.00,564.00,60.00,TRUE
+2004,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,432.00,676.00,56.00,112.00,376.00,564.00,56.00,TRUE
+2004,AL,Receiving specialized IHC in a private home or personal care home,,624.00,966.00,60.00,120.00,564.00,846.00,60.00,TRUE
+2004,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,436.00,684.00,60.00,120.00,376.00,564.00,60.00,TRUE
+2004,AL,Living in foster home with IHC or specialized IHC,,674.00,1066.00,110.00,220.00,564.00,846.00,110.00,TRUE
+2004,AL,Living in cerebral palsy treatment center,,760.00,1238.00,196.00,392.00,564.00,846.00,196.00,TRUE
+2005,AL,Receiving IHC in a private home or a personal care home,Level A,639.00,989.00,60.00,120.00,579.00,869.00,60.00,TRUE
+2005,AL,Receiving IHC in a private home or a personal care home,Level B,635.00,981.00,56.00,112.00,579.00,869.00,56.00,TRUE
+2005,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,446.00,699.34,60.00,120.00,386.00,579.34,60.00,TRUE
+2005,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,442.00,691.34,56.00,112.00,386.00,579.34,56.00,TRUE
+2005,AL,Receiving specialized IHC in a private home or personal care home,,639.00,989.00,60.00,120.00,579.00,869.00,60.00,TRUE
+2005,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,446.00,699.34,60.00,120.00,386.00,579.34,60.00,TRUE
+2005,AL,Living in foster home with IHC or specialized IHC,,689.00,1089.00,110.00,220.00,579.00,869.00,110.00,TRUE
+2005,AL,Living in cerebral palsy treatment center,,775.00,1261.00,196.00,392.00,579.00,869.00,196.00,TRUE
+2006,AL,Receiving IHC in a private home or a personal care home,Level A,663.00,1024.00,60.00,120.00,603.00,904.00,60.00,TRUE
+2006,AL,Receiving IHC in a private home or a personal care home,Level B,659.00,1016.00,56.00,112.00,603.00,904.00,56.00,TRUE
+2006,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,462.00,722.67,60.00,120.00,402.00,602.67,60.00,TRUE
+2006,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,458.00,714.67,56.00,112.00,402.00,602.67,56.00,TRUE
+2006,AL,Receiving specialized IHC in a private home or personal care home,,663.00,1024.00,60.00,120.00,603.00,904.00,60.00,TRUE
+2006,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,462.00,722.67,60.00,120.00,402.00,602.67,60.00,TRUE
+2006,AL,Living in foster home with IHC or specialized IHC,,713.00,1124.00,110.00,220.00,603.00,904.00,110.00,TRUE
+2006,AL,Living in cerebral palsy treatment center,,799.00,1296.00,196.00,392.00,603.00,904.00,196.00,TRUE
+2007,AL,Receiving IHC in a private home or a personal care home,Level A,683.00,1054.00,60.00,120.00,623.00,934.00,60.00,TRUE
+2007,AL,Receiving IHC in a private home or a personal care home,Level B,679.00,1046.00,56.00,112.00,623.00,934.00,56.00,TRUE
+2007,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,475.34,742.67,60.00,120.00,415.34,622.67,60.00,TRUE
+2007,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,471.34,734.67,56.00,112.00,415.34,622.67,56.00,TRUE
+2007,AL,Receiving specialized IHC in a private home or personal care home,,683.00,1054.00,60.00,120.00,623.00,934.00,60.00,TRUE
+2007,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,475.34,742.67,60.00,120.00,415.34,622.67,60.00,TRUE
+2007,AL,Living in foster home with IHC or specialized IHC,,733.00,1154.00,110.00,220.00,623.00,934.00,110.00,TRUE
+2007,AL,Living in cerebral palsy treatment center,,819.00,1326.00,196.00,392.00,623.00,934.00,196.00,TRUE
+2008,AL,Receiving IHC in a private home or a personal care home,Level A,697.00,1076.00,60.00,120.00,637.00,956.00,60.00,TRUE
+2008,AL,Receiving IHC in a private home or a personal care home,Level B,693.00,1068.00,56.00,112.00,637.00,956.00,56.00,TRUE
+2008,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,484.67,757.34,60.00,120.00,424.67,637.34,60.00,TRUE
+2008,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,480.67,749.34,56.00,112.00,424.67,637.34,56.00,TRUE
+2008,AL,Receiving specialized IHC in a private home or personal care home,,697.00,1076.00,60.00,120.00,637.00,956.00,60.00,TRUE
+2008,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,484.67,757.34,60.00,120.00,424.67,637.34,60.00,TRUE
+2008,AL,Living in foster home with IHC or specialized IHC,,747.00,1176.00,110.00,220.00,637.00,956.00,110.00,TRUE
+2008,AL,Living in cerebral palsy treatment center,,833.00,1348.00,196.00,392.00,637.00,956.00,196.00,TRUE
+2011,AL,Receiving IHC in a private home or a personal care home,Level A,734.00,1131.00,60.00,120.00,674.00,1011.00,60.00,TRUE
+2011,AL,Receiving IHC in a private home or a personal care home,Level B,730.00,1123.00,56.00,112.00,674.00,1011.00,56.00,TRUE
+2011,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,509.34,794.00,60.00,120.00,449.34,674.00,60.00,TRUE
+2011,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,505.34,786.00,56.00,112.00,449.34,674.00,56.00,TRUE
+2011,AL,Receiving specialized IHC in a private home or personal care home,,734.00,1131.00,60.00,120.00,674.00,1011.00,60.00,TRUE
+2011,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,509.34,794.00,60.00,120.00,449.34,674.00,60.00,TRUE
+2011,AL,Living in foster home with IHC or specialized IHC,,784.00,1231.00,110.00,220.00,674.00,1011.00,110.00,TRUE
+2011,AL,Living in cerebral palsy treatment center,,870.00,1403.00,196.00,392.00,674.00,1011.00,196.00,TRUE

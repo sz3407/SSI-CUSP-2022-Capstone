@@ -1,202 +1,202 @@
 year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
-1990,MA,Living independently,Aged,514.82,780.72,128.82,201.72,386.00000000000006,579,72.9,false
-1990,MA,Living independently,Blind,535.74,1071.48,149.74,492.48,386,579,342.74,false
-1990,MA,Living independently,Disabled,500.39,759.06,114.39,180.06,386,579,65.67,false
-1990,MA,Shared living expenses,Aged,425.26,780.72,39.26,201.72,386,579,162.46,false
-1990,MA,Shared living expenses,Blind,535.74,1071.48,149.74,492.48,386,579,342.74,false
-1990,MA,Shared living expenses,Disabled,416.4,759.06,30.4,180.06,386,579,149.66,false
-1990,MA,Living in household of another,Aged,361.7,601.8,104.36,215.8,257.34,385.99999999999994,111.44000000000001,false
-1990,MA,Living in household of another,Blind,535.74,1071.48,278.4,685.48,257.34000000000003,386,407.08000000000004,false
-1990,MA,Living in household of another,Disabled,344.92,580.18,87.58,194.18,257.34000000000003,385.99999999999994,106.60000000000001,false
-1990,MA,Licensed rest home,Aged and disabled,557.58,1084.16,171.58,505.16,386,579,333.58000000000004,false
-1990,MA,Licensed rest home,Blind,535.74,1071.48,149.74,492.48,386,579,342.74,false
-1990,MA,Medicaid facility,,72.8,145.6,42.8,85.6,30,60,42.8,true
-1991,MA,Living independently,Aged,535.82,811.72,128.82,201.72,407.00000000000006,610,72.9,false
-1991,MA,Living independently,Blind,556.74,1113.48,149.74,503.48,407,610,353.74,false
-1991,MA,Living independently,Disabled,521.39,790.06,114.39,180.06,407,610,65.67,false
-1991,MA,Shared living expenses,Aged,446.26,811.72,39.26,201.72,407,610,162.46,false
-1991,MA,Shared living expenses,Blind,556.74,1113.48,149.74,503.48,407,610,353.74,false
-1991,MA,Shared living expenses,Disabled,437.4,790.06,30.4,180.06,407,610,149.66,false
-1991,MA,Living in household of another,Aged,375.7,622.47,104.36,215.8,271.34,406.67,111.44000000000001,false
-1991,MA,Living in household of another,Blind,556.74,1113.47,285.4,706.8,271.34000000000003,406.6700000000001,421.4,false
-1991,MA,Living in household of another,Disabled,358.92,600.85,87.58,194.18,271.34000000000003,406.67,106.60000000000001,false
-1991,MA,Licensed rest home,Aged and disabled,700,1400,293,790,407,610,497,false
-1991,MA,Licensed rest home,Blind,556.74,1113.48,149.74,503.48,407,610,353.74,false
-1991,MA,Medicaid facility,,72.8,145.6,42.8,85.6,30,60,42.8,true
-1992,MA,Living independently,Aged,550.82,834.72,128.82,201.72,422.00000000000006,633,72.9,false
-1992,MA,Living independently,Blind,571.74,1143.48,149.74,510.48,422,633,360.74,false
-1992,MA,Living independently,Disabled,536.39,813.06,114.39,180.06,422,633,65.67,false
-1992,MA,Shared living expenses,Aged,461.26,834.72,39.26,201.72,422,633,162.46,false
-1992,MA,Shared living expenses,Blind,571.74,1143.48,149.74,510.48,422,633,360.74,false
-1992,MA,Shared living expenses,Disabled,452.4,813.06,30.4,180.06,422,633,149.66,false
-1992,MA,Living in household of another,Aged,385.7,637.8,104.36,215.8,281.34,421.99999999999994,111.44000000000001,false
-1992,MA,Living in household of another,Blind,571.74,1143.48,290.4,721.48,281.34000000000003,422,431.08000000000004,false
-1992,MA,Living in household of another,Disabled,368.92,616.18,87.58,194.18,281.34000000000003,421.99999999999994,106.60000000000001,false
-1992,MA,Licensed rest home,Aged and disabled,715,1430,293,797,422,633,504,false
-1992,MA,Licensed rest home,Blind,571.74,1143.48,149.74,510.48,422,633,360.74,false
-1992,MA,Medicaid facility,,65,130,35,70,30,60,35,true
-1994,MA,Living independently,Aged,574.82,870.72,128.82,201.72,446.00000000000006,669,72.9,false
-1994,MA,Living independently,Blind,595.74,1191.48,149.74,522.48,446,669,372.74,false
-1994,MA,Living independently,Disabled,560.39,849.06,114.39,180.06,446,669,65.67,false
-1994,MA,Shared living expenses,Aged,485.26,870.72,39.26,201.72,446,669,162.46,false
-1994,MA,Shared living expenses,Blind,595.74,1191.48,149.74,522.48,446,669,372.74,false
-1994,MA,Shared living expenses,Disabled,476.4,849.06,30.4,180.06,446,669,149.66,false
-1994,MA,Living in household of another,Aged,401.7,661.8,104.36,215.8,297.34,445.99999999999994,111.44000000000001,false
-1994,MA,Living in household of another,Blind,595.74,1191.48,298.4,745.48,297.34000000000003,446,447.08000000000004,false
-1994,MA,Living in household of another,Disabled,384.92,640.18,87.58,194.18,297.34000000000003,445.99999999999994,106.60000000000001,false
-1994,MA,Licensed rest home,Aged and disabled,739,1478,293,809,446,669,516,false
-1994,MA,Licensed rest home,Blind,595.74,1191.48,149.74,522.48,446,669,372.74,false
-1994,MA,Medicaid facility,,65,130,35,70,30,60,35,true
-1995,MA,Living independently,Aged,586.82,888.72,128.82,201.72,458.00000000000006,687,72.9,false
-1995,MA,Living independently,Blind,607.74,1215.48,149.74,528.48,458,687,378.74,false
-1995,MA,Living independently,Disabled,572.39,867.06,114.39,180.06,458,687,65.67,false
-1995,MA,Shared living expenses,Aged,497.26,888.72,39.26,201.72,458,687,162.46,false
-1995,MA,Shared living expenses,Blind,607.74,1215.48,149.74,528.48,458,687,378.74,false
-1995,MA,Shared living expenses,Disabled,488.4,867.06,30.4,180.06,458,687,149.66,false
-1995,MA,Living in household of another,Aged,409.7,673.8,104.36,215.8,305.34,457.99999999999994,111.44000000000001,false
-1995,MA,Living in household of another,Blind,607.74,1215.48,302.4,757.48,305.34000000000003,458,455.08000000000004,false
-1995,MA,Living in household of another,Disabled,392.92,652.18,87.58,194.18,305.34000000000003,457.99999999999994,106.60000000000001,false
-1995,MA,Licensed rest home,Aged and disabled,751,1502,293,815,458,687,522,false
-1995,MA,Licensed rest home,Blind,607.74,1215.48,149.74,528.48,458,687,378.74,false
-1995,MA,Medicaid facility,,65,130,35,70,30,60,35,true
-1995,MA,Assisted living,,912,1368,454,681,458,687,227,false
-1996,MA,Living independently,Aged,596.32,901.72,126.32,196.72,470.00000000000006,705,70.4,false
-1996,MA,Living independently,Blind,619.74,1239.48,149.74,534.48,470,705,384.74,false
-1996,MA,Living independently,Disabled,581.89,880.06,111.89,175.06,470,705,63.17,false
-1996,MA,Shared living expenses,Aged,506.76,901.72,36.76,196.72,470,705,159.96,false
-1996,MA,Shared living expenses,Blind,619.74,1239.48,149.74,534.48,470,705,384.74,false
-1996,MA,Shared living expenses,Disabled,497.9,880.06,27.9,175.06,470,705,147.16,false
-1996,MA,Living in household of another,Aged,415.2,680.8,101.86,210.8,313.34,469.99999999999994,108.94000000000001,false
-1996,MA,Living in household of another,Blind,621.74,1239.48,308.4,769.48,313.34000000000003,470,461.08000000000004,false
-1996,MA,Living in household of another,Disabled,398.42,659.18,85.08,189.18,313.34000000000003,469.99999999999994,104.10000000000001,false
-1996,MA,Licensed rest home,Aged and disabled,763,1526,293,821,470,705,528,false
-1996,MA,Licensed rest home,Blind,619.74,1239.48,149.74,534.48,470,705,384.74,false
-1996,MA,Medicaid facility,,65,130,35,70,30,60,35,true
-1997,MA,Living independently,Aged,610.32,922.72,126.32,196.72,484.00000000000006,726,70.4,false
-1997,MA,Living independently,Blind,633.74,1267.48,149.74,541.48,484,726,391.74,false
-1997,MA,Living independently,Disabled,595.89,901.06,111.89,175.06,484,726,63.17,false
-1997,MA,Shared living expenses,Aged,520.76,922.72,36.76,196.72,484,726,159.96,false
-1997,MA,Shared living expenses,Blind,633.74,1267.48,149.74,541.48,484,726,391.74,false
-1997,MA,Shared living expenses,Disabled,511.9,901.06,27.9,175.06,484,726,147.16,false
-1997,MA,Living in household of another,Aged,424.53,694.8,101.86,210.8,322.66999999999996,483.99999999999994,108.94000000000001,false
-1997,MA,Living in household of another,Blind,633.74,1267.48,311.07,783.48,322.67,484,472.41,false
-1997,MA,Living in household of another,Disabled,407.75,673.18,85.08,189.18,322.67,483.99999999999994,104.10000000000001,false
-1997,MA,Licensed rest home,Aged and disabled,777,1554,293,828,484,726,535,false
-1997,MA,Licensed rest home,Blind,633.74,1267.48,149.74,541.48,484,726,391.74,false
-1997,MA,Medicaid facility,,65,130,35,70,30,60,35,true
-1998,MA,Living independently,Aged,622.82,942.72,128.82,201.72,494.00000000000006,741,72.9,false
-1998,MA,Living independently,Blind,643.74,1287.48,149.74,546.48,494,741,396.74,false
-1998,MA,Living independently,Disabled,608.39,921.06,114.39,180.06,494,741,65.67,false
-1998,MA,Shared living expenses,Aged,533.26,942.72,39.26,104.36,494,838.36,65.1,false
-1998,MA,Shared living expenses,Blind,643.74,1287.48,149.74,314.4,494,973.08,164.65999999999997,false
-1998,MA,Shared living expenses,Disabled,524.4,921.06,30.4,87.58,494,833.4799999999999,57.18,false
-1998,MA,Living in household of another,Aged,433.7,709.8,201.72,215.8,231.98,493.99999999999994,14.080000000000013,false
-1998,MA,Living in household of another,Blind,643.74,1287.48,546.48,793.48,97.25999999999999,494,247,false
-1998,MA,Living in household of another,Disabled,416.92,688.18,180.06,194.18,236.86,493.99999999999994,14.120000000000005,false
-1998,MA,Licensed rest home,Aged and disabled,787,1574,293,833,494,741,540,false
-1998,MA,Licensed rest home,Blind,643.74,1287.48,149.74,546.48,494,741,396.74,false
-1998,MA,Medicaid facility,,65,130,35,70,30,60,35,true
-1999,MA,Living independently,Aged,628.82,952.72,128.82,201.72,500.00000000000006,751,72.9,false
-1999,MA,Living independently,Blind,649.74,1299.48,149.74,548.48,500,751,398.74,false
-1999,MA,Living independently,Disabled,614.39,931.06,114.39,180.06,500,751,65.67,false
-1999,MA,Shared living expenses,Aged,539.26,952.72,39.26,201.72,500,751,162.46,false
-1999,MA,Shared living expenses,Blind,649.74,1299.48,149.74,548.48,500,751,398.74,false
-1999,MA,Shared living expenses,Disabled,530.4,931.06,30.4,180.06,500,751,149.66,false
-1999,MA,Living in household of another,Aged,437.7,716.48,104.36,215.81,333.34,500.67,111.45,false
-1999,MA,Living in household of another,Blind,649.74,1299.48,316.4,798.81,333.34000000000003,500.6700000000001,482.40999999999997,false
-1999,MA,Living in household of another,Disabled,420.92,694.86,87.58,194.19,333.34000000000003,500.67,106.61,false
-1999,MA,Licensed rest home,Aged and disabled,793,1586,293,835,500,751,542,false
-1999,MA,Licensed rest home,Blind,649.74,1299.48,149.74,548.48,500,751,398.74,false
-1999,MA,Medicaid facility,,65,130,35,70,30,60,35,true
-1999,MA,Assisted living,,954,1432,454,681,500,751,227,false
-2000,MA,Living independently,Aged,640.82,970.72,128.82,201.72,512,769,72.9,false
-2000,MA,Living independently,Blind,661.74,1323.48,149.74,554.48,512,769,404.74,false
-2000,MA,Living independently,Disabled,626.39,949.06,114.39,180.06,512,769,65.67,false
-2000,MA,Shared living expenses,Aged,551.26,970.72,39.26,201.72,512,769,162.46,false
-2000,MA,Shared living expenses,Blind,661.74,1323.48,149.74,554.48,512,769,404.74,false
-2000,MA,Shared living expenses,Disabled,542.4,949.06,30.4,180.06,512,769,149.66,false
-2000,MA,Living in household of another,Aged,445.7,728.47,104.36,215.8,341.34,512.6700000000001,111.44000000000001,false
-2000,MA,Living in household of another,Blind,661.74,1323.47,320.4,810.8,341.34000000000003,512.6700000000001,490.4,false
-2000,MA,Living in household of another,Disabled,428.92,706.85,87.58,194.18,341.34000000000003,512.6700000000001,106.60000000000001,false
-2000,MA,Licensed rest home,Aged and disabled,805,1610,293,841,512,769,548,false
-2000,MA,Licensed rest home,Blind,661.74,1323.48,149.74,554.48,512,769,404.74,false
-2000,MA,Medicaid facility,,65,130,35,70,30,60,35,true
-2000,MA,Assisted living,,966,1450,454,681,512,769,227,false
-2004,MA,Living independently,Aged,692.82,1047.72,128.82,201.72,564,846,72.9,false
-2004,MA,Living independently,Blind,713.74,1427.48,149.74,581.48,564,846,431.74,false
-2004,MA,Living independently,Disabled,678.39,1026.06,114.39,180.06,564,846,65.67,false
-2004,MA,Shared living expenses,Aged,603.26,1047.72,39.26,201.72,564,846,162.46,false
-2004,MA,Shared living expenses,Blind,713.74,1427.48,149.74,581.48,564,846,431.74,false
-2004,MA,Shared living expenses,Disabled,594.4,1026.06,30.4,180.06,564,846,149.66,false
-2004,MA,Living in household of another,Aged,480.36,779.8,104.36,215.8,376,564,111.44000000000001,false
-2004,MA,Living in household of another,Blind,713.74,1427.48,337.74,863.48,376,564,525.74,false
-2004,MA,Living in household of another,Disabled,463.58,758.18,87.58,194.18,376,564,106.60000000000001,false
-2004,MA,Licensed rest home,Aged and disabled,857,1714,293,868,564,846,575,false
-2004,MA,Licensed rest home,Blind,713.74,1427.48,149.74,581.48,564,846,431.74,false
-2004,MA,Medicaid facility,,65,130,35,70,30,60,35,true
-2004,MA,Assisted living facility,,1018,1527,454,681,564,846,227,false
-2005,MA,Living independently,Aged,707.82,1070.72,128.82,201.72,579,869,72.9,false
-2005,MA,Living independently,Blind,728.74,1457.48,149.74,588.48,579,869,438.74,false
-2005,MA,Living independently,Disabled,693.39,1049.06,114.39,180.06,579,869,65.67,false
-2005,MA,Shared living expenses,Aged,618.26,1070.72,39.26,201.72,579,869,162.46,false
-2005,MA,Shared living expenses,Blind,728.74,1457.48,149.74,588.48,579,869,438.74,false
-2005,MA,Shared living expenses,Disabled,609.4,1049.06,30.4,180.06,579,869,149.66,false
-2005,MA,Living in household of another,Aged,490.36,795.14,104.36,215.8,386,579.3399999999999,111.44000000000001,false
-2005,MA,Living in household of another,Blind,728.74,1457.48,342.74,878.14,386,579.34,535.4,false
-2005,MA,Living in household of another,Disabled,473.58,773.52,87.58,194.18,386,579.3399999999999,106.60000000000001,false
-2005,MA,Licensed rest home,Aged and disabled,872,1744,293,875,579,869,582,false
-2005,MA,Licensed rest home,Blind,728.74,1457.48,149.74,588.48,579,869,438.74,false
-2005,MA,Medicaid facility,,65,130,35,70,30,60,35,true
-2005,MA,Assisted living facility,,1033,1550,454,681,579,869,227,false
-2006,MA,Living independently,Aged,731.82,1105.72,128.82,201.72,603,904,72.9,false
-2006,MA,Living independently,Blind,752.74,1505.48,149.74,601.48,603,904,451.74,false
-2006,MA,Living independently,Disabled,717.39,1084.06,114.39,180.06,603,904,65.67,false
-2006,MA,Shared living expenses,Aged,642.26,1105.72,39.26,201.72,603,904,162.46,false
-2006,MA,Shared living expenses,Blind,752.74,1505.48,149.74,601.48,603,904,451.74,false
-2006,MA,Shared living expenses,Disabled,633.4,1084.06,30.4,180.06,603,904,149.66,false
-2006,MA,Living in household of another,Aged,506.36,818.47,104.36,215.8,402,602.6700000000001,111.44000000000001,false
-2006,MA,Living in household of another,Blind,752.74,1505.47,350.74,902.8,402,602.6700000000001,552.06,false
-2006,MA,Living in household of another,Disabled,489.58,796.85,87.58,194.18,402,602.6700000000001,106.60000000000001,false
-2006,MA,Licensed rest home,Aged and disabled,896,1792,293,888,603,904,595,false
-2006,MA,Licensed rest home,Blind,752.74,1505.48,149.74,601.48,603,904,451.74,false
-2006,MA,Medicaid facility,,65,130,35,70,30,60,35,true
-2006,MA,Assisted living facility,,1057,1585,454,681,603,904,227,false
-2007,MA,Living independently,Aged,751.82,1135.72,128.82,201.72,623,934,72.9,false
-2007,MA,Living independently,Blind,772.74,1545.48,149.74,611.48,623,934,461.74,false
-2007,MA,Living independently,Disabled,737.39,1114.06,114.39,180.06,623,934,65.67,false
-2007,MA,Shared living expenses,Aged,662.26,1135.72,39.26,201.72,623,934,162.46,false
-2007,MA,Shared living expenses,Blind,772.74,1545.48,149.74,611.48,623,934,461.74,false
-2007,MA,Shared living expenses,Disabled,653.4,1114.06,30.4,180.06,623,934,149.66,false
-2007,MA,Living in household of another,Aged,519.7,838.47,104.36,215.8,415.34000000000003,622.6700000000001,111.44000000000001,false
-2007,MA,Living in household of another,Blind,772.74,1545.47,357.4,922.8,415.34000000000003,622.6700000000001,565.4,false
-2007,MA,Living in household of another,Disabled,502.92,816.85,87.58,194.18,415.34000000000003,622.6700000000001,106.60000000000001,false
-2007,MA,Licensed rest home,Aged and disabled,916,1832,293,898,623,934,605,false
-2007,MA,Licensed rest home,Blind,772.74,1545.48,149.74,611.48,623,934,461.74,false
-2007,MA,Medicaid facility,,65,130,35,70,30,60,35,true
-2007,MA,Assisted living facility,,1077,1615,454,681,623,934,227,false
-2008,MA,Living independently,Aged,765.82,1157.72,128.82,201.72,637,956,72.9,false
-2008,MA,Living independently,Blind,786.74,1573.48,149.74,617.48,637,956,467.74,false
-2008,MA,Living independently,Disabled,751.39,1136.06,114.39,180.06,637,956,65.67,false
-2008,MA,Shared living expenses,Aged,676.26,1157.72,39.26,201.72,637,956,162.46,false
-2008,MA,Shared living expenses,Blind,786.74,1573.48,149.74,617.48,637,956,467.74,false
-2008,MA,Shared living expenses,Disabled,667.4,1136.06,30.4,180.06,637,956,149.66,false
-2008,MA,Living in household of another,Aged,529.03,853.14,104.36,215.8,424.66999999999996,637.3399999999999,111.44000000000001,false
-2008,MA,Living in household of another,Blind,786.74,1573.48,362.07,936.14,424.67,637.34,574.0699999999999,false
-2008,MA,Living in household of another,Disabled,512.25,831.52,87.58,194.18,424.67,637.3399999999999,106.60000000000001,false
-2008,MA,Licensed rest home,Aged and disabled,930,1860,293,904,637,956,611,false
-2008,MA,Licensed rest home,Blind,786.74,1573.48,149.74,617.48,637,956,467.74,false
-2008,MA,Medicaid facility,,72.8,145.6,42.8,85.6,30,60,42.8,true
-2008,MA,Assisted living facility,,1091,1637,454,681,637,956,227,false
-2011,MA,Living independently,Aged,802.82,1212.72,128.82,201.72,674,1011,72.9,false
-2011,MA,Living independently,Blind,823.74,1647.48,149.74,636.48,674,1011,486.74,false
-2011,MA,Living independently,Disabled,788.39,1191.06,114.39,180.06,674,1011,65.67,false
-2011,MA,Shared living expenses,Aged,713.26,1212.72,39.26,201.72,674,1011,162.46,false
-2011,MA,Shared living expenses,Blind,823.74,1647.48,149.74,636.48,674,1011,486.74,false
-2011,MA,Shared living expenses,Disabled,704.4,1191.06,30.4,180.06,674,1011,149.66,false
-2011,MA,Living in household of another,Aged,553.7,889.8,104.36,215.8,449.34000000000003,674,111.44000000000001,false
-2011,MA,Living in household of another,Blind,823.74,1647.49,374.4,973.48,449.34000000000003,674.01,599.08,false
-2011,MA,Living in household of another,Disabled,536.92,868.18,87.58,194.18,449.34,674,106.60000000000001,false
-2011,MA,Licensed rest home,Aged and disabled,967,1934,293,923,674,1011,630,false
-2011,MA,Licensed rest home,Blind,823.74,1647.48,149.74,636.48,674,1011,486.74,false
-2011,MA,Medicaid facility,,72.8,145.6,42.8,85.6,30,60,42.8,true
-2011,MA,Assisted living facility,,1128,1692,454,681,674,1011,227,false
+1990,MA,Living independently,Aged,514.82,780.72,128.82,201.72,386.00,579.00,72.90,FALSE
+1990,MA,Living independently,Blind,535.74,1071.48,149.74,492.48,386.00,579.00,342.74,FALSE
+1990,MA,Living independently,Disabled,500.39,759.06,114.39,180.06,386.00,579.00,65.67,FALSE
+1990,MA,Shared living expenses,Aged,425.26,780.72,39.26,201.72,386.00,579.00,162.46,FALSE
+1990,MA,Shared living expenses,Blind,535.74,1071.48,149.74,492.48,386.00,579.00,342.74,FALSE
+1990,MA,Shared living expenses,Disabled,416.40,759.06,30.40,180.06,386.00,579.00,149.66,FALSE
+1990,MA,Living in household of another,Aged,361.70,601.80,104.36,215.80,257.34,386.00,111.44,FALSE
+1990,MA,Living in household of another,Blind,535.74,1071.48,278.40,685.48,257.34,386.00,407.08,FALSE
+1990,MA,Living in household of another,Disabled,344.92,580.18,87.58,194.18,257.34,386.00,106.60,FALSE
+1990,MA,Licensed rest home,Aged and disabled,557.58,1084.16,171.58,505.16,386.00,579.00,333.58,FALSE
+1990,MA,Licensed rest home,Blind,535.74,1071.48,149.74,492.48,386.00,579.00,342.74,FALSE
+1990,MA,Medicaid facility,,72.80,145.60,42.80,85.60,30.00,60.00,42.80,TRUE
+1991,MA,Living independently,Aged,535.82,811.72,128.82,201.72,407.00,610.00,72.90,FALSE
+1991,MA,Living independently,Blind,556.74,1113.48,149.74,503.48,407.00,610.00,353.74,FALSE
+1991,MA,Living independently,Disabled,521.39,790.06,114.39,180.06,407.00,610.00,65.67,FALSE
+1991,MA,Shared living expenses,Aged,446.26,811.72,39.26,201.72,407.00,610.00,162.46,FALSE
+1991,MA,Shared living expenses,Blind,556.74,1113.48,149.74,503.48,407.00,610.00,353.74,FALSE
+1991,MA,Shared living expenses,Disabled,437.40,790.06,30.40,180.06,407.00,610.00,149.66,FALSE
+1991,MA,Living in household of another,Aged,375.70,622.47,104.36,215.80,271.34,406.67,111.44,FALSE
+1991,MA,Living in household of another,Blind,556.74,1113.47,285.40,706.80,271.34,406.67,421.40,FALSE
+1991,MA,Living in household of another,Disabled,358.92,600.85,87.58,194.18,271.34,406.67,106.60,FALSE
+1991,MA,Licensed rest home,Aged and disabled,700.00,1400.00,293.00,790.00,407.00,610.00,497.00,FALSE
+1991,MA,Licensed rest home,Blind,556.74,1113.48,149.74,503.48,407.00,610.00,353.74,FALSE
+1991,MA,Medicaid facility,,72.80,145.60,42.80,85.60,30.00,60.00,42.80,TRUE
+1992,MA,Living independently,Aged,550.82,834.72,128.82,201.72,422.00,633.00,72.90,FALSE
+1992,MA,Living independently,Blind,571.74,1143.48,149.74,510.48,422.00,633.00,360.74,FALSE
+1992,MA,Living independently,Disabled,536.39,813.06,114.39,180.06,422.00,633.00,65.67,FALSE
+1992,MA,Shared living expenses,Aged,461.26,834.72,39.26,201.72,422.00,633.00,162.46,FALSE
+1992,MA,Shared living expenses,Blind,571.74,1143.48,149.74,510.48,422.00,633.00,360.74,FALSE
+1992,MA,Shared living expenses,Disabled,452.40,813.06,30.40,180.06,422.00,633.00,149.66,FALSE
+1992,MA,Living in household of another,Aged,385.70,637.80,104.36,215.80,281.34,422.00,111.44,FALSE
+1992,MA,Living in household of another,Blind,571.74,1143.48,290.40,721.48,281.34,422.00,431.08,FALSE
+1992,MA,Living in household of another,Disabled,368.92,616.18,87.58,194.18,281.34,422.00,106.60,FALSE
+1992,MA,Licensed rest home,Aged and disabled,715.00,1430.00,293.00,797.00,422.00,633.00,504.00,FALSE
+1992,MA,Licensed rest home,Blind,571.74,1143.48,149.74,510.48,422.00,633.00,360.74,FALSE
+1992,MA,Medicaid facility,,65.00,130.00,35.00,70.00,30.00,60.00,35.00,TRUE
+1994,MA,Living independently,Aged,574.82,870.72,128.82,201.72,446.00,669.00,72.90,FALSE
+1994,MA,Living independently,Blind,595.74,1191.48,149.74,522.48,446.00,669.00,372.74,FALSE
+1994,MA,Living independently,Disabled,560.39,849.06,114.39,180.06,446.00,669.00,65.67,FALSE
+1994,MA,Shared living expenses,Aged,485.26,870.72,39.26,201.72,446.00,669.00,162.46,FALSE
+1994,MA,Shared living expenses,Blind,595.74,1191.48,149.74,522.48,446.00,669.00,372.74,FALSE
+1994,MA,Shared living expenses,Disabled,476.40,849.06,30.40,180.06,446.00,669.00,149.66,FALSE
+1994,MA,Living in household of another,Aged,401.70,661.80,104.36,215.80,297.34,446.00,111.44,FALSE
+1994,MA,Living in household of another,Blind,595.74,1191.48,298.40,745.48,297.34,446.00,447.08,FALSE
+1994,MA,Living in household of another,Disabled,384.92,640.18,87.58,194.18,297.34,446.00,106.60,FALSE
+1994,MA,Licensed rest home,Aged and disabled,739.00,1478.00,293.00,809.00,446.00,669.00,516.00,FALSE
+1994,MA,Licensed rest home,Blind,595.74,1191.48,149.74,522.48,446.00,669.00,372.74,FALSE
+1994,MA,Medicaid facility,,65.00,130.00,35.00,70.00,30.00,60.00,35.00,TRUE
+1995,MA,Living independently,Aged,586.82,888.72,128.82,201.72,458.00,687.00,72.90,FALSE
+1995,MA,Living independently,Blind,607.74,1215.48,149.74,528.48,458.00,687.00,378.74,FALSE
+1995,MA,Living independently,Disabled,572.39,867.06,114.39,180.06,458.00,687.00,65.67,FALSE
+1995,MA,Shared living expenses,Aged,497.26,888.72,39.26,201.72,458.00,687.00,162.46,FALSE
+1995,MA,Shared living expenses,Blind,607.74,1215.48,149.74,528.48,458.00,687.00,378.74,FALSE
+1995,MA,Shared living expenses,Disabled,488.40,867.06,30.40,180.06,458.00,687.00,149.66,FALSE
+1995,MA,Living in household of another,Aged,409.70,673.80,104.36,215.80,305.34,458.00,111.44,FALSE
+1995,MA,Living in household of another,Blind,607.74,1215.48,302.40,757.48,305.34,458.00,455.08,FALSE
+1995,MA,Living in household of another,Disabled,392.92,652.18,87.58,194.18,305.34,458.00,106.60,FALSE
+1995,MA,Licensed rest home,Aged and disabled,751.00,1502.00,293.00,815.00,458.00,687.00,522.00,FALSE
+1995,MA,Licensed rest home,Blind,607.74,1215.48,149.74,528.48,458.00,687.00,378.74,FALSE
+1995,MA,Medicaid facility,,65.00,130.00,35.00,70.00,30.00,60.00,35.00,TRUE
+1995,MA,Assisted living,,912.00,1368.00,454.00,681.00,458.00,687.00,227.00,FALSE
+1996,MA,Living independently,Aged,596.32,901.72,126.32,196.72,470.00,705.00,70.40,FALSE
+1996,MA,Living independently,Blind,619.74,1239.48,149.74,534.48,470.00,705.00,384.74,FALSE
+1996,MA,Living independently,Disabled,581.89,880.06,111.89,175.06,470.00,705.00,63.17,FALSE
+1996,MA,Shared living expenses,Aged,506.76,901.72,36.76,196.72,470.00,705.00,159.96,FALSE
+1996,MA,Shared living expenses,Blind,619.74,1239.48,149.74,534.48,470.00,705.00,384.74,FALSE
+1996,MA,Shared living expenses,Disabled,497.90,880.06,27.90,175.06,470.00,705.00,147.16,FALSE
+1996,MA,Living in household of another,Aged,415.20,680.80,101.86,210.80,313.34,470.00,108.94,FALSE
+1996,MA,Living in household of another,Blind,621.74,1239.48,308.40,769.48,313.34,470.00,461.08,FALSE
+1996,MA,Living in household of another,Disabled,398.42,659.18,85.08,189.18,313.34,470.00,104.10,FALSE
+1996,MA,Licensed rest home,Aged and disabled,763.00,1526.00,293.00,821.00,470.00,705.00,528.00,FALSE
+1996,MA,Licensed rest home,Blind,619.74,1239.48,149.74,534.48,470.00,705.00,384.74,FALSE
+1996,MA,Medicaid facility,,65.00,130.00,35.00,70.00,30.00,60.00,35.00,TRUE
+1997,MA,Living independently,Aged,610.32,922.72,126.32,196.72,484.00,726.00,70.40,FALSE
+1997,MA,Living independently,Blind,633.74,1267.48,149.74,541.48,484.00,726.00,391.74,FALSE
+1997,MA,Living independently,Disabled,595.89,901.06,111.89,175.06,484.00,726.00,63.17,FALSE
+1997,MA,Shared living expenses,Aged,520.76,922.72,36.76,196.72,484.00,726.00,159.96,FALSE
+1997,MA,Shared living expenses,Blind,633.74,1267.48,149.74,541.48,484.00,726.00,391.74,FALSE
+1997,MA,Shared living expenses,Disabled,511.90,901.06,27.90,175.06,484.00,726.00,147.16,FALSE
+1997,MA,Living in household of another,Aged,424.53,694.80,101.86,210.80,322.67,484.00,108.94,FALSE
+1997,MA,Living in household of another,Blind,633.74,1267.48,311.07,783.48,322.67,484.00,472.41,FALSE
+1997,MA,Living in household of another,Disabled,407.75,673.18,85.08,189.18,322.67,484.00,104.10,FALSE
+1997,MA,Licensed rest home,Aged and disabled,777.00,1554.00,293.00,828.00,484.00,726.00,535.00,FALSE
+1997,MA,Licensed rest home,Blind,633.74,1267.48,149.74,541.48,484.00,726.00,391.74,FALSE
+1997,MA,Medicaid facility,,65.00,130.00,35.00,70.00,30.00,60.00,35.00,TRUE
+1998,MA,Living independently,Aged,622.82,942.72,128.82,201.72,494.00,741.00,72.90,FALSE
+1998,MA,Living independently,Blind,643.74,1287.48,149.74,546.48,494.00,741.00,396.74,FALSE
+1998,MA,Living independently,Disabled,608.39,921.06,114.39,180.06,494.00,741.00,65.67,FALSE
+1998,MA,Shared living expenses,Aged,533.26,942.72,39.26,104.36,494.00,838.36,65.10,FALSE
+1998,MA,Shared living expenses,Blind,643.74,1287.48,149.74,314.40,494.00,973.08,164.66,FALSE
+1998,MA,Shared living expenses,Disabled,524.40,921.06,30.40,87.58,494.00,833.48,57.18,FALSE
+1998,MA,Living in household of another,Aged,433.70,709.80,201.72,215.80,231.98,494.00,14.08,FALSE
+1998,MA,Living in household of another,Blind,643.74,1287.48,546.48,793.48,97.26,494.00,247.00,FALSE
+1998,MA,Living in household of another,Disabled,416.92,688.18,180.06,194.18,236.86,494.00,14.12,FALSE
+1998,MA,Licensed rest home,Aged and disabled,787.00,1574.00,293.00,833.00,494.00,741.00,540.00,FALSE
+1998,MA,Licensed rest home,Blind,643.74,1287.48,149.74,546.48,494.00,741.00,396.74,FALSE
+1998,MA,Medicaid facility,,65.00,130.00,35.00,70.00,30.00,60.00,35.00,TRUE
+1999,MA,Living independently,Aged,628.82,952.72,128.82,201.72,500.00,751.00,72.90,FALSE
+1999,MA,Living independently,Blind,649.74,1299.48,149.74,548.48,500.00,751.00,398.74,FALSE
+1999,MA,Living independently,Disabled,614.39,931.06,114.39,180.06,500.00,751.00,65.67,FALSE
+1999,MA,Shared living expenses,Aged,539.26,952.72,39.26,201.72,500.00,751.00,162.46,FALSE
+1999,MA,Shared living expenses,Blind,649.74,1299.48,149.74,548.48,500.00,751.00,398.74,FALSE
+1999,MA,Shared living expenses,Disabled,530.40,931.06,30.40,180.06,500.00,751.00,149.66,FALSE
+1999,MA,Living in household of another,Aged,437.70,716.48,104.36,215.81,333.34,500.67,111.45,FALSE
+1999,MA,Living in household of another,Blind,649.74,1299.48,316.40,798.81,333.34,500.67,482.41,FALSE
+1999,MA,Living in household of another,Disabled,420.92,694.86,87.58,194.19,333.34,500.67,106.61,FALSE
+1999,MA,Licensed rest home,Aged and disabled,793.00,1586.00,293.00,835.00,500.00,751.00,542.00,FALSE
+1999,MA,Licensed rest home,Blind,649.74,1299.48,149.74,548.48,500.00,751.00,398.74,FALSE
+1999,MA,Medicaid facility,,65.00,130.00,35.00,70.00,30.00,60.00,35.00,TRUE
+1999,MA,Assisted living,,954.00,1432.00,454.00,681.00,500.00,751.00,227.00,FALSE
+2000,MA,Living independently,Aged,640.82,970.72,128.82,201.72,512.00,769.00,72.90,FALSE
+2000,MA,Living independently,Blind,661.74,1323.48,149.74,554.48,512.00,769.00,404.74,FALSE
+2000,MA,Living independently,Disabled,626.39,949.06,114.39,180.06,512.00,769.00,65.67,FALSE
+2000,MA,Shared living expenses,Aged,551.26,970.72,39.26,201.72,512.00,769.00,162.46,FALSE
+2000,MA,Shared living expenses,Blind,661.74,1323.48,149.74,554.48,512.00,769.00,404.74,FALSE
+2000,MA,Shared living expenses,Disabled,542.40,949.06,30.40,180.06,512.00,769.00,149.66,FALSE
+2000,MA,Living in household of another,Aged,445.70,728.47,104.36,215.80,341.34,512.67,111.44,FALSE
+2000,MA,Living in household of another,Blind,661.74,1323.47,320.40,810.80,341.34,512.67,490.40,FALSE
+2000,MA,Living in household of another,Disabled,428.92,706.85,87.58,194.18,341.34,512.67,106.60,FALSE
+2000,MA,Licensed rest home,Aged and disabled,805.00,1610.00,293.00,841.00,512.00,769.00,548.00,FALSE
+2000,MA,Licensed rest home,Blind,661.74,1323.48,149.74,554.48,512.00,769.00,404.74,FALSE
+2000,MA,Medicaid facility,,65.00,130.00,35.00,70.00,30.00,60.00,35.00,TRUE
+2000,MA,Assisted living,,966.00,1450.00,454.00,681.00,512.00,769.00,227.00,FALSE
+2004,MA,Living independently,Aged,692.82,1047.72,128.82,201.72,564.00,846.00,72.90,FALSE
+2004,MA,Living independently,Blind,713.74,1427.48,149.74,581.48,564.00,846.00,431.74,FALSE
+2004,MA,Living independently,Disabled,678.39,1026.06,114.39,180.06,564.00,846.00,65.67,FALSE
+2004,MA,Shared living expenses,Aged,603.26,1047.72,39.26,201.72,564.00,846.00,162.46,FALSE
+2004,MA,Shared living expenses,Blind,713.74,1427.48,149.74,581.48,564.00,846.00,431.74,FALSE
+2004,MA,Shared living expenses,Disabled,594.40,1026.06,30.40,180.06,564.00,846.00,149.66,FALSE
+2004,MA,Living in household of another,Aged,480.36,779.80,104.36,215.80,376.00,564.00,111.44,FALSE
+2004,MA,Living in household of another,Blind,713.74,1427.48,337.74,863.48,376.00,564.00,525.74,FALSE
+2004,MA,Living in household of another,Disabled,463.58,758.18,87.58,194.18,376.00,564.00,106.60,FALSE
+2004,MA,Licensed rest home,Aged and disabled,857.00,1714.00,293.00,868.00,564.00,846.00,575.00,FALSE
+2004,MA,Licensed rest home,Blind,713.74,1427.48,149.74,581.48,564.00,846.00,431.74,FALSE
+2004,MA,Medicaid facility,,65.00,130.00,35.00,70.00,30.00,60.00,35.00,TRUE
+2004,MA,Assisted living facility,,1018.00,1527.00,454.00,681.00,564.00,846.00,227.00,FALSE
+2005,MA,Living independently,Aged,707.82,1070.72,128.82,201.72,579.00,869.00,72.90,FALSE
+2005,MA,Living independently,Blind,728.74,1457.48,149.74,588.48,579.00,869.00,438.74,FALSE
+2005,MA,Living independently,Disabled,693.39,1049.06,114.39,180.06,579.00,869.00,65.67,FALSE
+2005,MA,Shared living expenses,Aged,618.26,1070.72,39.26,201.72,579.00,869.00,162.46,FALSE
+2005,MA,Shared living expenses,Blind,728.74,1457.48,149.74,588.48,579.00,869.00,438.74,FALSE
+2005,MA,Shared living expenses,Disabled,609.40,1049.06,30.40,180.06,579.00,869.00,149.66,FALSE
+2005,MA,Living in household of another,Aged,490.36,795.14,104.36,215.80,386.00,579.34,111.44,FALSE
+2005,MA,Living in household of another,Blind,728.74,1457.48,342.74,878.14,386.00,579.34,535.40,FALSE
+2005,MA,Living in household of another,Disabled,473.58,773.52,87.58,194.18,386.00,579.34,106.60,FALSE
+2005,MA,Licensed rest home,Aged and disabled,872.00,1744.00,293.00,875.00,579.00,869.00,582.00,FALSE
+2005,MA,Licensed rest home,Blind,728.74,1457.48,149.74,588.48,579.00,869.00,438.74,FALSE
+2005,MA,Medicaid facility,,65.00,130.00,35.00,70.00,30.00,60.00,35.00,TRUE
+2005,MA,Assisted living facility,,1033.00,1550.00,454.00,681.00,579.00,869.00,227.00,FALSE
+2006,MA,Living independently,Aged,731.82,1105.72,128.82,201.72,603.00,904.00,72.90,FALSE
+2006,MA,Living independently,Blind,752.74,1505.48,149.74,601.48,603.00,904.00,451.74,FALSE
+2006,MA,Living independently,Disabled,717.39,1084.06,114.39,180.06,603.00,904.00,65.67,FALSE
+2006,MA,Shared living expenses,Aged,642.26,1105.72,39.26,201.72,603.00,904.00,162.46,FALSE
+2006,MA,Shared living expenses,Blind,752.74,1505.48,149.74,601.48,603.00,904.00,451.74,FALSE
+2006,MA,Shared living expenses,Disabled,633.40,1084.06,30.40,180.06,603.00,904.00,149.66,FALSE
+2006,MA,Living in household of another,Aged,506.36,818.47,104.36,215.80,402.00,602.67,111.44,FALSE
+2006,MA,Living in household of another,Blind,752.74,1505.47,350.74,902.80,402.00,602.67,552.06,FALSE
+2006,MA,Living in household of another,Disabled,489.58,796.85,87.58,194.18,402.00,602.67,106.60,FALSE
+2006,MA,Licensed rest home,Aged and disabled,896.00,1792.00,293.00,888.00,603.00,904.00,595.00,FALSE
+2006,MA,Licensed rest home,Blind,752.74,1505.48,149.74,601.48,603.00,904.00,451.74,FALSE
+2006,MA,Medicaid facility,,65.00,130.00,35.00,70.00,30.00,60.00,35.00,TRUE
+2006,MA,Assisted living facility,,1057.00,1585.00,454.00,681.00,603.00,904.00,227.00,FALSE
+2007,MA,Living independently,Aged,751.82,1135.72,128.82,201.72,623.00,934.00,72.90,FALSE
+2007,MA,Living independently,Blind,772.74,1545.48,149.74,611.48,623.00,934.00,461.74,FALSE
+2007,MA,Living independently,Disabled,737.39,1114.06,114.39,180.06,623.00,934.00,65.67,FALSE
+2007,MA,Shared living expenses,Aged,662.26,1135.72,39.26,201.72,623.00,934.00,162.46,FALSE
+2007,MA,Shared living expenses,Blind,772.74,1545.48,149.74,611.48,623.00,934.00,461.74,FALSE
+2007,MA,Shared living expenses,Disabled,653.40,1114.06,30.40,180.06,623.00,934.00,149.66,FALSE
+2007,MA,Living in household of another,Aged,519.70,838.47,104.36,215.80,415.34,622.67,111.44,FALSE
+2007,MA,Living in household of another,Blind,772.74,1545.47,357.40,922.80,415.34,622.67,565.40,FALSE
+2007,MA,Living in household of another,Disabled,502.92,816.85,87.58,194.18,415.34,622.67,106.60,FALSE
+2007,MA,Licensed rest home,Aged and disabled,916.00,1832.00,293.00,898.00,623.00,934.00,605.00,FALSE
+2007,MA,Licensed rest home,Blind,772.74,1545.48,149.74,611.48,623.00,934.00,461.74,FALSE
+2007,MA,Medicaid facility,,65.00,130.00,35.00,70.00,30.00,60.00,35.00,TRUE
+2007,MA,Assisted living facility,,1077.00,1615.00,454.00,681.00,623.00,934.00,227.00,FALSE
+2008,MA,Living independently,Aged,765.82,1157.72,128.82,201.72,637.00,956.00,72.90,FALSE
+2008,MA,Living independently,Blind,786.74,1573.48,149.74,617.48,637.00,956.00,467.74,FALSE
+2008,MA,Living independently,Disabled,751.39,1136.06,114.39,180.06,637.00,956.00,65.67,FALSE
+2008,MA,Shared living expenses,Aged,676.26,1157.72,39.26,201.72,637.00,956.00,162.46,FALSE
+2008,MA,Shared living expenses,Blind,786.74,1573.48,149.74,617.48,637.00,956.00,467.74,FALSE
+2008,MA,Shared living expenses,Disabled,667.40,1136.06,30.40,180.06,637.00,956.00,149.66,FALSE
+2008,MA,Living in household of another,Aged,529.03,853.14,104.36,215.80,424.67,637.34,111.44,FALSE
+2008,MA,Living in household of another,Blind,786.74,1573.48,362.07,936.14,424.67,637.34,574.07,FALSE
+2008,MA,Living in household of another,Disabled,512.25,831.52,87.58,194.18,424.67,637.34,106.60,FALSE
+2008,MA,Licensed rest home,Aged and disabled,930.00,1860.00,293.00,904.00,637.00,956.00,611.00,FALSE
+2008,MA,Licensed rest home,Blind,786.74,1573.48,149.74,617.48,637.00,956.00,467.74,FALSE
+2008,MA,Medicaid facility,,72.80,145.60,42.80,85.60,30.00,60.00,42.80,TRUE
+2008,MA,Assisted living facility,,1091.00,1637.00,454.00,681.00,637.00,956.00,227.00,FALSE
+2011,MA,Living independently,Aged,802.82,1212.72,128.82,201.72,674.00,1011.00,72.90,FALSE
+2011,MA,Living independently,Blind,823.74,1647.48,149.74,636.48,674.00,1011.00,486.74,FALSE
+2011,MA,Living independently,Disabled,788.39,1191.06,114.39,180.06,674.00,1011.00,65.67,FALSE
+2011,MA,Shared living expenses,Aged,713.26,1212.72,39.26,201.72,674.00,1011.00,162.46,FALSE
+2011,MA,Shared living expenses,Blind,823.74,1647.48,149.74,636.48,674.00,1011.00,486.74,FALSE
+2011,MA,Shared living expenses,Disabled,704.40,1191.06,30.40,180.06,674.00,1011.00,149.66,FALSE
+2011,MA,Living in household of another,Aged,553.70,889.80,104.36,215.80,449.34,674.00,111.44,FALSE
+2011,MA,Living in household of another,Blind,823.74,1647.49,374.40,973.48,449.34,674.01,599.08,FALSE
+2011,MA,Living in household of another,Disabled,536.92,868.18,87.58,194.18,449.34,674.00,106.60,FALSE
+2011,MA,Licensed rest home,Aged and disabled,967.00,1934.00,293.00,923.00,674.00,1011.00,630.00,FALSE
+2011,MA,Licensed rest home,Blind,823.74,1647.48,149.74,636.48,674.00,1011.00,486.74,FALSE
+2011,MA,Medicaid facility,,72.80,145.60,42.80,85.60,30.00,60.00,42.80,TRUE
+2011,MA,Assisted living facility,,1128.00,1692.00,454.00,681.00,674.00,1011.00,227.00,FALSE
