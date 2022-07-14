@@ -1,65 +1,65 @@
 year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
-1990,VA,Licensed home for adults,Planning district 8,703.00,1406.00,317.00,827.00,386.00,579.00,510.00,FALSE
-1990,VA,Licensed home for adults,All other areas,616.00,1232.00,230.00,653.00,386.00,579.00,423.00,FALSE
-1990,VA,Adult family care,Planning district 8,530.00,1060.00,144.00,481.00,386.00,579.00,337.00,FALSE
-1990,VA,Adult family care,All other areas,465.00,930.00,79.00,351.00,386.00,579.00,272.00,FALSE
-1991,VA,Licensed home for adults,Planning district 8,727.00,1454.00,320.00,844.00,407.00,610.00,524.00,FALSE
-1991,VA,Licensed home for adults,All other areas,637.00,1274.00,230.00,664.00,407.00,610.00,434.00,FALSE
-1991,VA,Adult family care,Planning district 8,548.00,1096.00,141.00,486.00,407.00,610.00,345.00,FALSE
-1991,VA,Adult family care,All other areas,480.00,960.00,73.00,350.00,407.00,610.00,277.00,FALSE
-1992,VA,Licensed home for adults,Planning district 8,743.00,1486.00,321.00,853.00,422.00,633.00,532.00,FALSE
-1992,VA,Licensed home for adults,All other areas,651.00,1302.00,229.00,669.00,422.00,633.00,440.00,FALSE
-1992,VA,Adult family care,Planning district 8,560.00,1120.00,138.00,487.00,422.00,633.00,349.00,FALSE
-1992,VA,Adult family care,All other areas,490.00,980.00,68.00,347.00,422.00,633.00,279.00,FALSE
-1994,VA,Licensed home for adults,Planning district 8,765.00,1530.00,319.00,861.00,446.00,669.00,542.00,FALSE
-1994,VA,Licensed home for adults,All other areas,671.00,1342.00,225.00,673.00,446.00,669.00,448.00,FALSE
-1994,VA,Adult family care,Planning district 8,576.00,1152.00,130.00,483.00,446.00,669.00,353.00,FALSE
-1994,VA,Adult family care,All other areas,506.00,1012.00,60.00,343.00,446.00,669.00,283.00,FALSE
-1995,VA,Licensed home for adults,Planning district 8,805.00,1610.00,347.00,923.00,458.00,687.00,576.00,FALSE
-1995,VA,Licensed home for adults,All other areas,705.00,1410.00,247.00,723.00,458.00,687.00,476.00,FALSE
-1995,VA,Adult family care,Planning district 8,592.00,1184.00,134.00,497.00,458.00,687.00,363.00,FALSE
-1995,VA,Adult family care,All other areas,520.00,1040.00,62.00,353.00,458.00,687.00,291.00,FALSE
-1996,VA,Adult Care Residence,Planning district 8,816.00,1632.00,346.00,927.00,470.00,705.00,581.00,FALSE
-1996,VA,Adult Care Residence,All other areas,715.00,1430.00,245.00,725.00,470.00,705.00,480.00,FALSE
-1996,VA,Adult family care,Planning district 8,592.00,1184.00,122.00,479.00,470.00,705.00,357.00,FALSE
-1996,VA,Adult family care,All other areas,520.00,1040.00,50.00,335.00,470.00,705.00,285.00,FALSE
-1997,VA,Adult Care Residence,Planning district 8,839.00,1678.00,355.00,952.00,484.00,726.00,597.00,FALSE
-1997,VA,Adult Care Residence,All other areas,735.00,1470.00,251.00,744.00,484.00,726.00,493.00,FALSE
-1997,VA,Adult family care,Planning district 8,592.00,1184.00,108.00,458.00,484.00,726.00,350.00,FALSE
-1997,VA,Adult family care,All other areas,520.00,1040.00,36.00,314.00,484.00,726.00,278.00,FALSE
-1998,VA,Adult Care Residence,Planning district 8,888.00,1776.00,394.00,1035.00,494.00,741.00,641.00,FALSE
-1998,VA,Adult Care Residence,All other areas,777.00,1554.00,283.00,813.00,494.00,741.00,530.00,FALSE
-1998,VA,Adult family care,Planning district 8,624.00,1248.00,130.00,507.00,494.00,741.00,377.00,FALSE
-1998,VA,Adult family care,All other areas,548.00,1096.00,54.00,355.00,494.00,741.00,301.00,FALSE
-1999,VA,Adult care residence,Planning district 8,913.00,1826.00,413.00,1075.00,500.00,751.00,662.00,FALSE
-1999,VA,Adult care residence,All other areas,801.00,1602.00,301.00,851.00,500.00,751.00,550.00,FALSE
-1999,VA,Adult family care,Planning district 8,638.00,1276.00,138.00,525.00,500.00,751.00,387.00,FALSE
-1999,VA,Adult family care,All other areas,562.00,1124.00,62.00,373.00,500.00,751.00,311.00,FALSE
-2000,VA,Adult care residence,Planning district 8,960.00,1920.00,448.00,1151.00,512.00,769.00,703.00,FALSE
-2000,VA,Adult care residence,All other areas,842.00,1602.00,330.00,833.00,512.00,769.00,503.00,FALSE
-2000,VA,Adult family care,Planning district 8,650.00,1294.00,138.00,525.00,512.00,769.00,387.00,FALSE
-2000,VA,Adult family care,All other areas,574.00,1142.00,62.00,373.00,512.00,769.00,311.00,FALSE
-2004,VA,Adult care residence,Planning district 8,1028.00,2038.00,464.00,1192.00,564.00,846.00,728.00,FALSE
-2004,VA,Adult care residence,All other areas,905.00,1794.00,341.00,948.00,564.00,846.00,607.00,FALSE
-2004,VA,Adult family care,Planning district 8,740.00,1471.00,176.00,625.00,564.00,846.00,449.00,FALSE
-2004,VA,Adult family care,All other areas,654.00,1299.00,90.00,453.00,564.00,846.00,363.00,FALSE
-2005,VA,Assisted living facility,Planning district 8,1086.00,2172.00,507.00,1303.00,579.00,869.00,796.00,FALSE
-2005,VA,Assisted living facility,All other areas,944.00,1888.00,365.00,1019.00,579.00,869.00,654.00,FALSE
-2005,VA,Adult foster care,Planning district 8,1086.00,2172.00,507.00,1303.00,579.00,869.00,796.00,FALSE
-2005,VA,Adult foster care,All other areas,944.00,1888.00,365.00,1019.00,579.00,869.00,654.00,FALSE
-2006,VA,Assisted living facility,Planning district 8,1199.00,2398.00,596.00,1494.00,603.00,904.00,898.00,FALSE
-2006,VA,Assisted living facility,All other areas,1052.00,2104.00,449.00,1200.00,603.00,904.00,751.00,FALSE
-2006,VA,Adult foster care,Planning district 8,1199.00,2398.00,596.00,1494.00,603.00,904.00,898.00,FALSE
-2006,VA,Adult foster care,All other areas,1052.00,2104.00,449.00,1200.00,603.00,904.00,751.00,FALSE
-2007,VA,Assisted living facility,Planning district 8,1280.00,2560.00,657.00,1626.00,623.00,934.00,969.00,FALSE
-2007,VA,Assisted living facility,All other areas,1123.00,2246.00,500.00,1312.00,623.00,934.00,812.00,FALSE
-2007,VA,Adult foster care,Planning district 8,1280.00,2560.00,657.00,1626.00,623.00,934.00,969.00,FALSE
-2007,VA,Adult foster care,All other areas,1123.00,2246.00,500.00,1312.00,623.00,934.00,812.00,FALSE
-2008,VA,Assisted living facility,Planning district 8,1313.00,2626.00,676.00,1670.00,637.00,956.00,994.00,FALSE
-2008,VA,Assisted living facility,All other areas,1152.00,2304.00,515.00,1348.00,637.00,956.00,833.00,FALSE
-2008,VA,Adult foster care,Planning district 8,1313.00,2626.00,676.00,1670.00,637.00,956.00,994.00,FALSE
-2008,VA,Adult foster care,All other areas,1152.00,2304.00,515.00,1348.00,637.00,956.00,833.00,FALSE
-2011,VA,Assisted living facility,Planning district 8,1360.00,2720.00,686.00,1709.00,674.00,1011.00,1023.00,FALSE
-2011,VA,Assisted living facility,All other areas,1193.00,2386.00,519.00,1375.00,674.00,1011.00,856.00,FALSE
-2011,VA,Adult foster care,Planning district 8,1360.00,2720.00,686.00,1709.00,674.00,1011.00,1023.00,FALSE
-2011,VA,Adult foster care,All other areas,1193.00,2386.00,519.00,1375.00,674.00,1011.00,856.00,FALSE
+1990,VA,Licensed home for adults,Planning district 8,703,1406,317,827,386,579,510,false
+1990,VA,Licensed home for adults,All other areas,616,1232,230,653,386,579,423,false
+1990,VA,Adult family care,Planning district 8,530,1060,144,481,386,579,337,false
+1990,VA,Adult family care,All other areas,465,930,79,351,386,579,272,false
+1991,VA,Licensed home for adults,Planning district 8,727,1454,320,844,407,610,524,false
+1991,VA,Licensed home for adults,All other areas,637,1274,230,664,407,610,434,false
+1991,VA,Adult family care,Planning district 8,548,1096,141,486,407,610,345,false
+1991,VA,Adult family care,All other areas,480,960,73,350,407,610,277,false
+1992,VA,Licensed home for adults,Planning district 8,743,1486,321,853,422,633,532,false
+1992,VA,Licensed home for adults,All other areas,651,1302,229,669,422,633,440,false
+1992,VA,Adult family care,Planning district 8,560,1120,138,487,422,633,349,false
+1992,VA,Adult family care,All other areas,490,980,68,347,422,633,279,false
+1994,VA,Licensed home for adults,Planning district 8,765,1530,319,861,446,669,542,false
+1994,VA,Licensed home for adults,All other areas,671,1342,225,673,446,669,448,false
+1994,VA,Adult family care,Planning district 8,576,1152,130,483,446,669,353,false
+1994,VA,Adult family care,All other areas,506,1012,60,343,446,669,283,false
+1995,VA,Licensed home for adults,Planning district 8,805,1610,347,923,458,687,576,false
+1995,VA,Licensed home for adults,All other areas,705,1410,247,723,458,687,476,false
+1995,VA,Adult family care,Planning district 8,592,1184,134,497,458,687,363,false
+1995,VA,Adult family care,All other areas,520,1040,62,353,458,687,291,false
+1996,VA,Adult Care Residence,Planning district 8,816,1632,346,927,470,705,581,false
+1996,VA,Adult Care Residence,All other areas,715,1430,245,725,470,705,480,false
+1996,VA,Adult family care,Planning district 8,592,1184,122,479,470,705,357,false
+1996,VA,Adult family care,All other areas,520,1040,50,335,470,705,285,false
+1997,VA,Adult Care Residence,Planning district 8,839,1678,355,952,484,726,597,false
+1997,VA,Adult Care Residence,All other areas,735,1470,251,744,484,726,493,false
+1997,VA,Adult family care,Planning district 8,592,1184,108,458,484,726,350,false
+1997,VA,Adult family care,All other areas,520,1040,36,314,484,726,278,false
+1998,VA,Adult Care Residence,Planning district 8,888,1776,394,1035,494,741,641,false
+1998,VA,Adult Care Residence,All other areas,777,1554,283,813,494,741,530,false
+1998,VA,Adult family care,Planning district 8,624,1248,130,507,494,741,377,false
+1998,VA,Adult family care,All other areas,548,1096,54,355,494,741,301,false
+1999,VA,Adult care residence,Planning district 8,913,1826,413,1075,500,751,662,false
+1999,VA,Adult care residence,All other areas,801,1602,301,851,500,751,550,false
+1999,VA,Adult family care,Planning district 8,638,1276,138,525,500,751,387,false
+1999,VA,Adult family care,All other areas,562,1124,62,373,500,751,311,false
+2000,VA,Adult care residence,Planning district 8,960,1920,448,1151,512,769,703,false
+2000,VA,Adult care residence,All other areas,842,1602,330,833,512,769,503,false
+2000,VA,Adult family care,Planning district 8,650,1294,138,525,512,769,387,false
+2000,VA,Adult family care,All other areas,574,1142,62,373,512,769,311,false
+2004,VA,Adult care residence,Planning district 8,1028,2038,464,1192,564,846,728,false
+2004,VA,Adult care residence,All other areas,905,1794,341,948,564,846,607,false
+2004,VA,Adult family care,Planning district 8,740,1471,176,625,564,846,449,false
+2004,VA,Adult family care,All other areas,654,1299,90,453,564,846,363,false
+2005,VA,Assisted living facility,Planning district 8,1086,2172,507,1303,579,869,796,false
+2005,VA,Assisted living facility,All other areas,944,1888,365,1019,579,869,654,false
+2005,VA,Adult foster care,Planning district 8,1086,2172,507,1303,579,869,796,false
+2005,VA,Adult foster care,All other areas,944,1888,365,1019,579,869,654,false
+2006,VA,Assisted living facility,Planning district 8,1199,2398,596,1494,603,904,898,false
+2006,VA,Assisted living facility,All other areas,1052,2104,449,1200,603,904,751,false
+2006,VA,Adult foster care,Planning district 8,1199,2398,596,1494,603,904,898,false
+2006,VA,Adult foster care,All other areas,1052,2104,449,1200,603,904,751,false
+2007,VA,Assisted living facility,Planning district 8,1280,2560,657,1626,623,934,969,false
+2007,VA,Assisted living facility,All other areas,1123,2246,500,1312,623,934,812,false
+2007,VA,Adult foster care,Planning district 8,1280,2560,657,1626,623,934,969,false
+2007,VA,Adult foster care,All other areas,1123,2246,500,1312,623,934,812,false
+2008,VA,Assisted living facility,Planning district 8,1313,2626,676,1670,637,956,994,false
+2008,VA,Assisted living facility,All other areas,1152,2304,515,1348,637,956,833,false
+2008,VA,Adult foster care,Planning district 8,1313,2626,676,1670,637,956,994,false
+2008,VA,Adult foster care,All other areas,1152,2304,515,1348,637,956,833,false
+2011,VA,Assisted living facility,Planning district 8,1360,2720,686,1709,674,1011,1023,false
+2011,VA,Assisted living facility,All other areas,1193,2386,519,1375,674,1011,856,false
+2011,VA,Adult foster care,Planning district 8,1360,2720,686,1709,674,1011,1023,false
+2011,VA,Adult foster care,All other areas,1193,2386,519,1375,674,1011,856,false

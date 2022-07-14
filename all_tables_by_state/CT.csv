@@ -1,34 +1,34 @@
 year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
-1990,CT,Independent community living,,752.00,1104.00,366.00,525.00,386.00,579.00,159.00,FALSE
-1991,CT,Independent community living,,766.00,1132.00,359.00,522.00,407.00,610.00,163.00,FALSE
-1992,CT,Independent community living,,747.10,1094.20,325.10,461.20,422.00,633.00,136.10,FALSE
-1994,CT,Independent community living,,747.10,1094.20,301.10,425.20,446.00,669.00,124.10,FALSE
-1995,CT,Independent community living,,747.00,1093.00,289.00,406.00,458.00,687.00,117.00,FALSE
-1996,CT,Independent community living,,747.00,1094.00,277.00,389.00,470.00,705.00,112.00,FALSE
-1997,CT,Independent community living,,747.00,1094.00,263.00,368.00,484.00,726.00,105.00,FALSE
-1998,CT,Independent community living,,747.00,1094.00,253.00,353.00,494.00,741.00,100.00,FALSE
-1998,CT,Licensed room and board facility,,494.00,741.00,0.00,0.00,494.00,741.00,0.00,TRUE
-1999,CT,Independent community living,,747.00,1094.00,247.00,343.00,500.00,751.00,96.00,FALSE
-1999,CT,Licensed room and board facility,,500.00,751.00,0.00,0.00,500.00,751.00,0.00,TRUE
-1999,CT,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE
-2000,CT,Independent community living,,747.00,1094.00,235.00,325.00,512.00,769.00,90.00,FALSE
-2000,CT,Licensed room and board facility,,512.00,769.00,0.00,0.00,512.00,769.00,0.00,TRUE
-2000,CT,Medicaid facility,,51.00,102.00,21.00,42.00,30.00,60.00,21.00,TRUE
-2004,CT,Independent community living,,747.00,1096.00,183.00,250.00,564.00,846.00,67.00,FALSE
-2004,CT,Licensed room and board facility,,564.00,846.00,0.00,0.00,564.00,846.00,0.00,TRUE
-2004,CT,Medicaid facility,,56.00,112.00,26.00,52.00,30.00,60.00,26.00,TRUE
-2005,CT,Independent community living,,747.00,1096.00,168.00,227.00,579.00,869.00,59.00,FALSE
-2005,CT,Licensed room and board facility,,579.00,869.00,0.00,0.00,579.00,869.00,0.00,TRUE
-2005,CT,Medicaid facility,,57.00,114.00,27.00,54.00,30.00,60.00,27.00,TRUE
-2006,CT,Independent community living,,771.00,1144.00,168.00,240.00,603.00,904.00,72.00,FALSE
-2006,CT,Licensed room and board facility,,603.00,904.00,0.00,0.00,603.00,904.00,0.00,TRUE
-2006,CT,Medicaid facility,,59.00,118.00,29.00,58.00,30.00,60.00,29.00,TRUE
-2007,CT,Independent community living,,791.00,1184.00,168.00,250.00,623.00,934.00,82.00,FALSE
-2007,CT,Licensed room and board facility,,623.00,934.00,0.00,0.00,623.00,934.00,0.00,TRUE
-2007,CT,Medicaid facility,,61.00,122.00,31.00,62.00,30.00,60.00,31.00,TRUE
-2008,CT,Independent community living,,805.00,1212.00,168.00,256.00,637.00,956.00,88.00,FALSE
-2008,CT,Licensed room and board facility,,637.00,956.00,0.00,0.00,637.00,956.00,0.00,TRUE
-2008,CT,Medicaid facility,,63.00,126.00,33.00,66.00,30.00,60.00,33.00,TRUE
-2011,CT,Independent community living,,842.00,1285.00,168.00,274.00,674.00,1011.00,106.00,FALSE
-2011,CT,Licensed room and board facility,,674.00,1011.00,0.00,0.00,674.00,1011.00,0.00,TRUE
-2011,CT,Medicaid facility,,69.00,138.00,39.00,78.00,30.00,60.00,39.00,TRUE
+1990,CT,Independent community living,,752,1104,366,525,386,579,159,false
+1991,CT,Independent community living,,766,1132,359,522,407,610,163,false
+1992,CT,Independent community living,,747.1,1094.2,325.1,461.2,422,633,136.09999999999997,false
+1994,CT,Independent community living,,747.1,1094.2,301.1,425.2,446,669,124.09999999999997,false
+1995,CT,Independent community living,,747,1093,289,406,458,687,117,false
+1996,CT,Independent community living,,747,1094,277,389,470,705,112,false
+1997,CT,Independent community living,,747,1094,263,368,484,726,105,false
+1998,CT,Independent community living,,747,1094,253,353,494,741,100,false
+1998,CT,Licensed room and board facility,,494,741,0,0,494,741,0,true
+1999,CT,Independent community living,,747,1094,247,343,500,751,96,false
+1999,CT,Licensed room and board facility,,500,751,0,0,500,751,0,true
+1999,CT,Medicaid facility,,50,100,20,40,30,60,20,true
+2000,CT,Independent community living,,747,1094,235,325,512,769,90,false
+2000,CT,Licensed room and board facility,,512,769,0,0,512,769,0,true
+2000,CT,Medicaid facility,,51,102,21,42,30,60,21,true
+2004,CT,Independent community living,,747,1096,183,250,564,846,67,false
+2004,CT,Licensed room and board facility,,564,846,0,0,564,846,0,true
+2004,CT,Medicaid facility,,56,112,26,52,30,60,26,true
+2005,CT,Independent community living,,747,1096,168,227,579,869,59,false
+2005,CT,Licensed room and board facility,,579,869,0,0,579,869,0,true
+2005,CT,Medicaid facility,,57,114,27,54,30,60,27,true
+2006,CT,Independent community living,,771,1144,168,240,603,904,72,false
+2006,CT,Licensed room and board facility,,603,904,0,0,603,904,0,true
+2006,CT,Medicaid facility,,59,118,29,58,30,60,29,true
+2007,CT,Independent community living,,791,1184,168,250,623,934,82,false
+2007,CT,Licensed room and board facility,,623,934,0,0,623,934,0,true
+2007,CT,Medicaid facility,,61,122,31,62,30,60,31,true
+2008,CT,Independent community living,,805,1212,168,256,637,956,88,false
+2008,CT,Licensed room and board facility,,637,956,0,0,637,956,0,true
+2008,CT,Medicaid facility,,63,126,33,66,30,60,33,true
+2011,CT,Independent community living,,842,1285,168,274,674,1011,106,false
+2011,CT,Licensed room and board facility,,674,1011,0,0,674,1011,0,true
+2011,CT,Medicaid facility,,69,138,39,78,30,60,39,true

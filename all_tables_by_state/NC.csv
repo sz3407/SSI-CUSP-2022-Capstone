@@ -1,72 +1,72 @@
 year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
-1990,NC,Domiciliary care,(Ambulatory),724.00,1135.00,338.00,556.00,386.00,579.00,218.00,FALSE
-1990,NC,Domiciliary care,(Semi-ambulatory),760.00,1171.00,374.00,592.00,386.00,579.00,218.00,FALSE
-1990,NC,Blind ineligible for SSI,Not paying shelter/utilities,0.00,0.00,97.00,194.00,-97.00,-194.00,97.00,TRUE
-1990,NC,Blind ineligible for SSI,Paying shelter/utilities,0.00,0.00,146.00,243.00,-146.00,-243.00,97.00,FALSE
-1991,NC,Domiciliary care,(Ambulatory),756.00,1188.00,349.00,578.00,407.00,610.00,229.00,FALSE
-1991,NC,Domiciliary care,(Semi-ambulatory),793.00,1225.00,386.00,615.00,407.00,610.00,229.00,FALSE
-1991,NC,Blind ineligible for SSI,Not paying shelter/utilities,0.00,0.00,97.00,194.00,-97.00,-194.00,97.00,TRUE
-1991,NC,Blind ineligible for SSI,Paying shelter/utilities,0.00,0.00,146.00,243.00,-146.00,-243.00,97.00,FALSE
-1992,NC,Domiciliary care,(Ambulatory),832.00,1279.00,410.00,646.00,422.00,633.00,236.00,FALSE
-1992,NC,Domiciliary care,(Semi-ambulatory),871.00,1318.00,449.00,685.00,422.00,633.00,236.00,FALSE
-1992,NC,Blind ineligible for SSI,Not paying shelter/utilities,0.00,0.00,97.00,194.00,-97.00,-194.00,97.00,TRUE
-1992,NC,Blind ineligible for SSI,Paying shelter/utilities,0.00,0.00,146.00,243.00,-146.00,-243.00,97.00,FALSE
-1994,NC,Domiciliary care,(Ambulatory),965.00,1411.00,519.00,742.00,446.00,669.00,223.00,FALSE
-1994,NC,Domiciliary care,(Semi-ambulatory),1006.00,1452.00,560.00,783.00,446.00,669.00,223.00,FALSE
-1994,NC,Blind ineligible for SSI,Not paying shelter/utilities,0.00,0.00,97.00,194.00,-97.00,-194.00,97.00,TRUE
-1994,NC,Blind ineligible for SSI,Paying shelter/utilities,0.00,0.00,146.00,243.00,-146.00,-243.00,97.00,FALSE
-1995,NC,Domiciliary care,(Ambulatory),1006.00,1464.00,548.00,777.00,458.00,687.00,229.00,FALSE
-1995,NC,Domiciliary care,(Semi-ambulatory),1048.00,1506.00,590.00,819.00,458.00,687.00,229.00,FALSE
-1995,NC,Blind ineligible for SSI,Not paying shelter/utilities,0.00,0.00,97.00,194.00,-97.00,-194.00,97.00,TRUE
-1995,NC,Blind ineligible for SSI,Paying shelter/utilities,0.00,0.00,146.00,243.00,-146.00,-243.00,97.00,FALSE
-1996,NC,Adult Care Home,Basic,875.00,1314.00,405.00,609.00,470.00,705.00,204.00,FALSE
-1996,NC,Adult Care Home,Disenfranchised-ambulatory,1006.00,1476.00,536.00,771.00,470.00,705.00,235.00,FALSE
-1996,NC,Adult Care Home,Disenfranchised-semi-ambulatory,1017.00,1487.00,547.00,782.00,470.00,705.00,235.00,FALSE
-1996,NC,Blind ineligible for SSI,Not paying shelter/utilities,0.00,0.00,97.00,194.00,-97.00,-194.00,97.00,TRUE
-1996,NC,Blind ineligible for SSI,Paying shelter/utilities,0.00,0.00,146.00,243.00,-146.00,-243.00,97.00,FALSE
-1997,NC,Adult Care Home,Basic,905.00,0.00,421.00,0.00,484.00,0.00,-421.00,FALSE
-1997,NC,Adult Care Home,Disenfranchised-ambulatory,1006.00,0.00,522.00,0.00,484.00,0.00,-522.00,FALSE
-1997,NC,Adult Care Home,Disenfranchised-semi-ambulatory,1048.00,0.00,564.00,0.00,484.00,0.00,-564.00,FALSE
-1997,NC,Blind ineligible for SSI,Not paying shelter/utilities,0.00,0.00,97.00,194.00,-97.00,-194.00,97.00,TRUE
-1997,NC,Blind ineligible for SSI,Paying shelter/utilities,0.00,0.00,146.00,243.00,-146.00,-243.00,97.00,FALSE
-1998,NC,Adult Care Home,Basic,924.00,0.00,430.00,0.00,494.00,0.00,-430.00,FALSE
-1998,NC,Adult Care Home,Disenfranchised-ambulatory,1006.00,0.00,512.00,0.00,494.00,0.00,-512.00,FALSE
-1998,NC,Adult Care Home,Disenfranchised-semi-ambulatory,1048.00,0.00,554.00,0.00,494.00,0.00,-554.00,FALSE
-1998,NC,Blind ineligible for SSI,Not paying shelter/utilities,0.00,0.00,97.00,194.00,-97.00,-194.00,97.00,TRUE
-1998,NC,Blind ineligible for SSI,Paying shelter/utilities,0.00,0.00,146.00,243.00,-146.00,-243.00,97.00,FALSE
-1999,NC,Adult care home,Basic,930.00,0.00,430.00,0.00,500.00,0.00,-430.00,FALSE
-1999,NC,Adult care home,Disenfranchised-ambulatory,1012.00,0.00,512.00,0.00,500.00,0.00,-512.00,FALSE
-1999,NC,Adult care home,Disenfranchised-semi-ambulatory,1054.00,0.00,554.00,0.00,500.00,0.00,-554.00,FALSE
-1999,NC,Blind ineligible for SSI,Not paying shelter/utilities,597.00,945.00,97.00,194.00,500.00,751.00,97.00,TRUE
-1999,NC,Blind ineligible for SSI,Paying shelter/utilities,646.00,994.00,146.00,243.00,500.00,751.00,97.00,FALSE
-2000,NC,Adult care home,Basic,982.00,0.00,470.00,0.00,512.00,0.00,-470.00,FALSE
-2000,NC,Adult care home,Disenfranchised,1231.00,0.00,719.00,0.00,512.00,0.00,-719.00,FALSE
-2000,NC,Blind ineligible for SSI,Not paying shelter and utilities,0.00,0.00,97.00,194.00,-97.00,-194.00,97.00,TRUE
-2000,NC,Blind ineligible for SSI,Paying shelter and utilities,0.00,0.00,146.00,243.00,-146.00,-243.00,97.00,FALSE
-2004,NC,Adult care home,Basic,1112.00,0.00,548.00,0.00,564.00,0.00,-548.00,FALSE
-2004,NC,Adult care home,Disenfranchised,1277.00,0.00,713.00,0.00,564.00,0.00,-713.00,FALSE
-2004,NC,Blind ineligible for SSI,Not paying shelter and utilities,0.00,0.00,97.00,194.00,-97.00,-194.00,97.00,TRUE
-2004,NC,Blind ineligible for SSI,Paying shelter and utilities,0.00,0.00,146.00,243.00,-146.00,-243.00,97.00,FALSE
-2005,NC,Adult care home,Basic,1130.00,0.00,551.00,0.00,579.00,0.00,-551.00,FALSE
-2005,NC,Adult care home,Disenfranchised,1137.00,0.00,558.00,0.00,579.00,0.00,-558.00,FALSE
-2005,NC,Blind ineligible for SSI,Not paying shelter and utilities,0.00,0.00,97.00,194.00,-97.00,-194.00,97.00,TRUE
-2005,NC,Blind ineligible for SSI,Paying shelter and utilities,0.00,0.00,146.00,243.00,-146.00,-243.00,97.00,FALSE
-2006,NC,Adult care home,Basic,1164.00,0.00,561.00,0.00,603.00,0.00,-561.00,FALSE
-2006,NC,Adult care home,Disenfranchised,1277.00,0.00,674.00,0.00,603.00,0.00,-674.00,FALSE
-2006,NC,Adult care home,Special care unit,1561.00,0.00,958.00,0.00,603.00,0.00,-958.00,FALSE
-2006,NC,Blind ineligible for SSI,Not paying shelter and utilities,0.00,0.00,97.00,194.00,-97.00,-194.00,97.00,TRUE
-2006,NC,Blind ineligible for SSI,Paying shelter and utilities,0.00,0.00,146.00,243.00,-146.00,-243.00,97.00,FALSE
-2007,NC,Adult care home,Basic,1194.00,0.00,571.00,0.00,623.00,0.00,-571.00,FALSE
-2007,NC,Adult care home,Disenfranchised,1297.00,0.00,674.00,0.00,623.00,0.00,-674.00,FALSE
-2007,NC,Adult care home,Special care unit,1561.00,0.00,938.00,0.00,623.00,0.00,-938.00,FALSE
-2007,NC,Adult care home,In home,1108.00,0.00,277.00,0.00,831.00,0.00,-277.00,FALSE
-2007,NC,Blind ineligible for SSI,Not paying shelter and utilities,0.00,0.00,97.00,194.00,-97.00,-194.00,97.00,TRUE
-2007,NC,Blind ineligible for SSI,Paying shelter and utilities,0.00,0.00,146.00,243.00,-146.00,-243.00,97.00,FALSE
-2008,NC,Adult care home,Basic,1208.00,0.00,571.00,0.00,637.00,0.00,-571.00,FALSE
-2008,NC,Adult care home,Disenfranchised,1311.00,0.00,674.00,0.00,637.00,0.00,-674.00,FALSE
-2008,NC,Adult care home,Special care unit,1575.00,0.00,938.00,0.00,637.00,0.00,-938.00,FALSE
-2008,NC,Adult care home,In home,914.00,0.00,277.00,0.00,637.00,0.00,-277.00,FALSE
-2008,NC,Blind ineligible for SSI,Not paying shelter and utilities,0.00,0.00,97.00,194.00,-97.00,-194.00,97.00,TRUE
-2008,NC,Blind ineligible for SSI,Paying shelter and utilities,0.00,0.00,146.00,243.00,-146.00,-243.00,97.00,FALSE
-2011,NC,Adult care home,Basic,1228.00,0.00,554.00,0.00,674.00,0.00,-554.00,FALSE
-2011,NC,Adult care home,Special care unit,1561.00,0.00,887.00,0.00,674.00,0.00,-887.00,FALSE
+1990,NC,Domiciliary care,(Ambulatory),724,1135,338,556,386,579,218,false
+1990,NC,Domiciliary care,(Semi-ambulatory),760,1171,374,592,386,579,218,false
+1990,NC,Blind ineligible for SSI,Not paying shelter/utilities,0,0,97,194,-97,-194,97,true
+1990,NC,Blind ineligible for SSI,Paying shelter/utilities,0,0,146,243,-146,-243,97,false
+1991,NC,Domiciliary care,(Ambulatory),756,1188,349,578,407,610,229,false
+1991,NC,Domiciliary care,(Semi-ambulatory),793,1225,386,615,407,610,229,false
+1991,NC,Blind ineligible for SSI,Not paying shelter/utilities,0,0,97,194,-97,-194,97,true
+1991,NC,Blind ineligible for SSI,Paying shelter/utilities,0,0,146,243,-146,-243,97,false
+1992,NC,Domiciliary care,(Ambulatory),832,1279,410,646,422,633,236,false
+1992,NC,Domiciliary care,(Semi-ambulatory),871,1318,449,685,422,633,236,false
+1992,NC,Blind ineligible for SSI,Not paying shelter/utilities,0,0,97,194,-97,-194,97,true
+1992,NC,Blind ineligible for SSI,Paying shelter/utilities,0,0,146,243,-146,-243,97,false
+1994,NC,Domiciliary care,(Ambulatory),965,1411,519,742,446,669,223,false
+1994,NC,Domiciliary care,(Semi-ambulatory),1006,1452,560,783,446,669,223,false
+1994,NC,Blind ineligible for SSI,Not paying shelter/utilities,0,0,97,194,-97,-194,97,true
+1994,NC,Blind ineligible for SSI,Paying shelter/utilities,0,0,146,243,-146,-243,97,false
+1995,NC,Domiciliary care,(Ambulatory),1006,1464,548,777,458,687,229,false
+1995,NC,Domiciliary care,(Semi-ambulatory),1048,1506,590,819,458,687,229,false
+1995,NC,Blind ineligible for SSI,Not paying shelter/utilities,0,0,97,194,-97,-194,97,true
+1995,NC,Blind ineligible for SSI,Paying shelter/utilities,0,0,146,243,-146,-243,97,false
+1996,NC,Adult Care Home,Basic,875,1314,405,609,470,705,204,false
+1996,NC,Adult Care Home,Disenfranchised-ambulatory,1006,1476,536,771,470,705,235,false
+1996,NC,Adult Care Home,Disenfranchised-semi-ambulatory,1017,1487,547,782,470,705,235,false
+1996,NC,Blind ineligible for SSI,Not paying shelter/utilities,0,0,97,194,-97,-194,97,true
+1996,NC,Blind ineligible for SSI,Paying shelter/utilities,0,0,146,243,-146,-243,97,false
+1997,NC,Adult Care Home,Basic,905,0,421,0,484,0,-421,false
+1997,NC,Adult Care Home,Disenfranchised-ambulatory,1006,0,522,0,484,0,-522,false
+1997,NC,Adult Care Home,Disenfranchised-semi-ambulatory,1048,0,564,0,484,0,-564,false
+1997,NC,Blind ineligible for SSI,Not paying shelter/utilities,0,0,97,194,-97,-194,97,true
+1997,NC,Blind ineligible for SSI,Paying shelter/utilities,0,0,146,243,-146,-243,97,false
+1998,NC,Adult Care Home,Basic,924,0,430,0,494,0,-430,false
+1998,NC,Adult Care Home,Disenfranchised-ambulatory,1006,0,512,0,494,0,-512,false
+1998,NC,Adult Care Home,Disenfranchised-semi-ambulatory,1048,0,554,0,494,0,-554,false
+1998,NC,Blind ineligible for SSI,Not paying shelter/utilities,0,0,97,194,-97,-194,97,true
+1998,NC,Blind ineligible for SSI,Paying shelter/utilities,0,0,146,243,-146,-243,97,false
+1999,NC,Adult care home,Basic,930,0,430,0,500,0,-430,false
+1999,NC,Adult care home,Disenfranchised-ambulatory,1012,0,512,0,500,0,-512,false
+1999,NC,Adult care home,Disenfranchised-semi-ambulatory,1054,0,554,0,500,0,-554,false
+1999,NC,Blind ineligible for SSI,Not paying shelter/utilities,597,945,97,194,500,751,97,true
+1999,NC,Blind ineligible for SSI,Paying shelter/utilities,646,994,146,243,500,751,97,false
+2000,NC,Adult care home,Basic,982,0,470,0,512,0,-470,false
+2000,NC,Adult care home,Disenfranchised,1231,0,719,0,512,0,-719,false
+2000,NC,Blind ineligible for SSI,Not paying shelter and utilities,0,0,97,194,-97,-194,97,true
+2000,NC,Blind ineligible for SSI,Paying shelter and utilities,0,0,146,243,-146,-243,97,false
+2004,NC,Adult care home,Basic,1112,0,548,0,564,0,-548,false
+2004,NC,Adult care home,Disenfranchised,1277,0,713,0,564,0,-713,false
+2004,NC,Blind ineligible for SSI,Not paying shelter and utilities,0,0,97,194,-97,-194,97,true
+2004,NC,Blind ineligible for SSI,Paying shelter and utilities,0,0,146,243,-146,-243,97,false
+2005,NC,Adult care home,Basic,1130,0,551,0,579,0,-551,false
+2005,NC,Adult care home,Disenfranchised,1137,0,558,0,579,0,-558,false
+2005,NC,Blind ineligible for SSI,Not paying shelter and utilities,0,0,97,194,-97,-194,97,true
+2005,NC,Blind ineligible for SSI,Paying shelter and utilities,0,0,146,243,-146,-243,97,false
+2006,NC,Adult care home,Basic,1164,0,561,0,603,0,-561,false
+2006,NC,Adult care home,Disenfranchised,1277,0,674,0,603,0,-674,false
+2006,NC,Adult care home,Special care unit,1561,0,958,0,603,0,-958,false
+2006,NC,Blind ineligible for SSI,Not paying shelter and utilities,0,0,97,194,-97,-194,97,true
+2006,NC,Blind ineligible for SSI,Paying shelter and utilities,0,0,146,243,-146,-243,97,false
+2007,NC,Adult care home,Basic,1194,0,571,0,623,0,-571,false
+2007,NC,Adult care home,Disenfranchised,1297,0,674,0,623,0,-674,false
+2007,NC,Adult care home,Special care unit,1561,0,938,0,623,0,-938,false
+2007,NC,Adult care home,In home,1108,0,277,0,831,0,-277,false
+2007,NC,Blind ineligible for SSI,Not paying shelter and utilities,0,0,97,194,-97,-194,97,true
+2007,NC,Blind ineligible for SSI,Paying shelter and utilities,0,0,146,243,-146,-243,97,false
+2008,NC,Adult care home,Basic,1208,0,571,0,637,0,-571,false
+2008,NC,Adult care home,Disenfranchised,1311,0,674,0,637,0,-674,false
+2008,NC,Adult care home,Special care unit,1575,0,938,0,637,0,-938,false
+2008,NC,Adult care home,In home,914,0,277,0,637,0,-277,false
+2008,NC,Blind ineligible for SSI,Not paying shelter and utilities,0,0,97,194,-97,-194,97,true
+2008,NC,Blind ineligible for SSI,Paying shelter and utilities,0,0,146,243,-146,-243,97,false
+2011,NC,Adult care home,Basic,1228,0,554,0,674,0,-554,false
+2011,NC,Adult care home,Special care unit,1561,0,887,0,674,0,-887,false
