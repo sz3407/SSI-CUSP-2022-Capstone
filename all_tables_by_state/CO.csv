@@ -1,79 +1,85 @@
 year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
-1990,CO,Living independently,Aged,444,888,54,309,390,579,255,false
-1990,CO,Living independently,Blind and disabled,390,770,4,191,386,579,187,false
-1990,CO,Adult foster care,,581,0,195,0,386,0,-195,false
-1990,CO,Home care,Aged,763,0,377,0,386,0,-377,false
-1990,CO,Home care,Blind and disabled,709,0,323,0,386,0,-323,false
-1990,CO,Individual with essential spouse,Blind and disabled,514,0,128,0,386,0,-128,false
-1991,CO,Living independently,Aged,452,904,45,294,407,610,249,false
-1991,CO,Living independently,Blind and disabled,407,814,0,204,407,610,204,false
-1991,CO,Adult foster care,,604,0,197,0,407,0,-197,false
-1991,CO,Home care,Aged,771,0,364,0,407,0,-364,false
-1991,CO,Home care,Blind and disabled,726,0,319,0,407,0,-319,false
-1991,CO,Individual with essential spouse,Blind and disabled,535,0,128,0,407,0,-128,false
-1992,CO,Living independently,Aged,478,956,56,323,422,633,267,false
-1992,CO,Living independently,Blind and disabled,422,844,0,211,422,633,211,false
-1992,CO,Adult foster care,,628,0,206,0,422,0,-206,false
-1992,CO,Home care,Aged,778,0,356,0,422,0,-356,false
-1992,CO,Home care,Blind and disabled,722,0,300,0,422,0,-300,false
-1992,CO,Individual with essential spouse,Blind and disabled,550,0,128,0,422,0,-128,false
-1994,CO,Living independently,Aged,502,992,56,323,446,669,267,false
-1994,CO,Living independently,Blind and disabled,446,880,0,211,446,669,211,false
-1994,CO,Adult foster care,,652,0,206,0,446,0,-206,false
-1994,CO,Home care,Aged,802,0,356,0,446,0,-356,false
-1994,CO,Home care,Blind and disabled,746,0,300,0,446,0,-300,false
-1994,CO,Individual with essential spouse,Blind and disabled,574,0,128,0,446,0,-128,false
-1995,CO,Living independently,Aged,514,1010,56,323,458,687,267,false
-1995,CO,Living independently,Blind and disabled,458,898,0,211,458,687,211,false
-1995,CO,Adult foster care,,664,0,206,0,458,0,-206,false
-1995,CO,Home care,Aged,814,0,356,0,458,0,-356,false
-1995,CO,Home care,Blind and disabled,758,0,300,0,458,0,-300,false
-1995,CO,Individual with essential spouse,Blind and disabled,586,0,128,0,458,0,-128,false
-1996,CO,Living independently,Aged,526,1028,56,323,470,705,267,false
-1996,CO,Living independently,Blind and disabled,470,916,0,211,470,705,211,false
-1996,CO,Adult foster care,,676,0,206,0,470,0,-206,false
-1996,CO,Home care,Aged,826,0,356,0,470,0,-356,false
-1996,CO,Home care,Blind and disabled,770,0,300,0,470,0,-300,false
-1996,CO,Individual with essential spouse,Blind and disabled,598,0,128,0,470,0,-128,false
-1997,CO,Living independently,Aged,546,1072,62,346,484,726,284,false
-1997,CO,Living independently,Blind and disabled,484,964,0,238,484,726,238,false
-1997,CO,Adult foster care,,699,0,215,0,484,0,-215,false
-1997,CO,Home care,Aged,851,0,367,0,484,0,-367,false
-1997,CO,Home care,Blind and disabled,851,0,367,0,484,0,-367,false
-1997,CO,Individual with essential spouse,Blind and disabled,617,0,133,0,484,0,-133,false
-1998,CO,Living independently,Aged,533,1086,39,345,494,741,306,false
-1998,CO,Living independently,Blind and disabled,494,979,0,238,494,741,238,false
-1998,CO,Adult foster care,,725,0,231,0,494,0,-231,false
-1998,CO,Home care,Aged,938,0,444,0,494,0,-444,false
-1998,CO,Home care,Blind and disabled,879,0,385,0,494,0,-385,false
-1998,CO,Individual with essential spouse,Blind and disabled,627,0,133,0,494,0,-133,false
-1999,CO,Living independently,Aged,536,36,500,0,36,36,-500,false
-1999,CO,Living independently,Blind and disabled,1072,321,1000,249,72,72,-751,false
-1999,CO,Adult foster care 4,,730,0,230,0,500,0,-230,false
-1999,CO,Home care,Aged,932,0,432,0,500,0,-432,false
-1999,CO,Home care,Blind and disabled,896,0,396,0,500,0,-396,false
-1999,CO,Individual with essential spouse,Blind and disabled,730,0,230,0,500,0,-230,false
-2000,CO,Living independently,Aged,548,1096,36,327,512,769,291,false
-2000,CO,Living independently,Blind and disabled,512,1024,0,255,512,769,255,false
-2000,CO,Adult foster care,,742,0,230,0,512,0,-230,false
-2000,CO,Home care,Aged,944,0,432,0,512,0,-432,false
-2000,CO,Home care,Blind and disabled,908,0,396,0,512,0,-396,false
-2000,CO,Individual with essential spouse,Blind and disabled,769,0,257,0,512,0,-257,false
-2004,CO,Living independently or in the home of another,Aged,601,1193,37,347,564,846,310,false
-2004,CO,Adult foster care,Blind and disabled,803,1588,239,742,564,846,503,false
-2004,CO,Home care,,967,0,403,0,564,0,-403,false
-2005,CO,Living independently or in the home of another,Aged,604,1208,25,339,579,869,314,false
-2005,CO,Adult foster care,Blind and disabled,818,1611,239,742,579,869,503,false
-2005,CO,Home care,,982,0,403,0,579,0,-403,false
-2006,CO,Living independently or in the home of another,Aged,628,1256,25,352,603,904,327,false
-2006,CO,Adult foster care,Blind and disabled,873.69,1747.38,270.69,843.38,603,904.0000000000001,572.69,false
-2006,CO,Home care,,1067.15,0,464.15,0,603.0000000000001,0,-464.15,false
-2007,CO,Living independently or in the home of another,Aged,648,1296,25,362,623,934,337,false
-2007,CO,Adult foster care,Blind and disabled,918,1836,295,902,623,934,607,false
-2007,CO,Home care,,1087.15,0,464.15,0,623.0000000000001,0,-464.15,false
-2008,CO,Living independently or in the home of another,Aged,662,1324,25,368,637,956,343,false
-2008,CO,Adult foster care,Blind and disabled,1200,2400,563,1444,637,956,881,false
-2008,CO,Home care,,1101.15,0,464.15,0,637.0000000000001,0,-464.15,false
-2011,CO,Living independently or in the home of another,Aged,699,1398,25,387,674,1011,362,false
-2011,CO,Adult foster care,Blind and disabled,1250,2500,551,1489,699,1011,938,false
-2011,CO,Home care,,1174,0,475,0,699,0,-475,false
+1990,CO,Living independently or in the home of another,Aged,444.00,888.00,54.00,309.00,390.00,579.00,255.00,FALSE
+1990,CO,Living independently,Blind/Disabled,390.00,770.00,4.00,191.00,386.00,579.00,187.00,FALSE
+1990,CO,Adult foster care,Blind/Disabled,581.00,0.00,195.00,0.00,386.00,0.00,-195.00,FALSE
+1990,CO,Home care,Aged,763.00,0.00,377.00,0.00,386.00,0.00,-377.00,FALSE
+1990,CO,Home care,Blind/Disabled,709.00,0.00,323.00,0.00,386.00,0.00,-323.00,FALSE
+1990,CO,Individual with essential spouse,Blind/Disabled,514.00,0.00,128.00,0.00,386.00,0.00,-128.00,FALSE
+1991,CO,Living independently or in the home of another,Aged,452.00,904.00,45.00,294.00,407.00,610.00,249.00,FALSE
+1991,CO,Living independently,Blind/Disabled,407.00,814.00,0.00,204.00,407.00,610.00,204.00,FALSE
+1991,CO,Adult foster care,Blind/Disabled,604.00,0.00,197.00,0.00,407.00,0.00,-197.00,FALSE
+1991,CO,Home care,Aged,771.00,0.00,364.00,0.00,407.00,0.00,-364.00,FALSE
+1991,CO,Home care,Blind/Disabled,726.00,0.00,319.00,0.00,407.00,0.00,-319.00,FALSE
+1991,CO,Individual with essential spouse,Blind/Disabled,535.00,0.00,128.00,0.00,407.00,0.00,-128.00,FALSE
+1992,CO,Living independently or in the home of another,Aged,478.00,956.00,56.00,323.00,422.00,633.00,267.00,FALSE
+1992,CO,Living independently,Blind/Disabled,422.00,844.00,0.00,211.00,422.00,633.00,211.00,FALSE
+1992,CO,Adult foster care,Blind/Disabled,628.00,0.00,206.00,0.00,422.00,0.00,-206.00,FALSE
+1992,CO,Home care,Aged,778.00,0.00,356.00,0.00,422.00,0.00,-356.00,FALSE
+1992,CO,Home care,Blind/Disabled,722.00,0.00,300.00,0.00,422.00,0.00,-300.00,FALSE
+1992,CO,Individual with essential spouse,Blind/Disabled,550.00,0.00,128.00,0.00,422.00,0.00,-128.00,FALSE
+1994,CO,Living independently or in the home of another,Aged,502.00,992.00,56.00,323.00,446.00,669.00,267.00,FALSE
+1994,CO,Living independently,Blind/Disabled,446.00,880.00,0.00,211.00,446.00,669.00,211.00,FALSE
+1994,CO,Adult foster care,Blind/Disabled,652.00,0.00,206.00,0.00,446.00,0.00,-206.00,FALSE
+1994,CO,Home care,Aged,802.00,0.00,356.00,0.00,446.00,0.00,-356.00,FALSE
+1994,CO,Home care,Blind/Disabled,746.00,0.00,300.00,0.00,446.00,0.00,-300.00,FALSE
+1994,CO,Individual with essential spouse,Blind/Disabled,574.00,0.00,128.00,0.00,446.00,0.00,-128.00,FALSE
+1995,CO,Living independently or in the home of another,Aged,514.00,1010.00,56.00,323.00,458.00,687.00,267.00,FALSE
+1995,CO,Living independently,Blind/Disabled,458.00,898.00,0.00,211.00,458.00,687.00,211.00,FALSE
+1995,CO,Adult foster care,Blind/Disabled,664.00,0.00,206.00,0.00,458.00,0.00,-206.00,FALSE
+1995,CO,Home care,Aged,814.00,0.00,356.00,0.00,458.00,0.00,-356.00,FALSE
+1995,CO,Home care,Blind/Disabled,758.00,0.00,300.00,0.00,458.00,0.00,-300.00,FALSE
+1995,CO,Individual with essential spouse,Blind/Disabled,586.00,0.00,128.00,0.00,458.00,0.00,-128.00,FALSE
+1996,CO,Living independently or in the home of another,Aged,526.00,1028.00,56.00,323.00,470.00,705.00,267.00,FALSE
+1996,CO,Living independently,Blind/Disabled,470.00,916.00,0.00,211.00,470.00,705.00,211.00,FALSE
+1996,CO,Adult foster care,Blind/Disabled,676.00,0.00,206.00,0.00,470.00,0.00,-206.00,FALSE
+1996,CO,Home care,Aged,826.00,0.00,356.00,0.00,470.00,0.00,-356.00,FALSE
+1996,CO,Home care,Blind/Disabled,770.00,0.00,300.00,0.00,470.00,0.00,-300.00,FALSE
+1996,CO,Individual with essential spouse,Blind/Disabled,598.00,0.00,128.00,0.00,470.00,0.00,-128.00,FALSE
+1997,CO,Living independently or in the home of another,Aged,546.00,1072.00,62.00,346.00,484.00,726.00,284.00,FALSE
+1997,CO,Living independently,Blind/Disabled,484.00,964.00,0.00,238.00,484.00,726.00,238.00,FALSE
+1997,CO,Adult foster care,Blind/Disabled,699.00,0.00,215.00,0.00,484.00,0.00,-215.00,FALSE
+1997,CO,Home care,Aged,851.00,0.00,367.00,0.00,484.00,0.00,-367.00,FALSE
+1997,CO,Home care,Blind/Disabled,851.00,0.00,367.00,0.00,484.00,0.00,-367.00,FALSE
+1997,CO,Individual with essential spouse,Blind/Disabled,617.00,0.00,133.00,0.00,484.00,0.00,-133.00,FALSE
+1998,CO,Living independently or in the home of another,Aged,533.00,1086.00,39.00,345.00,494.00,741.00,306.00,FALSE
+1998,CO,Living independently,Blind/Disabled,494.00,979.00,0.00,238.00,494.00,741.00,238.00,FALSE
+1998,CO,Adult foster care,Blind/Disabled,725.00,0.00,231.00,0.00,494.00,0.00,-231.00,FALSE
+1998,CO,Home care,Aged,938.00,0.00,444.00,0.00,494.00,0.00,-444.00,FALSE
+1998,CO,Home care,Blind/Disabled,879.00,0.00,385.00,0.00,494.00,0.00,-385.00,FALSE
+1998,CO,Individual with essential spouse,Blind/Disabled,627.00,0.00,133.00,0.00,494.00,0.00,-133.00,FALSE
+1999,CO,Living independently or in the home of another,Aged,536.00,1072.00,36.00,321.00,500.00,751.00,285.00,FALSE
+1999,CO,Living independently,Blind/Disabled,500.00,1000.00,0.00,249.00,500.00,751.00,249.00,FALSE
+1999,CO,Adult foster care,Blind/Disabled,730.00,0.00,230.00,0.00,500.00,0.00,-230.00,FALSE
+1999,CO,Home care,Aged,932.00,0.00,432.00,0.00,500.00,0.00,-432.00,FALSE
+1999,CO,Home care,Blind/Disabled,896.00,0.00,396.00,0.00,500.00,0.00,-396.00,FALSE
+1999,CO,Individual with essential spouse,Blind/Disabled,730.00,0.00,230.00,0.00,500.00,0.00,-230.00,FALSE
+2000,CO,Living independently or in the home of another,Aged,548.00,1096.00,36.00,327.00,512.00,769.00,291.00,FALSE
+2000,CO,Living independently,Blind/Disabled,512.00,1024.00,0.00,255.00,512.00,769.00,255.00,FALSE
+2000,CO,Adult foster care,Blind/Disabled,742.00,0.00,230.00,0.00,512.00,0.00,-230.00,FALSE
+2000,CO,Home care,Aged,944.00,0.00,432.00,0.00,512.00,0.00,-432.00,FALSE
+2000,CO,Home care,Blind/Disabled,908.00,0.00,396.00,0.00,512.00,0.00,-396.00,FALSE
+2000,CO,Individual with essential spouse,Blind/Disabled,769.00,0.00,257.00,0.00,512.00,0.00,-257.00,FALSE
+2004,CO,Living independently or in the home of another,Aged,601.00,1193.00,37.00,347.00,564.00,846.00,310.00,FALSE
+2004,CO,Adult foster care,Blind/Disabled,803.00,1588.00,239.00,742.00,564.00,846.00,503.00,FALSE
+2004,CO,Home care,Aged,967.00,0.00,403.00,0.00,564.00,0.00,-403.00,FALSE
+2004,CO,Home care,Blind/Disabled,967.00,0.00,403.00,0.00,564.00,0.00,-403.00,FALSE
+2005,CO,Living independently or in the home of another,Aged,604.00,1208.00,25.00,339.00,579.00,869.00,314.00,FALSE
+2005,CO,Adult foster care,Blind/Disabled,818.00,1611.00,239.00,742.00,579.00,869.00,503.00,FALSE
+2005,CO,Home care,Aged,982.00,0.00,403.00,0.00,579.00,0.00,-403.00,FALSE
+2005,CO,Home care,Blind/Disabled,982.00,0.00,403.00,0.00,579.00,0.00,-403.00,FALSE
+2006,CO,Living independently or in the home of another,Aged,628.00,1256.00,25.00,352.00,603.00,904.00,327.00,FALSE
+2006,CO,Adult foster care,Blind/Disabled,873.69,1747.38,270.69,843.38,603.00,904.00,572.69,FALSE
+2006,CO,Home care,Aged,1067.15,0.00,464.15,0.00,603.00,0.00,-464.15,FALSE
+2006,CO,Home care,Blind/Disabled,1067.15,0.00,464.15,0.00,603.00,0.00,-464.15,FALSE
+2007,CO,Living independently or in the home of another,Aged,648.00,1296.00,25.00,362.00,623.00,934.00,337.00,FALSE
+2007,CO,Adult foster care,Blind/Disabled,918.00,1836.00,295.00,902.00,623.00,934.00,607.00,FALSE
+2007,CO,Home care,Aged,1087.15,0.00,464.15,0.00,623.00,0.00,-464.15,FALSE
+2007,CO,Home care,Blind/Disabled,1087.15,0.00,464.15,0.00,623.00,0.00,-464.15,FALSE
+2008,CO,Living independently or in the home of another,Aged,662.00,1324.00,25.00,368.00,637.00,956.00,343.00,FALSE
+2008,CO,Adult foster care,Blind/Disabled,1200.00,2400.00,563.00,1444.00,637.00,956.00,881.00,FALSE
+2008,CO,Home care,Aged,1101.15,0.00,464.15,0.00,637.00,0.00,-464.15,FALSE
+2008,CO,Home care,Blind/Disabled,1101.15,0.00,464.15,0.00,637.00,0.00,-464.15,FALSE
+2011,CO,Living independently or in the home of another,Aged,699.00,1398.00,25.00,387.00,674.00,1011.00,362.00,FALSE
+2011,CO,Adult foster care,Blind/Disabled,1250.00,2500.00,551.00,1489.00,699.00,1011.00,938.00,FALSE
+2011,CO,Home care,Aged,1174.00,0.00,475.00,0.00,699.00,0.00,-475.00,FALSE
+2011,CO,Home care,Blind/Disabled,1174.00,0.00,475.00,0.00,699.00,0.00,-475.00,FALSE

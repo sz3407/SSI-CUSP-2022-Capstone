@@ -1,66 +1,66 @@
 year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
-1990,AZ,Requires housekeeping services,,456,0,70,0,386,0,-70,false
-1990,AZ,Licensed private nursing homes,,466,739,80,160,386,579,80,true
-1990,AZ,Licensed county operated nursing homes,,174,348,174,348,0,0,174,true
-1990,AZ,Licensed supervisory care homes,,436,679,50,100,386,579,50,true
-1990,AZ,Adult foster care homes,,436,679,50,100,386,579,50,true
-1990,AZ,24-hour treatment facilities,,436,679,50,100,386,579,50,true
-1991,AZ,Requires housekeeping services,,477,0,70,0,407,0,-70,false
-1991,AZ,Licensed private nursing homes,,487,770,80,160,407,610,80,true
-1991,AZ,Licensed county operated nursing homes,,0,0,174,348,-174,-348,174,true
-1991,AZ,Licensed supervisory care homes,,457,710,50,100,407,610,50,true
-1991,AZ,Adults foster care homes,,457,710,50,100,407,610,50,true
-1991,AZ,24-hour treatment facilities,,457,710,50,100,407,610,50,true
-1992,AZ,Requires housekeeping services,,492,0,70,0,422,0,-70,false
-1992,AZ,Licensed private nursing homes,,502,793,80,160,422,633,80,true
-1992,AZ,Licensed county operated nursing homes,,0,0,174,348,-174,-348,174,true
-1992,AZ,Licensed supervisory care homes,,472,733,60,100,412,633,40,false
-1992,AZ,Adult foster care homes,,472,733,60,100,412,633,40,false
-1992,AZ,24-hour treatment facilities,,472,733,60,100,412,633,40,false
-1994,AZ,Requires housekeeping services,,516,0,70,0,446,0,-70,false
-1994,AZ,Licensed private nursing homes,,526,829,80,160,446,669,80,true
-1994,AZ,Licensed county operated nursing homes,,0,0,174,348,-174,-348,174,true
-1994,AZ,Licensed supervisory care homes,,496,769,50,100,446,669,50,true
-1994,AZ,Adult foster care homes,,496,769,50,100,446,669,50,true
-1994,AZ,24-hour treatment facilities,,496,769,50,100,446,669,50,true
-1995,AZ,Requires housekeeping services,,528,0,70,0,458,0,-70,false
-1995,AZ,Licensed private nursing homes,,538,847,80,160,458,687,80,true
-1995,AZ,Licensed county operated nursing homes,,0,0,174,348,-174,-348,174,true
-1995,AZ,Licensed supervisory care homes,,508,787,50,100,458,687,50,true
-1995,AZ,Adult foster care homes,,508,787,50,100,458,687,50,true
-1995,AZ,24-hour treatment facilities,,508,787,50,100,458,687,50,true
-1996,AZ,Requires housekeeping services,,540,0,70,0,470,0,-70,false
-1996,AZ,Licensed private nursing homes,,550,865,80,160,470,705,80,true
-1996,AZ,Licensed county operated nursing homes,,0,0,174,348,-174,-348,174,true
-1996,AZ,Licensed supervisory care homes,,520,805,50,100,470,705,50,true
-1996,AZ,Adult foster care homes,,520,805,50,100,470,705,50,true
-1996,AZ,24-hour treatment facilities,,520,805,50,100,470,705,50,true
-1997,AZ,Requires housekeeping services,,554,0,70,0,484,0,-70,false
-1997,AZ,Licensed supervisory care homes,,534,826,50,100,484,726,50,true
-1997,AZ,Adult foster care homes,,534,826,50,100,484,726,50,true
-1997,AZ,24-hour treatment facilities,,534,826,50,100,484,726,50,true
-1997,AZ,Licensed private nursing homes,,564,886,80,160,484,726,80,true
-1998,AZ,Requires housekeeping services,,564,0,70,0,494,0,-70,false
-1998,AZ,Licensed supervisory care homes,,544,841,50,100,494,741,50,true
-1998,AZ,Adult foster care homes,,544,841,50,100,494,741,50,true
-1998,AZ,24-hour treatment facilities,,544,841,50,100,494,741,50,true
-1998,AZ,Licensed private nursing homes,,574,901,80,160,494,741,80,true
-1999,AZ,Requires housekeeping services,,570,570,70,70,500,500,0,false
-1999,AZ,Licensed supervisory care homes,,550,851,50,100,500,751,50,true
-1999,AZ,Adult foster care homes,,550,851,50,100,500,751,50,true
-1999,AZ,24-hour treatment facilities,,550,851,50,100,500,751,50,true
-1999,AZ,Licensed private nursing homes,,580,911,80,160,500,751,80,true
-2000,AZ,Requires housekeeping services,,582,582,70,70,512,512,0,false
-2000,AZ,Licensed supervisory care homes,,562,869,50,100,512,769,50,true
-2000,AZ,Adult foster care homes,,562,869,50,100,512,769,50,true
-2000,AZ,24-hour treatment facilities,,562,869,50,100,512,769,50,true
-2000,AZ,Licensed private nursing home,,592,929,80,160,512,769,80,true
-2004,AZ,Requires housekeeping services,,634,916,70,70,564,846,0,false
-2004,AZ,Licensed supervisory care homes,,614,946,50,100,564,846,50,true
-2004,AZ,Adult foster care homes,,614,946,50,100,564,846,50,true
-2004,AZ,24-hour treatment facilities,,614,946,50,100,564,846,50,true
-2004,AZ,Licensed private nursing home,,644,1006,80,160,564,846,80,true
-2005,AZ,Requires housekeeping services,,649,939,70,70,579,869,0,false
-2006,AZ,Requires housekeeping services,,673,974,70,70,603,904,0,false
-2007,AZ,Requires housekeeping services,,693,1004,70,70,623,934,0,false
-2008,AZ,Requires housekeeping services,,707,1026,70,70,637,956,0,false
+1990,AZ,Requires housekeeping services,,456.00,0.00,70.00,0.00,386.00,0.00,-70.00,FALSE
+1990,AZ,Licensed private nursing homes,,466.00,739.00,80.00,160.00,386.00,579.00,80.00,TRUE
+1990,AZ,Licensed county operated nursing homes,,174.00,348.00,174.00,348.00,0.00,0.00,174.00,TRUE
+1990,AZ,Licensed supervisory care homes,,436.00,679.00,50.00,100.00,386.00,579.00,50.00,TRUE
+1990,AZ,Adult foster care homes,,436.00,679.00,50.00,100.00,386.00,579.00,50.00,TRUE
+1990,AZ,24-hour treatment facilities,,436.00,679.00,50.00,100.00,386.00,579.00,50.00,TRUE
+1991,AZ,Requires housekeeping services,,477.00,0.00,70.00,0.00,407.00,0.00,-70.00,FALSE
+1991,AZ,Licensed private nursing homes,,487.00,770.00,80.00,160.00,407.00,610.00,80.00,TRUE
+1991,AZ,Licensed county operated nursing homes,,0.00,0.00,174.00,348.00,-174.00,-348.00,174.00,TRUE
+1991,AZ,Licensed supervisory care homes,,457.00,710.00,50.00,100.00,407.00,610.00,50.00,TRUE
+1991,AZ,Adult foster care homes,,457.00,710.00,50.00,100.00,407.00,610.00,50.00,TRUE
+1991,AZ,24-hour treatment facilities,,457.00,710.00,50.00,100.00,407.00,610.00,50.00,TRUE
+1992,AZ,Requires housekeeping services,,492.00,0.00,70.00,0.00,422.00,0.00,-70.00,FALSE
+1992,AZ,Licensed private nursing homes,,502.00,793.00,80.00,160.00,422.00,633.00,80.00,TRUE
+1992,AZ,Licensed county operated nursing homes,,0.00,0.00,174.00,348.00,-174.00,-348.00,174.00,TRUE
+1992,AZ,Licensed supervisory care homes,,472.00,733.00,60.00,100.00,412.00,633.00,40.00,FALSE
+1992,AZ,Adult foster care homes,,472.00,733.00,60.00,100.00,412.00,633.00,40.00,FALSE
+1992,AZ,24-hour treatment facilities,,472.00,733.00,60.00,100.00,412.00,633.00,40.00,FALSE
+1994,AZ,Requires housekeeping services,,516.00,0.00,70.00,0.00,446.00,0.00,-70.00,FALSE
+1994,AZ,Licensed private nursing homes,,526.00,829.00,80.00,160.00,446.00,669.00,80.00,TRUE
+1994,AZ,Licensed county operated nursing homes,,0.00,0.00,174.00,348.00,-174.00,-348.00,174.00,TRUE
+1994,AZ,Licensed supervisory care homes,,496.00,769.00,50.00,100.00,446.00,669.00,50.00,TRUE
+1994,AZ,Adult foster care homes,,496.00,769.00,50.00,100.00,446.00,669.00,50.00,TRUE
+1994,AZ,24-hour treatment facilities,,496.00,769.00,50.00,100.00,446.00,669.00,50.00,TRUE
+1995,AZ,Requires housekeeping services,,528.00,0.00,70.00,0.00,458.00,0.00,-70.00,FALSE
+1995,AZ,Licensed private nursing homes,,538.00,847.00,80.00,160.00,458.00,687.00,80.00,TRUE
+1995,AZ,Licensed county operated nursing homes,,0.00,0.00,174.00,348.00,-174.00,-348.00,174.00,TRUE
+1995,AZ,Licensed supervisory care homes,,508.00,787.00,50.00,100.00,458.00,687.00,50.00,TRUE
+1995,AZ,Adult foster care homes,,508.00,787.00,50.00,100.00,458.00,687.00,50.00,TRUE
+1995,AZ,24-hour treatment facilities,,508.00,787.00,50.00,100.00,458.00,687.00,50.00,TRUE
+1996,AZ,Requires housekeeping services,,540.00,0.00,70.00,0.00,470.00,0.00,-70.00,FALSE
+1996,AZ,Licensed private nursing homes,,550.00,865.00,80.00,160.00,470.00,705.00,80.00,TRUE
+1996,AZ,Licensed county operated nursing homes,,0.00,0.00,174.00,348.00,-174.00,-348.00,174.00,TRUE
+1996,AZ,Licensed supervisory care homes,,520.00,805.00,50.00,100.00,470.00,705.00,50.00,TRUE
+1996,AZ,Adult foster care homes,,520.00,805.00,50.00,100.00,470.00,705.00,50.00,TRUE
+1996,AZ,24-hour treatment facilities,,520.00,805.00,50.00,100.00,470.00,705.00,50.00,TRUE
+1997,AZ,Requires housekeeping services,,554.00,0.00,70.00,0.00,484.00,0.00,-70.00,FALSE
+1997,AZ,Licensed supervisory care homes,,534.00,826.00,50.00,100.00,484.00,726.00,50.00,TRUE
+1997,AZ,Adult foster care homes,,534.00,826.00,50.00,100.00,484.00,726.00,50.00,TRUE
+1997,AZ,24-hour treatment facilities,,534.00,826.00,50.00,100.00,484.00,726.00,50.00,TRUE
+1997,AZ,Licensed private nursing homes,,564.00,886.00,80.00,160.00,484.00,726.00,80.00,TRUE
+1998,AZ,Requires housekeeping services,,564.00,0.00,70.00,0.00,494.00,0.00,-70.00,FALSE
+1998,AZ,Licensed supervisory care homes,,544.00,841.00,50.00,100.00,494.00,741.00,50.00,TRUE
+1998,AZ,Adult foster care homes,,544.00,841.00,50.00,100.00,494.00,741.00,50.00,TRUE
+1998,AZ,24-hour treatment facilities,,544.00,841.00,50.00,100.00,494.00,741.00,50.00,TRUE
+1998,AZ,Licensed private nursing homes,,574.00,901.00,80.00,160.00,494.00,741.00,80.00,TRUE
+1999,AZ,Requires housekeeping services,,570.00,570.00,70.00,70.00,500.00,500.00,0.00,FALSE
+1999,AZ,Licensed supervisory care homes,,550.00,851.00,50.00,100.00,500.00,751.00,50.00,TRUE
+1999,AZ,Adult foster care homes,,550.00,851.00,50.00,100.00,500.00,751.00,50.00,TRUE
+1999,AZ,24-hour treatment facilities,,550.00,851.00,50.00,100.00,500.00,751.00,50.00,TRUE
+1999,AZ,Licensed private nursing homes,,580.00,911.00,80.00,160.00,500.00,751.00,80.00,TRUE
+2000,AZ,Requires housekeeping services,,582.00,582.00,70.00,70.00,512.00,512.00,0.00,FALSE
+2000,AZ,Licensed supervisory care homes,,562.00,869.00,50.00,100.00,512.00,769.00,50.00,TRUE
+2000,AZ,Adult foster care homes,,562.00,869.00,50.00,100.00,512.00,769.00,50.00,TRUE
+2000,AZ,24-hour treatment facilities,,562.00,869.00,50.00,100.00,512.00,769.00,50.00,TRUE
+2000,AZ,Licensed private nursing homes,,592.00,929.00,80.00,160.00,512.00,769.00,80.00,TRUE
+2004,AZ,Requires housekeeping services,,634.00,916.00,70.00,70.00,564.00,846.00,0.00,FALSE
+2004,AZ,Licensed supervisory care homes,,614.00,946.00,50.00,100.00,564.00,846.00,50.00,TRUE
+2004,AZ,Adult foster care homes,,614.00,946.00,50.00,100.00,564.00,846.00,50.00,TRUE
+2004,AZ,24-hour treatment facilities,,614.00,946.00,50.00,100.00,564.00,846.00,50.00,TRUE
+2004,AZ,Licensed private nursing homes,,644.00,1006.00,80.00,160.00,564.00,846.00,80.00,TRUE
+2005,AZ,Requires housekeeping services,,649.00,939.00,70.00,70.00,579.00,869.00,0.00,FALSE
+2006,AZ,Requires housekeeping services,,673.00,974.00,70.00,70.00,603.00,904.00,0.00,FALSE
+2007,AZ,Requires housekeeping services,,693.00,1004.00,70.00,70.00,623.00,934.00,0.00,FALSE
+2008,AZ,Requires housekeeping services,,707.00,1026.00,70.00,70.00,637.00,956.00,0.00,FALSE

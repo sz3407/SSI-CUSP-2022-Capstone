@@ -1,83 +1,83 @@
 year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
-1990,MD,Care Home,Minimal supervision,457.75,0,71.75,0,386,0,-71.75,false
-1990,MD,Care Home,General supervision,584.75,0,198.75,0,386,0,-198.75,false
-1990,MD,Care Home,Special services,1063.75,0,677.75,0,386,0,-677.75,false
-1990,MD,DOMCARE,,604.75,0,218.75,0,386,0,-218.75,false
-1991,MD,Care Home,Minimal supervision,480,0,73,0,407,0,-73,false
-1991,MD,Care Home,Moderate supervision,613,0,206,0,407,0,-206,false
-1991,MD,Care Home,Extensive supervision,865,0,458,0,407,0,-458,false
-1991,MD,Care Home,Specialized and intensive services,1116,0,709,0,407,0,-709,false
-1991,MD,DOMCARE,,654,0,247,0,407,0,-247,false
-1992,MD,Care Home,Minimal supervision,500,0,78,0,422,0,-78,false
-1992,MD,Care Home,Moderate supervision,633,0,211,0,422,0,-211,false
-1992,MD,Care Home,Extensive supervision,885,0,463,0,422,0,-463,false
-1992,MD,Care Home,Specialized and intensive services,1136,0,714,0,422,0,-714,false
-1992,MD,DOMCARE,,654,0,232,0,422,0,-232,false
-1994,MD,Care Home,Minimal supervision,512,0,66,0,446,0,-66,false
-1994,MD,Care Home,Moderate supervision,633,0,187,0,446,0,-187,false
-1994,MD,Care Home,Extensive supervision,909,0,463,0,446,0,-463,false
-1994,MD,Care Home,Specialized and intensive services,1136,0,690,0,446,0,-690,false
-1994,MD,DOMCARE,,654,0,208,0,446,0,-208,false
-1995,MD,Care Home,Minimal supervision,524,0,66,0,458,0,-66,false
-1995,MD,Care Home,Moderate supervision,633,0,175,0,458,0,-175,false
-1995,MD,Care Home,Extensive supervision,921,0,463,0,458,0,-463,false
-1995,MD,Care Home,Specialized and intensive services,1136,0,678,0,458,0,-678,false
-1995,MD,DOMCARE,,654,0,196,0,458,0,-196,false
-1996,MD,Care Home,Minimal supervision,536,0,66,0,470,0,-66,false
-1996,MD,Care Home,Moderate supervision,645,0,175,0,470,0,-175,false
-1996,MD,Care Home,Extensive supervision,933,0,463,0,470,0,-463,false
-1996,MD,Care Home,Specialized and intensive services,1136,0,666,0,470,0,-666,false
-1996,MD,DOMCARE,,654,0,184,0,470,0,-184,false
-1997,MD,Care Home,Minimal supervision,550,0,66,0,484,0,-66,false
-1997,MD,Care Home,Moderate supervision,659,0,175,0,484,0,-175,false
-1997,MD,Care Home,Extensive supervision,947,0,463,0,484,0,-463,false
-1997,MD,Care Home,Specialized and intensive services,1150,0,666,0,484,0,-666,false
-1997,MD,DOMCARE,,654,0,170,0,484,0,-170,false
-1998,MD,Care Home,Minimal supervision,560,0,66,0,494,0,-66,false
-1998,MD,Care Home,Moderate supervision,669,0,175,0,494,0,-175,false
-1998,MD,Care Home,Extensive supervision,957,0,463,0,494,0,-463,false
-1998,MD,Care Home,Specialized and intensive services,1160,0,666,0,494,0,-666,false
-1998,MD,DOMCARE,,678,0,184,0,494,0,-184,false
-1999,MD,Care Home,Minimal supervision,566,0,66,0,500,0,-66,false
-1999,MD,Care Home,Moderate supervision,675,0,175,0,500,0,-175,false
-1999,MD,Care Home,Extensive supervision,963,0,463,0,500,0,-463,false
-1999,MD,Care Home,Specialized and intensive services,1166,0,666,0,500,0,-666,false
-1999,MD,DomCare,,684,0,184,0,500,0,-184,false
-2000,MD,Care home,Minimal supervision,578,1156,66,132,512,1024,66,true
-2000,MD,Care home,Moderate supervision,687,1374,175,350,512,1024,175,true
-2000,MD,Care home,Extensive supervision,975,1950,463,926,512,1024,463,true
-2000,MD,Care home,Specialized and intensive supervision,1178,2356,666,1332,512,1024,666,true
-2000,MD,DomCare,,696,1392,184,368,512,1024,184,true
-2004,MD,Care home,Minimal supervision,630,1260,66,132,564,1128,66,true
-2004,MD,Care home,Moderate supervision,739,1478,175,350,564,1128,175,true
-2004,MD,Care home,Extensive supervision,1027,2054,463,926,564,1128,463,true
-2004,MD,Care home,Specialized and intensive supervision,1230,2460,666,1332,564,1128,666,true
-2004,MD,Assisted living facility,,748,1496,184,368,564,1128,184,true
-2005,MD,Care home,Minimal supervision,645,1290,66,132,579,1158,66,true
-2005,MD,Care home,Moderate supervision,754,1508,175,350,579,1158,175,true
-2005,MD,Care home,Extensive supervision,1042,2084,463,926,579,1158,463,true
-2005,MD,Care home,Specialized and intensive supervision,1245,2490,666,1332,579,1158,666,true
-2005,MD,Assisted living facility,,763,1526,184,368,579,1158,184,true
-2006,MD,Care home,Minimal supervision,669,1338,66,132,603,1206,66,true
-2006,MD,Care home,Moderate supervision,778,1556,175,350,603,1206,175,true
-2006,MD,Care home,Extensive supervision,1066,2132,463,926,603,1206,463,true
-2006,MD,Care home,Specialized and intensive supervision,1269,2538,666,1332,603,1206,666,true
-2006,MD,Assisted living facility,,787,1574,184,368,603,1206,184,true
-2007,MD,Care home,Minimal supervision,689,1378,66,132,623,1246,66,true
-2007,MD,Care home,Moderate supervision,798,1596,175,350,623,1246,175,true
-2007,MD,Care home,Extensive supervision,1086,2172,463,926,623,1246,463,true
-2007,MD,Care home,Specialized and intensive supervision,1289,2578,666,1332,623,1246,666,true
-2007,MD,Assisted living facility,,807,1614,184,368,623,1246,184,true
-2007,MD,Rehabilitative residence,,807,1614,184,368,623,1246,184,true
-2008,MD,Care home,Minimal supervision,703,1406,66,132,637,1274,66,true
-2008,MD,Care home,Moderate supervision,812,1624,175,350,637,1274,175,true
-2008,MD,Care home,Extensive supervision,1100,2200,463,926,637,1274,463,true
-2008,MD,Care home,Specialized and intensive supervision,1303,2606,666,1332,637,1274,666,true
-2008,MD,Assisted living facility,,821,1642,184,368,637,1274,184,true
-2008,MD,Rehabilitative residence,,821,1642,184,368,637,1274,184,true
-2011,MD,Care home,Minimal supervision,740,1480,66,132,674,1348,66,true
-2011,MD,Care home,Moderate supervision,849,1698,175,350,674,1348,175,true
-2011,MD,Care home,Extensive supervision,1137,2274,463,926,674,1348,463,true
-2011,MD,Care home,Specialized and intensive supervision,1340,2680,666,1332,674,1348,666,true
-2011,MD,Assisted living facility,,858,1716,184,368,674,1348,184,true
-2011,MD,Rehabilitative residence,,82,164,52,104,30,60,52,true
+1990,MD,Care home,Minimal supervision,457.75,0.00,71.75,0.00,386.00,0.00,-71.75,FALSE
+1990,MD,Care home,Moderate supervision,584.75,0.00,198.75,0.00,386.00,0.00,-198.75,FALSE
+1990,MD,Care home,Specialized and intensive supervision,1063.75,0.00,677.75,0.00,386.00,0.00,-677.75,FALSE
+1990,MD,DomCare,,604.75,0.00,218.75,0.00,386.00,0.00,-218.75,FALSE
+1991,MD,Care home,Minimal supervision,480.00,0.00,73.00,0.00,407.00,0.00,-73.00,FALSE
+1991,MD,Care home,Moderate supervision,613.00,0.00,206.00,0.00,407.00,0.00,-206.00,FALSE
+1991,MD,Care home,Extensive supervision,865.00,0.00,458.00,0.00,407.00,0.00,-458.00,FALSE
+1991,MD,Care home,Specialized and intensive supervision,1116.00,0.00,709.00,0.00,407.00,0.00,-709.00,FALSE
+1991,MD,DomCare,,654.00,0.00,247.00,0.00,407.00,0.00,-247.00,FALSE
+1992,MD,Care home,Minimal supervision,500.00,0.00,78.00,0.00,422.00,0.00,-78.00,FALSE
+1992,MD,Care home,Moderate supervision,633.00,0.00,211.00,0.00,422.00,0.00,-211.00,FALSE
+1992,MD,Care home,Extensive supervision,885.00,0.00,463.00,0.00,422.00,0.00,-463.00,FALSE
+1992,MD,Care home,Specialized and intensive supervision,1136.00,0.00,714.00,0.00,422.00,0.00,-714.00,FALSE
+1992,MD,DomCare,,654.00,0.00,232.00,0.00,422.00,0.00,-232.00,FALSE
+1994,MD,Care home,Minimal supervision,512.00,0.00,66.00,0.00,446.00,0.00,-66.00,FALSE
+1994,MD,Care home,Moderate supervision,633.00,0.00,187.00,0.00,446.00,0.00,-187.00,FALSE
+1994,MD,Care home,Extensive supervision,909.00,0.00,463.00,0.00,446.00,0.00,-463.00,FALSE
+1994,MD,Care home,Specialized and intensive supervision,1136.00,0.00,690.00,0.00,446.00,0.00,-690.00,FALSE
+1994,MD,DomCare,,654.00,0.00,208.00,0.00,446.00,0.00,-208.00,FALSE
+1995,MD,Care home,Minimal supervision,524.00,0.00,66.00,0.00,458.00,0.00,-66.00,FALSE
+1995,MD,Care home,Moderate supervision,633.00,0.00,175.00,0.00,458.00,0.00,-175.00,FALSE
+1995,MD,Care home,Extensive supervision,921.00,0.00,463.00,0.00,458.00,0.00,-463.00,FALSE
+1995,MD,Care home,Specialized and intensive supervision,1136.00,0.00,678.00,0.00,458.00,0.00,-678.00,FALSE
+1995,MD,DomCare,,654.00,0.00,196.00,0.00,458.00,0.00,-196.00,FALSE
+1996,MD,Care home,Minimal supervision,536.00,0.00,66.00,0.00,470.00,0.00,-66.00,FALSE
+1996,MD,Care home,Moderate supervision,645.00,0.00,175.00,0.00,470.00,0.00,-175.00,FALSE
+1996,MD,Care home,Extensive supervision,933.00,0.00,463.00,0.00,470.00,0.00,-463.00,FALSE
+1996,MD,Care home,Specialized and intensive supervision,1136.00,0.00,666.00,0.00,470.00,0.00,-666.00,FALSE
+1996,MD,DomCare,,654.00,0.00,184.00,0.00,470.00,0.00,-184.00,FALSE
+1997,MD,Care home,Minimal supervision,550.00,0.00,66.00,0.00,484.00,0.00,-66.00,FALSE
+1997,MD,Care home,Moderate supervision,659.00,0.00,175.00,0.00,484.00,0.00,-175.00,FALSE
+1997,MD,Care home,Extensive supervision,947.00,0.00,463.00,0.00,484.00,0.00,-463.00,FALSE
+1997,MD,Care home,Specialized and intensive supervision,1150.00,0.00,666.00,0.00,484.00,0.00,-666.00,FALSE
+1997,MD,DomCare,,654.00,0.00,170.00,0.00,484.00,0.00,-170.00,FALSE
+1998,MD,Care home,Minimal supervision,560.00,0.00,66.00,0.00,494.00,0.00,-66.00,FALSE
+1998,MD,Care home,Moderate supervision,669.00,0.00,175.00,0.00,494.00,0.00,-175.00,FALSE
+1998,MD,Care home,Extensive supervision,957.00,0.00,463.00,0.00,494.00,0.00,-463.00,FALSE
+1998,MD,Care home,Specialized and intensive supervision,1160.00,0.00,666.00,0.00,494.00,0.00,-666.00,FALSE
+1998,MD,DomCare,,678.00,0.00,184.00,0.00,494.00,0.00,-184.00,FALSE
+1999,MD,Care home,Minimal supervision,566.00,0.00,66.00,0.00,500.00,0.00,-66.00,FALSE
+1999,MD,Care home,Moderate supervision,675.00,0.00,175.00,0.00,500.00,0.00,-175.00,FALSE
+1999,MD,Care home,Extensive supervision,963.00,0.00,463.00,0.00,500.00,0.00,-463.00,FALSE
+1999,MD,Care home,Specialized and intensive supervision,1166.00,0.00,666.00,0.00,500.00,0.00,-666.00,FALSE
+1999,MD,DomCare,,684.00,0.00,184.00,0.00,500.00,0.00,-184.00,FALSE
+2000,MD,Care home,Minimal supervision,578.00,1156.00,66.00,132.00,512.00,1024.00,66.00,TRUE
+2000,MD,Care home,Moderate supervision,687.00,1374.00,175.00,350.00,512.00,1024.00,175.00,TRUE
+2000,MD,Care home,Extensive supervision,975.00,1950.00,463.00,926.00,512.00,1024.00,463.00,TRUE
+2000,MD,Care home,Specialized and intensive supervision,1178.00,2356.00,666.00,1332.00,512.00,1024.00,666.00,TRUE
+2000,MD,DomCare,,696.00,1392.00,184.00,368.00,512.00,1024.00,184.00,TRUE
+2004,MD,Care home,Minimal supervision,630.00,1260.00,66.00,132.00,564.00,1128.00,66.00,TRUE
+2004,MD,Care home,Moderate supervision,739.00,1478.00,175.00,350.00,564.00,1128.00,175.00,TRUE
+2004,MD,Care home,Extensive supervision,1027.00,2054.00,463.00,926.00,564.00,1128.00,463.00,TRUE
+2004,MD,Care home,Specialized and intensive supervision,1230.00,2460.00,666.00,1332.00,564.00,1128.00,666.00,TRUE
+2004,MD,Assisted living facility,,748.00,1496.00,184.00,368.00,564.00,1128.00,184.00,TRUE
+2005,MD,Care home,Minimal supervision,645.00,1290.00,66.00,132.00,579.00,1158.00,66.00,TRUE
+2005,MD,Care home,Moderate supervision,754.00,1508.00,175.00,350.00,579.00,1158.00,175.00,TRUE
+2005,MD,Care home,Extensive supervision,1042.00,2084.00,463.00,926.00,579.00,1158.00,463.00,TRUE
+2005,MD,Care home,Specialized and intensive supervision,1245.00,2490.00,666.00,1332.00,579.00,1158.00,666.00,TRUE
+2005,MD,Assisted living facility,,763.00,1526.00,184.00,368.00,579.00,1158.00,184.00,TRUE
+2006,MD,Care home,Minimal supervision,669.00,1338.00,66.00,132.00,603.00,1206.00,66.00,TRUE
+2006,MD,Care home,Moderate supervision,778.00,1556.00,175.00,350.00,603.00,1206.00,175.00,TRUE
+2006,MD,Care home,Extensive supervision,1066.00,2132.00,463.00,926.00,603.00,1206.00,463.00,TRUE
+2006,MD,Care home,Specialized and intensive supervision,1269.00,2538.00,666.00,1332.00,603.00,1206.00,666.00,TRUE
+2006,MD,Assisted living facility,,787.00,1574.00,184.00,368.00,603.00,1206.00,184.00,TRUE
+2007,MD,Care home,Minimal supervision,689.00,1378.00,66.00,132.00,623.00,1246.00,66.00,TRUE
+2007,MD,Care home,Moderate supervision,798.00,1596.00,175.00,350.00,623.00,1246.00,175.00,TRUE
+2007,MD,Care home,Extensive supervision,1086.00,2172.00,463.00,926.00,623.00,1246.00,463.00,TRUE
+2007,MD,Care home,Specialized and intensive supervision,1289.00,2578.00,666.00,1332.00,623.00,1246.00,666.00,TRUE
+2007,MD,Assisted living facility,,807.00,1614.00,184.00,368.00,623.00,1246.00,184.00,TRUE
+2007,MD,Rehabilitative residence,,807.00,1614.00,184.00,368.00,623.00,1246.00,184.00,TRUE
+2008,MD,Care home,Minimal supervision,703.00,1406.00,66.00,132.00,637.00,1274.00,66.00,TRUE
+2008,MD,Care home,Moderate supervision,812.00,1624.00,175.00,350.00,637.00,1274.00,175.00,TRUE
+2008,MD,Care home,Extensive supervision,1100.00,2200.00,463.00,926.00,637.00,1274.00,463.00,TRUE
+2008,MD,Care home,Specialized and intensive supervision,1303.00,2606.00,666.00,1332.00,637.00,1274.00,666.00,TRUE
+2008,MD,Assisted living facility,,821.00,1642.00,184.00,368.00,637.00,1274.00,184.00,TRUE
+2008,MD,Rehabilitative residence,,821.00,1642.00,184.00,368.00,637.00,1274.00,184.00,TRUE
+2011,MD,Care home,Minimal supervision,740.00,1480.00,66.00,132.00,674.00,1348.00,66.00,TRUE
+2011,MD,Care home,Moderate supervision,849.00,1698.00,175.00,350.00,674.00,1348.00,175.00,TRUE
+2011,MD,Care home,Extensive supervision,1137.00,2274.00,463.00,926.00,674.00,1348.00,463.00,TRUE
+2011,MD,Care home,Specialized and intensive supervision,1340.00,2680.00,666.00,1332.00,674.00,1348.00,666.00,TRUE
+2011,MD,Assisted living facility,,858.00,1716.00,184.00,368.00,674.00,1348.00,184.00,TRUE
+2011,MD,Rehabilitative residence,,82.00,164.00,52.00,104.00,30.00,60.00,52.00,TRUE
