@@ -1,0 +1,97 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,ME,Living alone or with others,,396,594,10,15,386,579,5,false
+1990,ME,Living in the household of another,,265.34,398,8,12,257.34,386,4,false
+1990,ME,Foster home,,450,875,64,296,386,579,232,false
+1990,ME,Flat rate boarding home,,570,1104,184,525,386,579,341,false
+1990,ME,Cost reimbursement boarding home,,620,1223,234,644,386,579,410,false
+1990,ME,Medicaid facility,,40,80,10,20,30,60,10,true
+1991,ME,Living alone or with others,,417,625,10,15,407,610,5,false
+1991,ME,Living in the household of another,,279.34,418.67,8,12,271.34,406.67,4,false
+1991,ME,Foster home,,471,906,64,296,407,610,232,false
+1991,ME,Flat rate boarding home,,599,1143,192,533,407,610,341,false
+1991,ME,Cost reimbursement boarding home,,641,1254,234,644,407,610,410,false
+1991,ME,Medicaid facility,,40,80,10,20,30,60,10,true
+1992,ME,Living alone or with others,,432,648,10,15,422,633,5,false
+1992,ME,Living in the household of another,,289.34,434,8,12,281.34,422,4,false
+1992,ME,Foster home,,486,929,64,296,422,633,232,false
+1992,ME,Flat rate boarding home,,654,1246,232,613,422,633,381,false
+1992,ME,Cost reimbursement boarding home,,656,1277,234,644,422,633,410,false
+1992,ME,Medicaid facility,,40,80,10,20,30,60,10,true
+1994,ME,Living alone or with others,,456,684,10,15,446,669,5,false
+1994,ME,Living in the household of another,,305.34,458,8,12,297.34,446,4,false
+1994,ME,Foster home,,495,942,49,273,446,669,224,false
+1994,ME,Flat rate boarding home,,663,1259,217,590,446,669,373,false
+1994,ME,Cost reimbursement boarding home,,665,1290,219,621,446,669,402,false
+1994,ME,Medicaid facility,,40,80,10,20,30,60,10,true
+1995,ME,Living alone or with others,,468,702,10,15,458,687,5,false
+1995,ME,Living in the household of another,,313.34,470,8,12,305.34,458,4,false
+1995,ME,Foster home,,507,960,49,273,458,687,224,false
+1995,ME,Flat rate boarding home,,675,1277,217,590,458,687,373,false
+1995,ME,Cost reimbursement boarding home,,677,1308,219,621,458,687,402,false
+1995,ME,Medicaid facility,,40,80,10,20,30,60,10,true
+1996,ME,Living alone or with others,,480,720,10,15,470,705,5,false
+1996,ME,Living in the household of another,,321.34,482,8,12,313.34,470,4,false
+1996,ME,Foster home,,519,978,49,273,470,705,224,false
+1996,ME,Flat rate boarding home,,687,1295,217,590,470,705,373,false
+1996,ME,Cost reimbursement boarding home,,689,1326,219,621,470,705,402,false
+1996,ME,Medicaid facility,,40,80,10,20,30,60,10,true
+1997,ME,Living alone or with others,,494,741,10,15,484,726,5,false
+1997,ME,Living in the household of another,,330.67,496,8,12,322.67,484,4,false
+1997,ME,Foster home,,533,999,49,273,484,726,224,false
+1997,ME,Flat rate boarding home,,701,1316,217,590,484,726,373,false
+1997,ME,Cost reimbursement boarding home,,703,1347,219,621,484,726,402,false
+1997,ME,Medicaid facility,,40,80,10,20,30,60,10,true
+1998,ME,Living alone or with others,,504,756,10,15,494,741,5,false
+1998,ME,Living in the household of another,,337.34,506,8,12,329.34,494,4,false
+1998,ME,Foster home,,543,1014,49,273,494,741,224,false
+1998,ME,Flat rate boarding home,,711,1331,217,590,494,741,373,false
+1998,ME,Cost reimbursement boarding home,,713,1362,219,621,494,741,402,false
+1998,ME,Medicaid facility,,40,80,10,20,30,60,10,true
+1999,ME,Living alone or with others,,510,766,10,15,500,751,5,false
+1999,ME,Living in the household of another,,341.34,512.67,8,12,333.34,500.66999999999996,4,false
+1999,ME,Foster home,,549,1024,49,273,500,751,224,false
+1999,ME,Flat rate boarding home,,717,1341,217,590,500,751,373,false
+1999,ME,Cost reimbursement boarding home,,719,1372,219,621,500,751,402,false
+1999,ME,Medicaid facility,,40,80,10,20,30,60,10,true
+2000,ME,Living alone or with others,,522,784,10,15,512,769,5,false
+2000,ME,Living in the household of another,,349.34,524.67,8,12,341.34,512.67,4,false
+2000,ME,Fost home,,561,1042,49,273,512,769,224,false
+2000,ME,Flate rate boarding home,,729,1359,217,590,512,769,373,false
+2000,ME,Cost reimbursement boarding home,,731,1390,219,621,512,769,402,false
+2000,ME,Medicaid facility,,40,80,10,20,30,60,10,true
+2004,ME,Living alone or with others,,574,861,10,15,564,846,5,false
+2004,ME,Living in the household of another,,384,576,8,12,376,564,4,false
+2004,ME,Fost home,,613,1119,49,273,564,846,224,false
+2004,ME,Flate rate boarding home,,781,1436,217,590,564,846,373,false
+2004,ME,Cost reimbursement boarding home,,798,1482,234,636,564,846,402,false
+2004,ME,Medicaid facility,,40,80,10,20,30,60,10,true
+2005,ME,Living alone or with others,,589,884,10,15,579,869,5,false
+2005,ME,Living in the household of another,,394,591.34,8,12,386,579.34,4,false
+2005,ME,Fost home,,628,1142,49,273,579,869,224,false
+2005,ME,Flate rate boarding home,,796,1459,217,590,579,869,373,false
+2005,ME,Cost reimbursement boarding home,,813,1505,234,636,579,869,402,false
+2005,ME,Medicaid facility,,40,80,10,20,30,60,10,true
+2006,ME,Living alone or with others,,613,919,10,15,603,904,5,false
+2006,ME,Living in the household of another,,410,614.67,8,12,402,602.67,4,false
+2006,ME,Fost home,,652,1177,49,273,603,904,224,false
+2006,ME,Flate rate boarding home,,820,1494,217,590,603,904,373,false
+2006,ME,Cost reimbursement boarding home,,837,1540,234,636,603,904,402,false
+2006,ME,Medicaid facility,,40,80,10,20,30,60,10,true
+2007,ME,Living alone or with others,,633,949,10,15,623,934,5,false
+2007,ME,Living in the household of another,,423.34,634.67,8,12,415.34,622.67,4,false
+2007,ME,Fost home,,672,1207,49,273,623,934,224,false
+2007,ME,Flate rate boarding home,,840,1524,217,590,623,934,373,false
+2007,ME,Cost reimbursement boarding home,,857,1570,234,636,623,934,402,false
+2007,ME,Medicaid facility,,40,80,10,20,30,60,10,true
+2008,ME,Living alone or with others,,647,971,10,15,637,956,5,false
+2008,ME,Living in the household of another,,432.67,649.34,8,12,424.67,637.34,4,false
+2008,ME,Fost home,,686,1229,49,273,637,956,224,false
+2008,ME,Flate rate boarding home,,854,1546,217,590,637,956,373,false
+2008,ME,Cost reimbursement boarding home,,871,1592,234,636,637,956,402,false
+2008,ME,Medicaid facility,,40,80,10,20,30,60,10,true
+2011,ME,Living alone or with others,,684,1026,10,15,674,1011,5,false
+2011,ME,Living in the household of another,,457.34,686,8,12,449.34,674,4,false
+2011,ME,Fost home,,723,1284,49,273,674,1011,224,false
+2011,ME,Flate rate boarding home,,891,1601,217,590,674,1011,373,false
+2011,ME,Cost reimbursement boarding home,,908,1647,234,636,674,1011,402,false
+2011,ME,Medicaid facility,,40,80,10,20,30,60,10,true

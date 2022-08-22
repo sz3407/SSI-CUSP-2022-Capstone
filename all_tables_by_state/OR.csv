@@ -1,0 +1,145 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,OR,Living independently,Aged and disabled,387.7,579,1.7,0,386,579,-1.7,false
+1990,OR,Living independently,Blind,412.7,604.6,26.7,25.6,386,579,-1.0999999999999979,false
+1990,OR,Living with an ineligible spouse,Aged and disabled,387.7,0,1.7,0,386,0,-1.7,false
+1990,OR,Living with an ineligible spouse,Blind,412.7,0,26.7,0,386,0,-26.7,false
+1990,OR,Living with essential person,Blind,604.6,0,25.6,0,579,0,-25.6,false
+1990,OR,Living in household of another,Aged and disabled,259.04,386,1.7,0,257.34000000000003,386,-1.7,false
+1990,OR,Living in household of another,Blind,281.04,411.6,26.7,25.6,254.34000000000003,386,-1.0999999999999979,false
+1990,OR,Adult foster/residential care,Aged and disabled,387.7,775.4,1.7,196.4,386,579,194.70000000000002,false
+1990,OR,Adult foster/residential care,Blind,412.7,825.4,26.7,246.4,386,579,219.70000000000002,false
+1990,OR,Room and board,Aged and disabled,387.7,775.4,1.7,196.4,386,579,194.70000000000002,false
+1990,OR,Room and board,Blind,412.7,825.4,26.7,246.4,386,579,219.70000000000002,false
+1991,OR,Living independently,Aged and disabled,408.7,610,1.7,0,407,610,-1.7,false
+1991,OR,Living independently,Blind,433.7,635.6,26.7,25.6,407,610,-1.0999999999999979,false
+1991,OR,Living with an ineligible spouse,Aged and disabled,408.7,0,1.7,0,407,0,-1.7,false
+1991,OR,Living with an ineligible spouse,Blind,433.7,0,26.7,0,407,0,-26.7,false
+1991,OR,Living with essential person,Blind,636.6,0,25.6,0,611,0,-25.6,false
+1991,OR,Living in household of another,Aged and disabled,273.04,406.67,1.7,0,271.34000000000003,406.67,-1.7,false
+1991,OR,Living in household of another,Blind,298.04,432.27,26.7,25.6,271.34000000000003,406.66999999999996,-1.0999999999999979,false
+1991,OR,Adult foster/residential care,Aged and disabled,408.7,806.4,1.7,196.4,407,610,194.70000000000002,false
+1991,OR,Adult foster/residential care,Blind,433.7,856.4,26.7,246.4,407,610,219.70000000000002,false
+1991,OR,Room and board,Aged and disabled,408.7,806.4,1.7,196.4,407,610,194.70000000000002,false
+1991,OR,Room and board,Blind,433.7,856.4,26.7,246.4,407,610,219.70000000000002,false
+1992,OR,Living independently,Aged and disabled,423.7,633,1.7,0,422,633,-1.7,false
+1992,OR,Living independently,Blind,448.7,658.6,26.7,25.6,422,633,-1.0999999999999979,false
+1992,OR,Living with an ineligible spouse,Aged and disabled,423.7,0,1.7,0,422,0,-1.7,false
+1992,OR,Living with an ineligible spouse,Blind,448.7,0,26.7,0,422,0,-26.7,false
+1992,OR,Living with essential person,Blind,658.6,0,25.6,0,633,0,-25.6,false
+1992,OR,Living in household of another,Aged and disabled,283.04,422,1.7,0,281.34000000000003,422,-1.7,false
+1992,OR,Living in household of another,Blind,308.04,447.6,26.7,25.6,281.34000000000003,422,-1.0999999999999979,false
+1992,OR,Adult foster/residential care,Aged and disabled,423.7,829.4,1.7,196.4,422,633,194.70000000000002,false
+1992,OR,Adult foster/residential care,Blind,448.7,879.4,26.7,246.4,422,633,219.70000000000002,false
+1992,OR,Room and board,Aged and disabled,423.7,829.4,1.7,196.4,422,633,194.70000000000002,false
+1992,OR,Room and board,Blind,448.7,879.4,26.7,246.4,422,633,219.70000000000002,false
+1994,OR,Living independently,Aged and disabled,447.7,669,1.7,0,446,669,-1.7,false
+1994,OR,Living independently,Blind,472.7,694.6,26.7,25.6,446,669,-1.0999999999999979,false
+1994,OR,Living with an ineligible spouse,Aged and disabled,447.7,0,1.7,0,446,0,-1.7,false
+1994,OR,Living with an ineligible spouse,Blind,472.7,0,26.7,0,446,0,-26.7,false
+1994,OR,Living with essential person,Blind,694.6,0,25.6,0,669,0,-25.6,false
+1994,OR,Living in household of another,Aged and disabled,299.04,446,1.7,0,297.34000000000003,446,-1.7,false
+1994,OR,Living in household of another,Blind,324.04,471.6,26.7,25.6,297.34000000000003,446,-1.0999999999999979,false
+1994,OR,Adult foster/residential care,Aged and disabled,447.7,865.4,1.7,196.4,446,669,194.70000000000002,false
+1994,OR,Adult foster/residential care,Blind,472.7,915.4,26.7,246.4,446,669,219.70000000000002,false
+1994,OR,Room and board,Aged and disabled,447.7,865.4,1.7,196.4,446,669,194.70000000000002,false
+1994,OR,Room and board,Blind,472.7,915.4,26.7,246.4,446,669,219.70000000000002,false
+1995,OR,Living independently,Aged and disabled,459.7,459.7,1.7,0,458,459.7,-1.7,false
+1995,OR,Living independently,Blind,484.7,484.7,26.7,25.6,458,459.09999999999997,-1.0999999999999979,false
+1995,OR,Living with an ineligible spouse,Aged and disabled,687,0,1.7,0,685.3,0,-1.7,false
+1995,OR,Living with an ineligible spouse,Blind,712.6,0,26.7,0,685.9,0,-26.7,false
+1995,OR,Living with essential person,Blind,712.6,0,25.6,0,687,0,-25.6,false
+1995,OR,Living in household of another,Aged and disabled,307.04,458,1.7,0,305.34000000000003,458,-1.7,false
+1995,OR,Living in household of another,Blind,332.04,483.6,26.7,25.6,305.34000000000003,458,-1.0999999999999979,false
+1995,OR,Adult foster/residential care,Aged and disabled,459.7,883.4,1.7,196.4,458,687,194.70000000000002,false
+1995,OR,Adult foster/residential care,Blind,484.7,933.4,26.7,246.4,458,687,219.70000000000002,false
+1995,OR,Room and board,Aged and disabled,459.7,883.4,1.7,196.4,458,687,194.70000000000002,false
+1995,OR,Room and board,Blind,484.7,933.4,26.7,246.4,458,687,219.70000000000002,false
+1996,OR,Living independently,Aged and disabled,471.7,705,1.7,0,470,705,-1.7,false
+1996,OR,Living independently,Blind,496.7,730.6,26.7,25.6,470,705,-1.0999999999999979,false
+1996,OR,Living with an ineligible spouse,Aged and disabled,471.7,0,1.7,0,470,0,-1.7,false
+1996,OR,Living with an ineligible spouse,Blind,496.7,0,26.7,0,470,0,-26.7,false
+1996,OR,Living with essential person,Blind,730.6,0,25.6,0,705,0,-25.6,false
+1996,OR,Living in household of another,Aged and disabled,315.04,470,1.7,0,313.34000000000003,470,-1.7,false
+1996,OR,Living in household of another,Blind,340.04,495.6,26.7,25.6,313.34000000000003,470,-1.0999999999999979,false
+1996,OR,Adult foster/residential care,Aged and disabled,471.7,901.4,1.7,196.4,470,705,194.70000000000002,false
+1996,OR,Adult foster/residential care,Blind,496.7,951.4,26.7,246.4,470,705,219.70000000000002,false
+1996,OR,Room and board,Aged and disabled,471.7,901.4,1.7,196.4,470,705,194.70000000000002,false
+1996,OR,Room and board,Blind,496.7,951.4,26.7,246.4,470,705,219.70000000000002,false
+1997,OR,Living independently,Aged and disabled,485.7,726,1.7,0,484,726,-1.7,false
+1997,OR,Living independently,Blind,510.7,751.6,26.7,25.6,484,726,-1.0999999999999979,false
+1997,OR,Living with an ineligible spouse,Aged and disabled,485.7,0,1.7,0,484,0,-1.7,false
+1997,OR,Living with an ineligible spouse,Blind,510.7,0,26.7,0,484,0,-26.7,false
+1997,OR,Living with essential person,Blind,751.6,0,25.6,0,726,0,-25.6,false
+1997,OR,Living in household of another,Aged and disabled,324.37,484,1.7,0,322.67,484,-1.7,false
+1997,OR,Living in household of another,Blind,349.37,509.6,26.7,25.6,322.67,484,-1.0999999999999979,false
+1997,OR,Adult foster/residential care,Aged and disabled,485.7,922.4,1.7,196.4,484,726,194.70000000000002,false
+1997,OR,Adult foster/residential care,Blind,510.7,972.4,26.7,246.4,484,726,219.70000000000002,false
+1997,OR,Room and board,Aged and disabled,485.7,922.4,1.7,196.4,484,726,194.70000000000002,false
+1997,OR,Room and board,Blind,510.7,972.4,26.7,246.4,484,726,219.70000000000002,false
+1998,OR,Living independently,Aged and disabled,495.7,741,1.7,0,494,741,-1.7,false
+1998,OR,Living independently,Blind,520.7,766.6,26.7,25.6,494.00000000000006,741,-1.0999999999999979,false
+1998,OR,Living with an ineligible spouse,Aged and disabled,495.7,0,1.7,0,494,0,-1.7,false
+1998,OR,Living with an ineligible spouse,Blind,520.7,0,26.7,0,494.00000000000006,0,-26.7,false
+1998,OR,Living with essential person,Blind,766.6,0,25.6,0,741,0,-25.6,false
+1998,OR,Living in household of another,Aged and disabled,331.04,494,1.7,0,329.34000000000003,494,-1.7,false
+1998,OR,Living in household of another,Blind,356.04,519.6,26.7,25.6,329.34000000000003,494,-1.0999999999999979,false
+1998,OR,Adult foster/residential care,Aged and disabled,495.7,937.4,1.7,196.4,494,741,194.70000000000002,false
+1998,OR,Adult foster/residential care,Blind,520.7,987.4,26.7,246.4,494.00000000000006,741,219.70000000000002,false
+1998,OR,Room and board,Aged and disabled,495.7,937.4,1.7,196.4,494,741,194.70000000000002,false
+1998,OR,Room and board,Blind,520.7,987.4,26.7,246.4,494.00000000000006,741,219.70000000000002,false
+1999,OR,Living independently,Aged and disabled,501.7,751,1.7,0,500,751,-1.7,false
+1999,OR,Living independently,Blind,526.7,776.6,26.7,25.6,500.00000000000006,751,-1.0999999999999979,false
+1999,OR,Living with an ineligible spouse,Aged and disabled,501.7,0,1.7,0,500,0,-1.7,false
+1999,OR,Living with an ineligible spouse,Blind,526.7,0,26.7,0,500.00000000000006,0,-26.7,false
+1999,OR,Living with essential person,Blind,775.6,0,25.6,0,750,0,-25.6,false
+1999,OR,Living in household,Aged and disabled,335.04,500.67,1.7,0,333.34000000000003,500.67,-1.7,false
+1999,OR,Living in household,Blind,360.04,526.27,26.7,25.6,333.34000000000003,500.66999999999996,-1.0999999999999979,false
+1999,OR,Adult foster/residential,Aged and disabled,501.7,947.4,1.7,196.4,500,751,194.70000000000002,false
+1999,OR,Adult foster/residential,Blind,526.7,997.4,26.7,246.4,500.00000000000006,751,219.70000000000002,false
+1999,OR,Room and board,Aged and disabled,501.7,947.4,1.7,196.4,500,751,194.70000000000002,false
+1999,OR,Room and board,Blind,526.7,997.4,26.7,246.4,500.00000000000006,751,219.70000000000002,false
+2000,OR,Living independently,Aged and disabled,513.7,769,1.7,0,512,769,-1.7,false
+2000,OR,Living independently,Blind,538.7,794.6,26.7,25.6,512,769,-1.0999999999999979,false
+2000,OR,Living with an ineligible spouse,Aged and disabled,513.7,0,1.7,0,512,0,-1.7,false
+2000,OR,Living with an ineligible spouse,Blind,538.7,0,26.7,0,512,0,-26.7,false
+2000,OR,Living with essential person,Blind,794.6,0,25.6,0,769,0,-25.6,false
+2000,OR,Living in household of another,Aged and disabled,343.04,512.67,1.7,0,341.34000000000003,512.67,-1.7,false
+2000,OR,Living in household of another,Blind,368.04,538.27,26.7,25.6,341.34000000000003,512.67,-1.0999999999999979,false
+2000,OR,Adult foster/residential care,Aged and disabled,513.7,965.4,1.7,196.4,512,769,194.70000000000002,false
+2000,OR,Adult foster/residential care,Blind,537.7,1015.4,26.7,246.4,511.00000000000006,769,219.70000000000002,false
+2000,OR,Room and board,Aged and disabled,513.7,965.4,1.7,196.4,512,769,194.70000000000002,false
+2000,OR,Room and board,Blind,537.7,1015.4,26.7,246.4,511.00000000000006,769,219.70000000000002,false
+2004,OR,Living independently,Aged and disabled,565.7,846,1.7,0,564,846,-1.7,false
+2004,OR,Living independently,Blind,590.7,871.6,26.7,25.6,564,846,-1.0999999999999979,false
+2004,OR,Living with an ineligible spouse,Aged and disabled,565.7,0,1.7,0,564,0,-1.7,false
+2004,OR,Living with an ineligible spouse,Blind,590.7,0,26.7,0,564,0,-26.7,false
+2004,OR,Living in household of another,Aged and disabled,377.7,564,1.7,0,376,564,-1.7,false
+2004,OR,Living in household of another,Blind,402.7,589.6,26.7,25.6,376,564,-1.0999999999999979,false
+2004,OR,Adult foster/residential care,Aged and disabled,565.7,1042.4,1.7,196.4,564,846.0000000000001,194.70000000000002,false
+2004,OR,Adult foster/residential care,Blind,590.7,1092.4,26.7,246.4,564,846.0000000000001,219.70000000000002,false
+2004,OR,Room and board,Aged and disabled,565.7,1042.4,1.7,196.4,564,846.0000000000001,194.70000000000002,false
+2004,OR,Room and board,Blind,590.7,1092.4,26.7,246.4,564,846.0000000000001,219.70000000000002,false
+2005,OR,Living independently,Aged and disabled,580.7,0,1.7,0,579,0,-1.7,false
+2005,OR,Living independently,Blind,605.7,894.6,26.7,25.6,579,869,-1.0999999999999979,false
+2005,OR,Living in household of another,Aged and disabled,387.7,0,1.7,0,386,0,-1.7,false
+2005,OR,Living in household of another,Blind,412.7,604.94,26.7,25.6,386,579.34,-1.0999999999999979,false
+2005,OR,Adult foster/residential care,Aged and disabled,580.7,1065.4,1.7,196.4,579,869.0000000000001,194.70000000000002,false
+2005,OR,Adult foster/residential care,Blind,605.7,1115.4,26.7,246.4,579,869.0000000000001,219.70000000000002,false
+2006,OR,Living independently,Aged and disabled,604.7,0,1.7,0,603,0,-1.7,false
+2006,OR,Living independently,Blind,629.7,929,26.7,25.6,603,903.4,-1.0999999999999979,false
+2006,OR,Living in household of another,Aged and disabled,403.7,0,1.7,0,402,0,-1.7,false
+2006,OR,Living in household of another,Blind,428.7,628.27,26.7,25.6,402,602.67,-1.0999999999999979,false
+2006,OR,Adult foster/residential care,Aged and disabled,604.7,0,1.7,0,603,0,-1.7,false
+2006,OR,Adult foster/residential care,Blind,629.7,0,26.7,0,603,0,-26.7,false
+2007,OR,Living independently,Aged and disabled,624.7,0,1.7,0,623,0,-1.7,false
+2007,OR,Living independently,Blind,649.7,959,26.7,25.6,623,933.4,-1.0999999999999979,false
+2007,OR,Living in household of another,Aged and disabled,417.04,0,1.7,0,415.34000000000003,0,-1.7,false
+2007,OR,Living in household of another,Blind,442.04,647.67,26.7,25.6,415.34000000000003,622.0699999999999,-1.0999999999999979,false
+2007,OR,Adult foster/residential care,Aged and disabled,624.7,0,1.7,0,623,0,-1.7,false
+2007,OR,Adult foster/residential care,Blind,624.7,0,26.7,0,598,0,-26.7,false
+2008,OR,Living independently,Aged and disabled,638.7,0,1.7,0,637,0,-1.7,false
+2008,OR,Living independently,Blind,663.7,981,26.7,25,637,956,-1.6999999999999993,false
+2008,OR,Living in household of another,Aged and disabled,426.37,0,1.7,0,424.67,0,-1.7,false
+2008,OR,Living in household of another,Blind,451.37,662.34,26.7,25,424.67,637.34,-1.6999999999999993,false
+2008,OR,Adult foster/residential care,Aged and disabled,638.7,0,1.7,0,637,0,-1.7,false
+2008,OR,Adult foster/residential care,Blind,638.7,0,26.7,0,612,0,-26.7,false

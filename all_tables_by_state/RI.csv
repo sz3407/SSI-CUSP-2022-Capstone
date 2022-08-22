@@ -1,0 +1,64 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,RI,Living alone,,450.35,699.5,64.35,120.5,386,579,56.150000000000006,false
+1990,RI,Living in household of another,,331.94,522.5,74.6,136.5,257.34000000000003,386,61.900000000000006,false
+1990,RI,Medicaid facility,,40,80,10,20,30,60,10,true
+1991,RI,Living alone,,471.35,730.5,64.35,120.5,407,610,56.150000000000006,false
+1991,RI,Living in household of another,,345.94,543.17,74.6,136.5,271.34000000000003,406.66999999999996,61.900000000000006,false
+1991,RI,Shelter care facility,,739,0,332,0,407,0,-332,false
+1991,RI,Medicaid facility,,40,80,10,20,30,60,10,true
+1992,RI,Living alone,,488.79,757.53,66.79,124.53,422,633,57.739999999999995,false
+1992,RI,Living in household of another,,358.74,563.27,77.4,141.27,281.34000000000003,422,63.870000000000005,false
+1992,RI,Shelter care facility,,766.34,0,344.34,0,422.00000000000006,0,-344.34,false
+1992,RI,Medicaid facility,,40,80,10,20,30,60,10,true
+1994,RI,Living alone,,510.35,789.5,64.35,120.5,446,669,56.150000000000006,false
+1994,RI,Living in household of another,,371.94,582.5,74.6,136.5,297.34000000000003,446,61.900000000000006,false
+1994,RI,Shelter care facility,,778,0,332,0,446,0,-332,false
+1994,RI,Medicaid facility,,40,80,10,20,30,60,10,true
+1995,RI,Living alone,,522.35,807.5,64.35,120.5,458,687,56.150000000000006,false
+1995,RI,Living in household of another,,379.94,594.5,74.6,136.5,305.34000000000003,458,61.900000000000006,false
+1995,RI,Shelter care facility,,790,0,332,0,458,0,-332,false
+1995,RI,Medicaid facility,,40,80,10,20,30,60,10,true
+1996,RI,Living alone,,534.35,825.5,64.35,120.5,470,705,56.150000000000006,false
+1996,RI,Living in household of another,,387.94,606.5,74.6,136.5,313.34000000000003,470,61.900000000000006,false
+1996,RI,Shelter care facility,,802,0,332,0,470,0,-332,false
+1996,RI,Medicaid facility,,40,80,10,20,30,60,10,true
+1997,RI,Living alone,,548.35,846.5,64.35,120.5,484,726,56.150000000000006,false
+1997,RI,Living in household of another,,397.27,620.5,74.6,136.5,322.66999999999996,484,61.900000000000006,false
+1997,RI,Shelter care facility,,816,0,332,0,484,0,-332,false
+1997,RI,Medicaid facility,,40,80,10,20,30,60,10,true
+1998,RI,Living alone,,558.35,861.5,64.35,120.5,494,741,56.150000000000006,false
+1998,RI,Living in household of another,,403.94,630.5,74.6,136.5,329.34000000000003,494,61.900000000000006,false
+1998,RI,Shelter care facility,,826,0,332,0,494,0,-332,false
+1998,RI,Medicaid facility,,40,80,10,20,30,60,10,true
+1999,RI,Living alone,,564.35,871.5,64.35,120.5,500,751,56.150000000000006,false
+1999,RI,Living in household of another,,407.94,637.17,74.6,136.5,333.34000000000003,500.66999999999996,61.900000000000006,false
+1999,RI,Residential care/assisted living,,1082,0,582,0,500,0,-582,false
+1999,RI,Medicaid facility,,40,80,10,20,30,60,10,true
+2000,RI,Living alone,,576.35,889.5,64.35,120.5,512,769,56.150000000000006,false
+2000,RI,Living in household of another,,415.94,649.17,74.6,136.5,341.34000000000003,512.67,61.900000000000006,false
+2000,RI,Residential care/assisted living,,1094,0,582,0,512,0,-582,false
+2000,RI,Medicaid facility,,50,100,20,40,30,60,20,true
+2004,RI,Living alone,,621.35,954.5,57.35,108.5,564,846,51.15,false
+2004,RI,Living in household of another,,445.94,692.5,69.94,128.5,376,564,58.56,false
+2004,RI,Residential care/assisted living,,1139,0,575,0,564,0,-575,false
+2004,RI,Medicaid facility,,50,100,20,40,30,60,20,true
+2005,RI,Living alone,,636.35,977.5,57.35,108.5,579,869,51.15,false
+2005,RI,Living in household of another,,455.94,707.84,69.94,128.5,386,579.34,58.56,false
+2005,RI,Residential care/assisted living,,1154,0,575,0,579,0,-575,false
+2005,RI,Medicaid facility,,50,100,20,40,30,60,20,true
+2006,RI,Living alone,,660.35,1012.5,57.35,108.5,603,904,51.15,false
+2006,RI,Living in household of another,,471.94,731.17,69.94,128.5,402,602.67,58.56,false
+2006,RI,Residential care/assisted living,,1178,0,575,0,603,0,-575,false
+2006,RI,Medicaid facility,,50,100,20,40,30,60,20,true
+2007,RI,Living alone,,680.35,1042.5,57.35,108.5,623,934,51.15,false
+2007,RI,Living in household of another,,485.28,751.17,69.94,128.5,415.34,622.67,58.56,false
+2007,RI,Residential care/assisted living,,1198,0,575,0,623,0,-575,false
+2007,RI,Medicaid facility,,50,100,20,40,30,60,20,true
+2008,RI,Living alone,,694.35,1064.5,57.35,108.5,637,956,51.15,false
+2008,RI,Living in household of another,,494.61,765.84,69.94,128.5,424.67,637.34,58.56,false
+2008,RI,Residential care/assisted living,,1212,0,575,0,637,0,-575,false
+2008,RI,Medicaid facility,,50,100,20,40,30,60,20,true
+2011,RI,Living alone,,713.92,1090.38,39.92,79.38,674,1011.0000000000001,39.459999999999994,false
+2011,RI,Living in household of another,,501.26,771.3,51.92,97.3,449.34,674,45.379999999999995,false
+2011,RI,Residential care/assisted living,,1212,0,538,0,674,0,-538,false
+2011,RI,Medicaid facility,,50,100,20,40,30,60,20,true

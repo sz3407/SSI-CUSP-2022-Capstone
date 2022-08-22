@@ -1,0 +1,90 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,AK,Living independently,,717,1063,331,484,386,579,153,false
+1990,AK,Living independently with ineligible spouse,,862,0,476,0,386,0,-476,false
+1990,AK,Living in household of another,,594.34,883,337,497,257.34000000000003,386,160,false
+1990,AK,Living in household of another with ineligible spouse,,681.34,0,424,0,257.34000000000003,0,-424,false
+1990,AK,Medicaid facility,,75,150,45,90,30,60,45,true
+1991,AK,Living independently,,756,1120,349,510,407,610,161,false
+1991,AK,Living independently with ineligible spouse,,909,0,502,0,407,0,-502,false
+1991,AK,Living in household of another,,626.34,930.67,355,524,271.34000000000003,406.66999999999996,169,false
+1991,AK,Living in household of another with ineligible spouse,,718.34,0,447,0,271.34000000000003,0,-447,false
+1991,AK,Medicaid facility,,75,150,45,90,30,60,45,true
+1992,AK,Living independently,,784,1161,362,528,422,633,166,false
+1992,AK,Living independently with ineligible spouse,,943,0,521,0,422,0,-521,false
+1992,AK,Living in household of another,,649.34,965,368,543,281.34000000000003,422,175,false
+1992,AK,Living in household of another with ineligible spouse,,745.34,0,464,0,281.34000000000003,0,-464,false
+1992,AK,Medicaid facility,,75,150,45,90,30,60,45,true
+1994,AK,Living independently,,808,1197,362,528,446,669,166,false
+1994,AK,Living independently with ineligible spouse,,967,0,521,0,446,0,-521,false
+1994,AK,Living in household of another,,665.34,989,368,543,297.34000000000003,446,175,false
+1994,AK,Living in household of another with ineligible spouse,,761.34,0,464,0,297.34000000000003,0,-464,false
+1994,AK,Medicaid facility,,75,150,45,90,30,60,45,true
+1995,AK,Living independently,,820,1215,362,528,458,687,166,false
+1995,AK,Living independently with ineligible spouse,,979,0,521,0,458,0,-521,false
+1995,AK,Living in household of another,,673.34,1001,368,543,305.34000000000003,458,175,false
+1995,AK,Living in household of another with ineligible spouse,,769.34,0,464,0,305.34000000000003,0,-464,false
+1995,AK,Medicaid facility,,75,150,45,90,30,60,45,true
+1996,AK,Living independently,,832,1233,362,528,470,705,166,false
+1996,AK,Living independently with ineligible spouse,,991,0,521,0,470,0,-521,false
+1996,AK,Living in household of another,,681.34,1013,368,543,313.34000000000003,470,175,false
+1996,AK,Living in household of another with ineligible spouse,,777.34,0,464,0,313.34000000000003,0,-464,false
+1996,AK,Medicaid facility,,75,150,45,90,30,60,45,true
+1997,AK,Living independently,,846,1254,362,528,484,726,166,false
+1997,AK,Living independently with ineligible spouse,,1005,0,521,0,484,0,-521,false
+1997,AK,Living in household of another,,690.67,1027,368,543,322.66999999999996,484,175,false
+1997,AK,Living in household of another with ineligible spouse,,786.67,0,464,0,322.66999999999996,0,-464,false
+1997,AK,Medicaid facility,,75,150,45,90,30,60,45,true
+1998,AK,Living independently,,856,1269,362,528,494,741,166,false
+1998,AK,Living independently with ineligible spouse,,1015,0,521,0,494,0,-521,false
+1998,AK,Living in household of another,,697.34,1037,368,543,329.34000000000003,494,175,false
+1998,AK,Living in household of another with ineligible spouse,,793.34,0,464,0,329.34000000000003,0,-464,false
+1998,AK,Medicaid facility,,75,150,45,90,30,60,45,true
+1999,AK,Living independently,,862,1279,362,528,500,751,166,false
+1999,AK,Living independently with ineligible spouse,,1021,0,521,0,500,0,-521,false
+1999,AK,Living in household of another,,701.34,1043.67,368,543,333.34000000000003,500.6700000000001,175,false
+1999,AK,Living in household of another with ineligible spouse,,797.34,0,464,0,333.34000000000003,0,-464,false
+1999,AK,Medicaid facility,,75,150,45,90,30,60,45,true
+2000,AK,Living independently,,874,1297,362,528,512,769,166,false
+2000,AK,Living independently with ineligible spouse,,1033,0,521,0,512,0,-521,false
+2000,AK,Living in household of another,,709.34,1055.67,368,543,341.34000000000003,512.6700000000001,175,false
+2000,AK,Living in household of another with ineligible spouse,,805.34,0,464,0,341.34000000000003,0,-464,false
+2000,AK,Medicaid facility,,75,150,45,90,30,60,45,true
+2004,AK,Living independently,,926,1374,362,528,564,846,166,false
+2004,AK,Living independently with ineligible spouse,,1085,0,521,0,564,0,-521,false
+2004,AK,Living in household of another,,744,1107,368,543,376,564,175,false
+2004,AK,Living in household of another with ineligible spouse,,840,0,464,0,376,0,-464,false
+2004,AK,Medicaid facility,,75,150,45,90,30,60,45,true
+2005,AK,Living independently,,941,1397,362,528,579,869,166,false
+2005,AK,Living independently with ineligible spouse,,1100,0,521,0,579,0,-521,false
+2005,AK,Living in household of another,,754,1122.34,368,543,386,579.3399999999999,175,false
+2005,AK,Assisted living home,,679,1069,100,200,579,869,100,true
+2005,AK,Assisted living home with an ineligible spouse,,679,0,100,0,579,0,-100,false
+2005,AK,Medicaid facility,,75,150,45,90,30,60,45,true
+2006,AK,Living independently,,965,1432,362,528,603,904,166,false
+2006,AK,Living independently with ineligible spouse,,1124,0,521,0,603,0,-521,false
+2006,AK,Living in household of another,,770,1145.67,368,543,402,602.6700000000001,175,false
+2006,AK,Living in household of another with ineligible spouse,,866,0,464,0,402,0,-464,false
+2006,AK,Assisted living home,,703,1104,100,200,603,904,100,true
+2006,AK,Assisted living home with an ineligible spouse,,703,0,100,0,603,0,-100,false
+2006,AK,Medicaid facility,,75,150,45,90,30,60,45,true
+2007,AK,Living independently,,985,1462,362,528,623,934,166,false
+2007,AK,Living independently with ineligible spouse,,1144,0,521,0,623,0,-521,false
+2007,AK,Living in household of another,,783.34,1165.67,368,543,415.34000000000003,622.6700000000001,175,false
+2007,AK,Living in household of another with ineligible spouse,,879.34,0,464,0,415.34000000000003,0,-464,false
+2007,AK,Assisted living home,,723,1134,100,200,623,934,100,true
+2007,AK,Assisted living home with an ineligible spouse,,723,0,100,0,623,0,-100,false
+2007,AK,Medicaid facility,,75,150,45,90,30,60,45,true
+2008,AK,Living independently,,999,1484,362,528,637,956,166,false
+2008,AK,Living independently with ineligible spouse,,1158,0,521,0,637,0,-521,false
+2008,AK,Living in household of another,,792.67,1180.34,368,543,424.66999999999996,637.3399999999999,175,false
+2008,AK,Living in household of another with ineligible spouse,,888.67,0,464,0,424.66999999999996,0,-464,false
+2008,AK,Assisted living home,,737,1150,100,200,637,950,100,true
+2008,AK,Assisted living home with an ineligible spouse,,737,0,100,0,637,0,-100,false
+2008,AK,Medicaid facility,,75,150,45,90,30,60,45,true
+2011,AK,Living independently,,1036,1539,362,528,674,1011,166,false
+2011,AK,Living independently with ineligible spouse,,1195,0,521,0,674,0,-521,false
+2011,AK,Living in household of another,,817.34,1217,368,543,449.34000000000003,674,175,false
+2011,AK,Living in household of another with ineligible spouse,,913.34,0,464,0,449.34000000000003,0,-464,false
+2011,AK,Assisted living home,,774,1211,100,200,674,1011,100,true
+2011,AK,Assisted living home with an ineligible spouse,,774,0,100,0,674,0,-100,false
+2011,AK,Medicaid facility,,75,150,45,90,30,60,45,true

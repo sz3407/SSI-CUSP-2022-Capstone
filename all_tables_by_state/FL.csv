@@ -1,0 +1,85 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,FL,Community care program (Adult foster care),Normal/Minimal,583,0,197,0,386,0,-197,false
+1990,FL,Community care program (Adult foster care),Moderate,583,0,197,0,386,0,-197,false
+1990,FL,Adult congregate living facilities,,583,0,197,0,386,0,-197,false
+1990,FL,Foster home,Minimal,458,0,72,0,386,0,-72,false
+1990,FL,Foster home,Moderate,477,0,91,0,386,0,-91,false
+1990,FL,Foster home,Intensive,494,0,108,0,386,0,-108,false
+1990,FL,Long-term residential care program for the disabled (Small group home),Minimal,641,0,255,0,386,0,-255,false
+1990,FL,Long-term residential care program for the disabled (Small group home),Moderate,659,0,273,0,386,0,-273,false
+1990,FL,Long-term residential care program for the disabled (Small group home),Intensive,683,0,297,0,386,0,-297,false
+1990,FL,Large group home/Residential habilitation center,Mild/moderate disability,556,0,170,0,386,0,-170,false
+1990,FL,Large group home/Residential habilitation center,Severe/disruptive behavior,577,0,191,0,386,0,-191,false
+1990,FL,Large group home/Residential habilitation center,Deaf/blind/nonambulatory,589,0,203,0,386,0,-203,false
+1990,FL,Large group home/Residential habilitation center,Combination of B and C,600,0,214,0,386,0,-214,false
+1990,FL,Large group home/Residential habilitation center,Any combination above,612,0,226,0,386,0,-226,false
+1990,FL,Medicaid facility,,35,70,5,10,30,60,5,true
+1991,FL,Community care program (Adult foster care),Normal/Minimal,618,0,211,0,407,0,-211,false
+1991,FL,Community care program (Adult foster care),Moderate,618,0,211,0,407,0,-211,false
+1991,FL,Adult congregate living facilities,,618,0,211,0,407,0,-211,false
+1991,FL,Foster home,Minimal,618,0,211,0,407,0,-211,false
+1991,FL,Foster home,Moderate,618,0,211,0,407,0,-211,false
+1991,FL,Foster home,Intensive,618,0,211,0,407,0,-211,false
+1991,FL,Long-term residential care program for the disabled (Small group home),Minimal,662,0,255,0,407,0,-255,false
+1991,FL,Long-term residential care program for the disabled (Small group home),Moderate,680,0,273,0,407,0,-273,false
+1991,FL,Long-term residential care program for the disabled (Small group home),Intensive,704,0,297,0,407,0,-297,false
+1991,FL,Large group home/Residential habilitation center,A. Mild/moderate disability,577,0,170,0,407,0,-170,false
+1991,FL,Large group home/Residential habilitation center,B. Severe or disruptive behavior,598,0,191,0,407,0,-191,false
+1991,FL,Large group home/Residential habilitation center,"C. Deaf, blind, nonambulatory",610,0,203,0,407,0,-203,false
+1991,FL,Large group home/Residential habilitation center,D. Combin. B and C,621,0,214,0,407,0,-214,false
+1991,FL,Large group home/Residential habilitation center,E. Any combin. above,633,0,226,0,407,0,-226,false
+1991,FL,Medicaid facility,,35,70,5,10,30,60,5,true
+1992,FL,Community care program (Adult foster care),Normal/Minimal,633,0,211,0,422,0,-211,false
+1992,FL,Community care program (Adult foster care),Moderate,633,0,211,0,422,0,-211,false
+1992,FL,Adult congregate living facilities,,633,0,211,0,422,0,-211,false
+1992,FL,Foster home,Minimal,633,0,211,0,422,0,-211,false
+1992,FL,Foster home,Moderate,633,0,211,0,422,0,-211,false
+1992,FL,Foster home,Intensive,633,0,211,0,422,0,-211,false
+1992,FL,Long-term residential care program for the disabled (Small group home),Minimal,677,0,255,0,422,0,-255,false
+1992,FL,Long-term residential care program for the disabled (Small group home),Moderate,695,0,273,0,422,0,-273,false
+1992,FL,Long-term residential care program for the disabled (Small group home),Intensive,719,0,297,0,422,0,-297,false
+1992,FL,Large group home/Residential habilitation center,A. Mild/moderate disability,592,0,170,0,422,0,-170,false
+1992,FL,Large group home/Residential habilitation center,B. Severe or disruptive behavior,613,0,191,0,422,0,-191,false
+1992,FL,Large group home/Residential habilitation center,C. Deaf/blind/nonambulatory,625,0,203,0,422,0,-203,false
+1992,FL,Large group home/Residential habilitation center,D. Combin. B and C,636,0,214,0,422,0,-214,false
+1992,FL,Large group home/Residential habilitation center,E. Any combin. above,648,0,226,0,422,0,-226,false
+1992,FL,Medicaid facility,,35,70,5,10,30,60,5,true
+1994,FL,Community care program,Adult foster care,630,0,184,0,446,0,-184,false
+1994,FL,Community care program,Adult congregate living facilities,630,0,184,0,446,0,-184,false
+1994,FL,Medicaid facility,,35,70,5,10,30,60,5,true
+1995,FL,Community care program,Adult foster care,629,0,171,0,458,0,-171,false
+1995,FL,Community care program,Adult congregate living facilities,629,0,171,0,458,0,-171,false
+1995,FL,Medicaid facility,,35,70,5,10,30,60,5,true
+1996,FL,Community care program,Adult foster care,641,0,171,0,470,0,-171,false
+1996,FL,Community care program,Adult congregate living facilities,641,0,171,0,470,0,-171,false
+1996,FL,Medicaid facility,,35,70,5,10,30,60,5,true
+1997,FL,Community care program,Adult family care homes,655,0,171,0,484,0,-171,false
+1997,FL,Community care program,Assisted living facilities,655,0,171,0,484,0,-171,false
+1997,FL,Medicaid facility,,35,70,5,10,30,60,5,true
+1998,FL,Community care program,Adult family care homes,665,0,171,0,494,0,-171,false
+1998,FL,Community care program,Assisted living facilities,665,0,171,0,494,0,-171,false
+1998,FL,Medicaid facility,,35,70,5,10,30,60,5,true
+1999,FL,Community care program,Adult family care homes,708,0,208,0,500,0,-208,false
+1999,FL,Assisted living facilities,,708,0,208,0,500,0,-208,false
+1999,FL,Medicaid facility,,35,70,5,10,30,60,5,true
+2000,FL,Community care program,Adult family care homes,740,0,228,0,512,0,-228,false
+2000,FL,Assisted living facilities,,740,0,228,0,512,0,-228,false
+2000,FL,Medicaid facility,,35,70,5,10,30,60,5,true
+2004,FL,Community care program,Adult family care homes,642.4,0,78.4,0,564,0,-78.4,false
+2004,FL,Community care program,Assisted living facilities,642.4,0,78.4,0,564,0,-78.4,false
+2004,FL,Medicaid facility,,35,70,5,10,30,60,5,true
+2005,FL,Community care program,Adult family care homes,657.4,0,78.4,0,579,0,-78.4,false
+2005,FL,Community care program,Assisted living facilities,657.4,0,78.4,0,579,0,-78.4,false
+2005,FL,Medicaid facility,,35,70,5,10,30,60,5,true
+2006,FL,Community care program,Adult family care homes,681.4,0,78.4,0,603,0,-78.4,false
+2006,FL,Community care program,Assisted living facilities,681.4,0,78.4,0,603,0,-78.4,false
+2006,FL,Medicaid facility,,35,70,5,10,30,60,5,true
+2007,FL,Community care program,Adult family care homes,701.4,0,78.4,0,623,0,-78.4,false
+2007,FL,Community care program,Assisted living facilities,701.4,0,78.4,0,623,0,-78.4,false
+2007,FL,Medicaid facility,,35,70,5,10,30,60,5,true
+2008,FL,Community care program,Adult family care homes,715.4,0,78.4,0,637,0,-78.4,false
+2008,FL,Community care program,Assisted living facilities,715.4,0,78.4,0,637,0,-78.4,false
+2008,FL,Medicaid facility,,35,70,5,10,30,60,5,true
+2011,FL,Community care program,Adult family care homes,752.4,0,78.4,0,674,0,-78.4,false
+2011,FL,Community care program,Assisted living facilities,752.4,0,78.4,0,674,0,-78.4,false
+2011,FL,Medicaid facility,,35,70,5,10,30,60,5,true

@@ -1,0 +1,17 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,SC,Licensed residential-care facility,,612,1224,226,645,386,579,419,false
+1991,SC,Licensed residential-care facility,,650,1300,243,690,407,610,447,false
+1992,SC,Licensed residential-care facility,,665,1323,243,690,422,633,447,false
+1994,SC,Licensed residential-care facility,,707,1414,261,745,446,669,484,false
+1995,SC,Licensed residential-care facility,,732,0,274,0,458,0,-274,false
+1996,SC,Licensed residential-care facility,,741,0,271,0,470,0,-271,false
+1997,SC,Licensed residential-care facility,,753,0,269,0,484,0,-269,false
+1998,SC,Licensed residential-care facility,,795,0,301,0,494,0,-301,false
+1999,SC,Licensed residential care facility,,811,0,311,0,500,0,-311,false
+2000,SC,Licensed residential-care facility,,860,1720,348,696,512,1024,348,true
+2004,SC,Licensed residential-care facility,,912,0,348,0,564,0,-348,false
+2005,SC,Licensed residential-care facility,,927,0,348,0,579,0,-348,false
+2006,SC,Licensed residential-care facility,,951,0,348,0,603,0,-348,false
+2007,SC,Licensed residential-care facility,,971,0,348,0,623,0,-348,false
+2008,SC,Licensed residential-care facility,,1065,0,428,0,637,0,-428,false
+2011,SC,Licensed residential-care facility,,1157,0,483,0,674,0,-483,false

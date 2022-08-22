@@ -1,0 +1,230 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl
+1996,AL,Receiving IHC in a private home or a personal care,Level A,530,825,60,120
+1996,AL,Receiving IHC in a private home or a personal care,Level B,526,817,56,112
+1996,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,373.34,590,60,120
+1996,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,369.34,582,56,112
+1996,AL,Receiving specialized IHC in a private home or personal care home,,530,825,60,120
+1996,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,373.34,590,60,120
+1996,AL,Living in foster home with IHC or specialized IHC,,580,925,110,220
+1996,AL,Living in cerebral palsy treatment center,,666,1097,196,392
+1996,AK,Living independently,,832,1233,362,528
+1996,AK,Living independently with ineligible spouse,,991,N/A,521,N/A
+1996,AK,Living in household of another,,681.34,1013,368,543
+1996,AK,Living in household of another with ineligible spouse,,777.34,N/A,464,N/A
+1996,AK,Medicaid facility,,75,150,45,90
+1996,AZ,Requires housekeeping services,,540,N/A,70,N/A
+1996,AZ,Licensed private nursing homes,,550,865,80,160
+1996,AZ,Licensed county operated nursing homes,,N/A,N/A,174,348
+1996,AZ,Licensed supervisory care homes,,520,805,50,100
+1996,AZ,Adult foster care homes,,520,805,50,100
+1996,AZ,24-hour treatment facilities,,520,805,50,100
+1996,CA,Independent living with cooking facilities,Aged and disabled,626.4,1101.2,156.4,396.2
+1996,CA,Independent living with cooking facilities,Blind,681.4,1248.2,211.4,543.2
+1996,CA,Nonmedical out-of-home care,,772,1544,302,839
+1996,CA,Independent living without cooking facilities,Aged and disabled,694.4,681.4,1237.2,1237.2
+1996,CA,Independent living without cooking facilities,Blind,224.4,532.2,473.17,877.43
+1996,CA,Living in household of another,Aged and disabled,211.4,532.2,528.17,1051.91
+1996,CA,Living in household of another,Blind,159.83,214.83,407.43,581.91
+1996,CA,Disabled minor in home of parent,,533.4,N/A,63.4,N/A
+1996,CA,Nonmedical out-of-home care living in household of another,,622.34,1288.33,309,818.33
+1996,CA,Disabled minor in the household of another,,380.17,N/A,66.83,N/A
+1996,CA,Medicaid facility,,42,84,12,24
+1996,CO,Living independently,Aged,526,1028,56,323
+1996,CO,Living independently,Blind and disabled,470,916,0,211
+1996,CO,Adult foster care,,676,N/A,206,N/A
+1996,CO,Home care,Aged,826,N/A,356,N/A
+1996,CO,Home care,Blind and disabled,770,N/A,300,N/A
+1996,CO,Individual with essential spouse,Blind and disabled,598,N/A,128,N/A
+1996,CT,Independent community living,,747,1094,277,389
+1996,DE,Living in adult residential care facility,,610,1153,140,448
+1996,DC,Adult foster-care home,(50 beds or less),617.2,1234.4,147.2,529.4
+1996,DC,Adult foster-care home,(over 50 beds),727.2,1454.4,257.2,749.4
+1996,DC,Living independently,,474.7,719.6,4.7,14.6
+1996,DC,Living in household of another,,321.47,489.73,8.13,19.73
+1996,DC,Living independently with an essential person,,705,949.1,0,9.1
+1996,DC,Living in household of another with an essential person,,474.46,642.73,4.46,16.06
+1996,DC,Medicaid facility,,70,140,40,80
+1996,FL,Community care program,Adult foster care,641,N/A,171,N/A
+1996,FL,Community care program,Adult congregate living facilities,641,N/A,171,N/A
+1996,FL,Medicaid facility,,35,70,5,10
+1996,HI,Living independently,,474.9,713.8,4.9,8.8
+1996,HI,Domiciliary Care,I,754.9,1509.8,284.9,804.8
+1996,HI,Domiciliary Care,II,839.9,1679.8,369.9,974.8
+1996,HI,Domiciliary Care,III,941.9,1883.8,471.9,1178.8
+1996,ID,Living independently or with others,,507,714,37,9
+1996,ID,Living with essential person,,714,N/A,9,N/A
+1996,ID,Room and board facility,,542,N/A,72,N/A
+1996,ID,Adult residential care home/Adult foster care home,Level I,720,N/A,250,N/A
+1996,ID,Adult residential care home/Adult foster care home,Level II,773,N/A,303,N/A
+1996,ID,Adult residential care home/Adult foster care home,Level III,823,N/A,353,N/A
+1996,ID,Semi-independent group residential facility,,605,N/A,135,N/A
+1996,IN,Licensed residential facility,,1100.36,N/A,630.36,N/A
+1996,IA,Living independently,Blind,492,749,22,44
+1996,IA,Living in household of another,Blind,335.34,514,22,44
+1996,IA,Living with dependent person,Aged and disabled,705,940,235,235
+1996,IA,Living with dependent person,Blind,727,984,257,279
+1996,IA,Family life or boarding home,,532.2,1084.4,62.2,379.4
+1996,IA,Living with dependent person in household of another,Aged and disabled,548.34,705,235,235
+1996,IA,Living with dependent person in household of another,Blind,570.34,749,257,279
+1996,IA,Family life or boarding home,(1/3 reduction in Federal benefit rate applies),375.54,849.4,62.2,379.4
+1996,IA,Residential-care,,726.92,N/A,256.92,N/A
+1996,IA,In-home health care,,879.89,1524.78,409.89,819.78
+1996,KY,Personal-care facility,,804,N/A,334,N/A
+1996,KY,Family care home,,609,N/A,139,N/A
+1996,KY,Caretaker in home,,503,777,33,72
+1996,LA,Medicaid facility,,38,76,8,16
+1996,ME,Living alone or with others,,480,720,10,15
+1996,ME,Living in the household of another,,321.34,482,8,12
+1996,ME,Foster home,,519,978,49,273
+1996,ME,Flat rate boarding home,,687,1295,217,590
+1996,ME,Cost reimbursement boarding home,,689,1326,219,621
+1996,ME,Medicaid facility,,40,80,10,20
+1996,MD,Care Home,Minimal supervision,536,N/A,66,N/A
+1996,MD,Care Home,Moderate supervision,645,N/A,175,N/A
+1996,MD,Care Home,Extensive supervision,933,N/A,463,N/A
+1996,MD,Care Home,Specialized and intensive services,1136,N/A,666,N/A
+1996,MD,DOMCARE,,654,N/A,184,N/A
+1996,MA,Living independently,Aged,596.32,901.72,126.32,196.72
+1996,MA,Living independently,Blind,619.74,1239.48,149.74,534.48
+1996,MA,Living independently,Disabled,581.89,880.06,111.89,175.06
+1996,MA,Shared living expenses,Aged,506.76,901.72,36.76,196.72
+1996,MA,Shared living expenses,Blind,619.74,1239.48,149.74,534.48
+1996,MA,Shared living expenses,Disabled,497.9,880.06,27.9,175.06
+1996,MA,Living in household of another,Aged,415.2,680.8,101.86,210.8
+1996,MA,Living in household of another,Blind,621.74,1239.48,308.4,769.48
+1996,MA,Living in household of another,Disabled,398.42,659.18,85.08,189.18
+1996,MA,Licensed rest home,Aged and disabled,763,1526,293,821
+1996,MA,Licensed rest home,Blind,619.74,1239.48,149.74,534.48
+1996,MA,Medicaid facility,,65,130,35,70
+1996,MI,Living independently,,484,733,14,28
+1996,MI,Living in household of another,,322.67,488.66,9.33,18.66
+1996,MI,Domiciliary-care,,545,1084,75,379
+1996,MI,Personal-care,,615.5,1225,145.5,520
+1996,MI,Home for the aged,,637.3,1268.6,167.3,563.6
+1996,MI,Living independently with essential person,,719,961,14,21
+1996,MI,Living in household of another with essential person,,479.33,640.67,9.33,14
+1996,MI,Medicaid facility,,37,74,7,14
+1996,MN,Living independently,Entitlement prior to 1994,551,831,81,126
+1996,MN,Living independently,Entitlement 1994 or later,551,816,81,111
+1996,MN,Living in household of another,Entitlement prior to 1994,423.34,814,110,344
+1996,MN,Living in household of another,Entitlement 1994 or later,423.34,551,110,81
+1996,MN,Nonmedical group residential facility,Entitlement 1994 or later,1153.37,N/A,683.37,N/A
+1996,MN,Medicaid facility,,61,122,31,62
+1996,MO,Licensed residential-care facility,I,618,1001,148,296
+1996,MO,Licensed residential-care facility,II,746,1257,276,552
+1996,MO,Licensed intermediate care or skilled nursing home,,838,1441,368,736
+1996,MO,Aid to the blind,,N/A,N/A,373,746
+1996,MT,Personal-care facilities,,564,898,94,193
+1996,MT,Group home for mentally disabled,,564,898,94,193
+1996,MT,Community home for physically or developmentally disabled,,564,898,94,193
+1996,MT,Child and adult foster care,,522.75,815.5,52.75,110.5
+1996,MT,Transitional living services for developmentally disabled,,496,762,26,57
+1996,NE,Living independently,,482,719,12,14
+1996,NE,Living with an essential person,,719,N/A,14,N/A
+1996,NE,Room and board facility,,413,826,99.66,356
+1996,NE,Licensed domiciliary facility,,640,1280,170,575
+1996,NE,Certified adult family home,,600,1200,130,495
+1996,NE,Licensed residential-care facility,,710,1420,240,715
+1996,NE,Licensed group home for children or child caring agency,,560,N/A,90,N/A
+1996,NE,Medicaid facility,,40,80,10,20
+1996,NV,Living independently,Aged,506.4,779.46,36.4,74.46
+1996,NV,Living independently,Blind,579.3,1079.6,109.3,374.6
+1996,NV,Living in household of another,Aged,337.61,519.64,24.27,49.64
+1996,NV,Living in household of another,Blind,527.3,1001.94,213.96,531.94
+1996,NV,Domiciliary care,Aged and blind,781,1488,311,783
+1996,NH,Living independently,,499,727,27,22
+1996,NH,Living with an essential person,,N/A,953,N/A,13
+1996,NH,Residential care facility for adults,,688,1376,218,436
+1996,NH,Enhanced family care facilities,,688,1376,218,436
+1996,NH,Community residences,Nonsubsidized,628,1256,158,316
+1996,NH,Community residences,Subsidized,564,1128,94,188
+1996,NH,Medicaid facility,,40,80,10,20
+1996,NJ,Licensed residential facility,,620.05,1221.36,150.05,516.36
+1996,NJ,Living alone or with others,,501.25,730.36,31.25,25.36
+1996,NJ,Living alone with an ineligible spouse,,730.36,N/A,260.36,N/A
+1996,NJ,Living with essential person,,730.36,N/A,25.36,N/A
+1996,NJ,Living in household of another,,357.65,563.09,44.31,93.09
+1996,NJ,Medicaid facility,,40,80,10,20
+1996,NM,Licensed adult residential care home,,570,905,100,200
+1996,NY,Living alone,,556,807.5,86,102.5
+1996,NY,Living with others,,493,750,23,45
+1996,NY,Congregate care I,Areas A and B,736.48,1472.96,266.48,767.96
+1996,NY,Congregate care I,Area C,698.48,1396.96,228.48,691.96
+1996,NY,Congregate care II,Areas A and B,905,1810,435,1105
+1996,NY,Congregate care II,Area C,875,1750,405,1045
+1996,NY,Congregate care III,Area A,952.96,1905.92,482.96,1200.92
+1996,NY,Congregate care III,Areas B and C,928.96,1857.92,458.96,1152.92
+1996,NY,Living in household of another,,336.34,515,23,45
+1996,NY,Medicaid facility,,35,70,5,10
+1996,NC,Adult Care Home,Basic,875,1314,405,609
+1996,NC,Adult Care Home,Disenfranchised-ambulatory,1006,1476,536,771
+1996,NC,Adult Care Home,Disenfranchised-semi-ambulatory,1017,1487,547,782
+1996,NC,Blind ineligible for SSI,Not paying shelter/utilities,N/A,N/A,97,194
+1996,NC,Blind ineligible for SSI,Paying shelter/utilities,N/A,N/A,146,243
+1996,OH,Adult foster home,,876,1664,406,959
+1996,OH,Adult family home,,876,1664,406,959
+1996,OH,Apartment or room,Community Mental Health Program,676,1264,206,559
+1996,OH,Community alternative home,,876,1664,406,959
+1996,OH,Group home,,976,1864,506,1159
+1996,OH,Residential,,976,1864,506,1159
+1996,OK,Living independently,,524,813,54,108
+1996,OR,Living independently,Aged and disabled,471.7,705,1.7,0
+1996,OR,Living independently,Blind,496.7,730.6,26.7,25.6
+1996,OR,Living with an ineligible spouse,Aged and disabled,471.7,N/A,1.7,N/A
+1996,OR,Living with an ineligible spouse,Blind,496.7,N/A,26.7,N/A
+1996,OR,Living with essential person,Blind,730.6,N/A,25.6,N/A
+1996,OR,Living in household of another,Aged and disabled,315.04,470,1.7,0
+1996,OR,Living in household of another,Blind,340.04,495.6,26.7,25.6
+1996,OR,Adult foster/residential care,Aged and disabled,471.7,901.4,1.7,196.4
+1996,OR,Adult foster/residential care,Blind,496.7,951.4,26.7,246.4
+1996,OR,Room and board,Aged and disabled,471.7,901.4,1.7,196.4
+1996,OR,Room and board,Blind,496.7,951.4,26.7,246.4
+1996,PA,Living alone,,497.4,748.7,27.4,43.7
+1996,PA,Living in household of another,,340.74,513.7,27.4,43.7
+1996,PA,Living with an essential person,,748.7,1008.05,43.7,68.05
+1996,PA,Living with an essential person in household of another,,513.7,694.72,43.7,68.05
+1996,PA,Domiciliary-care facility for adults,,799.3,1442.4,329.3,737.4
+1996,PA,Personal-care boarding home,,804.3,1452.4,334.3,747.4
+1996,RI,Living alone,,534.35,825.5,64.35,120.5
+1996,RI,Living in household of another,,387.94,606.5,74.6,136.5
+1996,RI,Shelter care facility,,802,N/A,332,N/A
+1996,RI,Medicaid facility,,40,80,10,20
+1996,SC,Licensed residential-care facility,,741,N/A,271,N/A
+1996,SD,Living independently,,485,720,15,15
+1996,SD,Assisted living facility,,720,N/A,250,N/A
+1996,SD,Adult foster-care,,622,N/A,152,N/A
+1996,UT,Living alone or with others,,470,1,.,7
+1996,UT,Living in the household of another,,3,6,4,709.6
+1996,VT,Living independently,,517.41,796.87,47.41,91.87
+1996,VT,Living in the household of another,,346.04,511.5,32.7,41.5
+1996,VT,Level III-residential care home,,710.95,1255.22,240.95,550.22
+1996,VT,Level IV-residential care home,,670.78,1216.5,200.78,511.5
+1996,VT,Custodial-care family home,,554.29,1003.29,84.29,298.29
+1996,VT,Medicaid facility,,45,90,15,30
+1996,VT,Living independently with an essential person,,808.87,995.36,338.87,290.36
+1996,VT,In the household of another with ineligible spouse who is an essential person,,525.41,N/A,212.07,N/A
+1996,VA,Adult Care Residence,Planning district 8,816,1632,346,927
+1996,VA,Adult Care Residence,All other areas,715,1430,245,725
+1996,VA,Adult family care,Planning district 8,592,1184,122,479
+1996,VA,Adult family care,All other areas,520,1040,50,335
+1996,WA,Living independently,Area 1,495.42,724.98,25.42,19.98
+1996,WA,Living independently,Area 2,476.86,705,6.86,0
+1996,WA,Living with ineligible spouse,Area 1,622.73,N/A,152.73,N/A
+1996,WA,Living with ineligible spouse,Area 2,595.53,N/A,125.53,N/A
+1996,WA,Living in household of another,,318.62,475.72,5.28,5.72
+1996,WA,Living in household of another with ineligible spouse,,407.55,N/A,94.21,N/A
+1996,WA,Living with one essential person,Area 1,724.98,N/A,19.98,N/A
+1996,WA,Living with one essential person,Area 2,705,N/A,0,N/A
+1996,WA,Living in household of another with one essential person,,475.72,N/A,5.72,N/A
+1996,WA,Medicaid facility,,41.62,83.24,11.62,23.24
+1996,WI,Living independently,,553.78,837.05,83.78,132.05
+1996,WI,Living in household of another,,397.12,602.05,83.78,132.05
+1996,WI,Living independently with an ineligible spouse,,600.43,N/A,130.43,N/A
+1996,WI,Living in household of another with ineligible spouse,,448.39,N/A,135.05,N/A
+1996,WI,Private nonmedical group home or natural residential settings,,649.77,1182.41,179.77,477.41
+1996,WI,Living independently with an essential person,(nonspouse),788.78,1072.05,83.78,132.05
+1996,WI,Living in household of another with an essential person,(nonspouse),553.78,837.05,83.78,132.05
+1996,WI,Living independently with an ineligible spouse who is an essential person,,835.43,N/A,130.43,N/A
+1996,WI,Living in household of another with an ineligible spouse who is an essential person,,605.05,N/A,135.05,N/A
+1996,WY,Living independently,,479.7,729.6,9.7,24.6
+1996,WY,Living in the household of another,,326.47,499.74,13.13,29.74

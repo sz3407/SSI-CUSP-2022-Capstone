@@ -1,0 +1,73 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,DC,Adult foster-care home,(50 beds or less),533.2,1066.4,147.2,487.4,386.00000000000006,579.0000000000001,340.2,false
+1990,DC,Adult foster-care home,(over 50 beds),643.2,1286.4,257.2,707.4,386.00000000000006,579.0000000000001,450.2,false
+1990,DC,Living independently,,401,609,15,30,386,579,15,true
+1990,DC,Living in household of another,,272.34,416,15,30,257.34,386,15,true
+1990,DC,Living independently with an essential person,,594,802,15,30,579,772,15,true
+1990,DC,Living in household of another with an essential person,,401,544.67,15,30,386,514.67,15,true
+1990,DC,Medicaid facility,,60,120,30,60,30,60,30,true
+1991,DC,Adult foster-care home,(50 beds or less),554.2,1108.4,147.2,498.4,407.00000000000006,610.0000000000001,351.2,false
+1991,DC,Adult foster-care home,(over 50 beds),664.2,1328.4,257.2,718.4,407.00000000000006,610.0000000000001,461.2,false
+1991,DC,Living independently,,422,640,15,30,407,610,15,true
+1991,DC,Living in household of another,,286.34,436.67,15,30,271.34,406.67,15,true
+1991,DC,Living independently with an essential person,,626,844,15,30,611,814,15,true
+1991,DC,Living in household of another with an essential person,,422.34,572.68,15,30,407.34,542.68,15,true
+1991,DC,Medicaid facility,,60,120,30,60,30,60,30,true
+1992,DC,Adult foster-care home,(50 beds or less),569.2,1138.4,147.2,505.4,422.00000000000006,633.0000000000001,358.2,false
+1992,DC,Adult foster-care home,(over 50 beds),679.2,1358.4,257.2,725.4,422.00000000000006,633.0000000000001,468.2,false
+1992,DC,Living independently,,437,663,15,30,422,633,15,true
+1992,DC,Living in household of another,,296.34,452,15,30,281.34,422,15,true
+1992,DC,Living independently with an essential person,,648,874,15,30,633,844,15,true
+1992,DC,Living in household of another with an essential person,,437,592.67,15,30,422,562.67,15,true
+1992,DC,Medicaid facility,,70,140,40,80,30,60,40,true
+1994,DC,Adult foster-care home,(50 beds or less),593.2,1186.4,147.2,517.4,446.00000000000006,669.0000000000001,370.2,false
+1994,DC,Adult foster-care home,(over 50 beds),703.2,1406.4,257.2,737.4,446.00000000000006,669.0000000000001,480.2,false
+1994,DC,Living independently,,461,699,15,30,446,669,15,true
+1994,DC,Living in household of another,,312.34,476,15,30,297.34,446,15,true
+1994,DC,Living independently with an essential person,,684,922,15,30,669,892,15,true
+1994,DC,Living in household of another with an essential person,,461,624.67,15,30,446,594.67,15,true
+1994,DC,Medicaid facility,,70,140,40,80,30,60,40,true
+1995,DC,Adult foster-care home,(50 beds or less),605.2,1210.4,147.2,523.4,458.00000000000006,687.0000000000001,376.2,false
+1995,DC,Adult foster-care home,(over 50 beds),715.2,1430.4,257.2,743.4,458.00000000000006,687.0000000000001,486.2,false
+1995,DC,Living independently,,473,717,15,30,458,687,15,true
+1995,DC,Living in household of another,,320.34,488,15,30,305.34,458,15,true
+1995,DC,Living independently with an essential person,,702,946,15,30,687,916,15,true
+1995,DC,Living in household of another with an essential person,,473,640.67,15,30,458,610.67,15,true
+1995,DC,Medicaid facility,,70,140,40,80,30,60,40,true
+1996,DC,Adult foster-care home,(50 beds or less),617.2,1234.4,147.2,529.4,470.00000000000006,705.0000000000001,382.2,false
+1996,DC,Adult foster-care home,(over 50 beds),727.2,1454.4,257.2,749.4,470.00000000000006,705.0000000000001,492.2,false
+1996,DC,Living independently,,474.7,719.6,4.7,14.6,470,705,9.899999999999999,false
+1996,DC,Living in household of another,,321.47,489.73,8.13,19.73,313.34000000000003,470,11.6,false
+1996,DC,Living independently with an essential person,,705,949.1,0,9.1,705,940,9.1,false
+1996,DC,Living in household of another with an essential person,,474.46,642.73,4.46,16.06,470,626.6700000000001,11.599999999999998,false
+1996,DC,Medicaid facility,,70,140,40,80,30,60,40,true
+1997,DC,Adult foster-care home,(50 beds or less),751,1502,267,776,484,726,509,false
+1997,DC,Adult foster-care home,(over 50 beds),861,1722,377,996,484,726,619,false
+1997,DC,Medicaid facility,,70,140,40,80,30,60,40,true
+1998,DC,Adult foster-care home,(50 beds or less),761,1517,267,776,494,741,509,false
+1998,DC,Adult foster-care home,(over 50 beds),871,1737,377,996,494,741,619,false
+1998,DC,Medicaid facility,,70,140,40,80,30,60,40,true
+1999,DC,Adult foster care home,(50 beds or less),807,1614,307,863,500,751,556,false
+1999,DC,Adult foster care home,(over 50 beds),917,1834,417,1083,500,751,666,false
+1999,DC,Medicaid facility,,70,140,40,80,30,60,40,true
+2000,DC,Adult foster care home,(50 beds or less),819,1638,307,869,512,769,562,false
+2000,DC,Adult foster care home,(over 50 beds),929,1858,417,1089,512,769,672,false
+2000,DC,Medicaid facility,,70,140,40,80,30,60,40,true
+2004,DC,Adult foster care home,(50 beds or less),871,1742,307,896,564,846,589,false
+2004,DC,Adult foster care home,(over 50 beds),981,1962,417,1116,564,846,699,false
+2004,DC,Medicaid facility,,70,140,40,80,30,60,40,true
+2005,DC,Adult foster care home,(50 beds or less),926,1852,347,983,579,869,636,false
+2005,DC,Adult foster care home,(over 50 beds),1036,2072,457,1203,579,869,746,false
+2005,DC,Medicaid facility,,70,140,40,80,30,60,40,true
+2006,DC,Adult foster care home,(50 beds or less),950,1900,347,996,603,904,649,false
+2006,DC,Adult foster care home,(over 50 beds),1060,2120,457,1216,603,904,759,false
+2006,DC,Medicaid facility,,70,140,40,80,30,60,40,true
+2007,DC,Adult foster care home,(50 beds or less),1108,2216,485,1282,623,934,797,false
+2007,DC,Adult foster care home,(over 50 beds),1218,2436,595,1502,623,934,907,false
+2007,DC,Medicaid facility,,70,140,40,80,30,60,40,true
+2008,DC,Adult foster care home,(50 beds or less),1122,2244,485,1288,637,956,803,false
+2008,DC,Adult foster care home,(over 50 beds),1232,2464,595,1508,637,956,913,false
+2008,DC,Medicaid facility,,70,140,40,80,30,60,40,true
+2011,DC,Adult foster care home,(50 beds or less),1159,2318,485,1307,674,1011,822,false
+2011,DC,Adult foster care home,(over 50 beds),1269,2538,595,1527,674,1011,932,false
+2011,DC,Medicaid facility,,70,140,40,80,30,60,40,true

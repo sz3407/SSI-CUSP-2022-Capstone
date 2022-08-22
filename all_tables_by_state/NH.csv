@@ -1,0 +1,107 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,NH,Living independently,,413,600,27,21,386,579,-6,false
+1990,NH,Living with an essential person,,0,785,0,13,0,772,13,false
+1990,NH,Shared home for adults,,653,1306,267,534,386,772,267,true
+1990,NH,Community residences,,595,1190,196,392,399,798,196,true
+1990,NH,Medicaid facility,,40,80,10,20,30,60,10,true
+1991,NH,Living independently,,434,631,27,21,407,610,-6,false
+1991,NH,Living with an essential person,,0,827,0,13,0,814,13,false
+1991,NH,Residential care facility for adult,,653,1306,246,492,407,814,246,true
+1991,NH,Community residences,,595,1190,188,376,407,814,188,true
+1991,NH,Medicaid facility,,40,80,10,20,30,60,10,true
+1992,NH,Living independently,,449,654,27,21,422,633,-6,false
+1992,NH,Living with an essential person,,0,857,0,13,0,844,13,false
+1992,NH,Residential care facility for adults,,653,1306,231,462,422,844,231,true
+1992,NH,Community residences,,595,1190,173,346,422,844,173,true
+1992,NH,Medicaid facility,,40,80,10,20,30,60,10,true
+1994,NH,Living independently,,473,690,27,21,446,669,-6,false
+1994,NH,Living with an essential person,,0,905,0,13,0,892,13,false
+1994,NH,Residential care facility for adults,,653,1306,207,414,446,892,207,true
+1994,NH,Enhanced family care facilities,,653,1306,207,414,446,892,207,true
+1994,NH,Community residences,Nonsubsidized,595,1190,149,298,446,892,149,true
+1994,NH,Community residences,Subsidized,535,1070,89,178,446,892,89,true
+1994,NH,Medicaid facility,,40,80,10,20,30,60,10,true
+1995,NH,Living independently,,485,708,27,21,458,687,-6,false
+1995,NH,Living with an essential person,,0,929,0,13,0,916,13,false
+1995,NH,Residential care facility for adults,,671,1342,213,426,458,916,213,true
+1995,NH,Enhanced family care facilities,,671,1342,213,426,458,916,213,true
+1995,NH,Community residences,Nonsubsidized,612,1224,154,308,458,916,154,true
+1995,NH,Community residences,Subsidized,550,1100,92,184,458,916,92,true
+1995,NH,Medicaid facility,,40,80,10,20,30,60,10,true
+1996,NH,Living independently,,499,727,27,22,472,705,-5,false
+1996,NH,Living with an essential person,,0,953,0,13,0,940,13,false
+1996,NH,Residential care facility for adults,,688,1376,218,436,470,940,218,true
+1996,NH,Enhanced family care facilities,,688,1376,218,436,470,940,218,true
+1996,NH,Community residences,Nonsubsidized,628,1256,158,316,470,940,158,true
+1996,NH,Community residences,Subsidized,564,1128,94,188,470,940,94,true
+1996,NH,Medicaid facility,,40,80,10,20,30,60,10,true
+1997,NH,Living independently,,511,747,27,21,484,726,-6,false
+1997,NH,Living with an essential person,,0,981,0,13,0,968,13,false
+1997,NH,Residential care facility for adults,,691,1382,207,414,484,968,207,true
+1997,NH,Enhanced family care facilities,,691,1382,207,414,484,968,207,true
+1997,NH,Community residences,Nonsubsidized,633,1266,149,298,484,968,149,true
+1997,NH,Community residences,Subsidized,573,1146,89,178,484,968,89,true
+1997,NH,Medicaid facility,,40,80,10,20,30,60,10,true
+1998,NH,Living independently,,521,762,27,21,494,741,-6,false
+1998,NH,Living with an essential person,,0,1001,0,13,0,988,13,false
+1998,NH,Residential care facility for adults,,701,1402,207,414,494,988,207,true
+1998,NH,Enhanced family care facilities,,701,1402,207,414,494,988,207,true
+1998,NH,Community residences,Nonsubsidized,643,1286,149,298,494,988,149,true
+1998,NH,Community residences,Subsidized,583,1166,89,178,494,988,89,true
+1998,NH,Medicaid facility,,40,80,10,20,30,60,10,true
+1999,NH,Living independently,,527,772,27,21,500,751,-6,false
+1999,NH,Living with an essential person,,0,1014,0,13,0,1001,13,false
+1999,NH,Residential care facility for adults,,707,1414,207,414,500,1000,207,true
+1999,NH,Enhanced family care facilities,,707,1414,207,414,500,1000,207,true
+1999,NH,Community residences,Nonsubsidized,649,1298,149,298,500,1000,149,true
+1999,NH,Community residences,Subsidized,589,1178,89,178,500,1000,89,true
+1999,NH,Medicaid facility,,40,80,10,20,30,60,10,true
+2000,NH,Living independently,,539,790,27,21,512,769,-6,false
+2000,NH,Living with an essential person,,0,1039,0,13,0,1026,13,false
+2000,NH,Residential care facility for adults,,719,1438,207,414,512,1024,207,true
+2000,NH,Enhanced family care facilities,,719,1438,207,414,512,1024,207,true
+2000,NH,Community residences,Nonsubsidized,661,1322,149,298,512,1024,149,true
+2000,NH,Community residences,Subsidized,601,1202,89,178,512,1024,89,true
+2000,NH,Medicaid facility,,50,100,20,40,30,60,20,true
+2004,NH,Living independently,,591,887,27,41,564,846,14,false
+2004,NH,Living with an essential person,,0,1141,0,13,0,1128,13,false
+2004,NH,Residential care facility for adults,,771,1542,207,414,564,1128,207,true
+2004,NH,Enhanced family care facilities,,771,1542,207,414,564,1128,207,true
+2004,NH,Community residences,Nonsubsidized,713,0,149,0,564,0,-149,false
+2004,NH,Community residences,Subsidized,653,0,89,0,564,0,-89,false
+2004,NH,Medicaid facility,,50,0,20,0,30,0,-20,false
+2005,NH,Living independently,,606,890,27,21,579,869,-6,false
+2005,NH,Living with an essential person,,0,1172,0,13,0,1159,13,false
+2005,NH,Residential care facility for adults,,786,1572,207,414,579,1158,207,true
+2005,NH,Enhanced family care facilities,,786,1572,207,414,579,1158,207,true
+2005,NH,Community residences,Nonsubsidized,728,0,149,0,579,0,-149,false
+2005,NH,Community residences,Subsidized,668,0,89,0,579,0,-89,false
+2005,NH,Medicaid facility,,50,0,20,0,30,0,-20,false
+2006,NH,Living independently,,630,925,27,21,603,904,-6,false
+2006,NH,Living with an essential person,,0,1219,0,13,0,1206,13,false
+2006,NH,Residential care facility for adults,,810,1620,207,414,603,1206,207,true
+2006,NH,Enhanced family care facilities,,810,1620,207,414,603,1206,207,true
+2006,NH,Community residences,Nonsubsidized,752,0,149,0,603,0,-149,false
+2006,NH,Community residences,Subsidized,692,0,89,0,603,0,-89,false
+2006,NH,Medicaid facility,,56,0,26,0,30,0,-26,false
+2007,NH,Living independently,,650,955,27,21,623,934,-6,false
+2007,NH,Living with an essential person,,0,1259,0,13,0,1246,13,false
+2007,NH,Residential care facility for adults,,830,1660,207,414,623,1246,207,true
+2007,NH,Enhanced family care facilities,,830,1660,207,414,623,1246,207,true
+2007,NH,Community residences,Nonsubsidized,772,0,149,0,623,0,-149,false
+2007,NH,Community residences,Subsidized,712,0,89,0,623,0,-89,false
+2007,NH,Medicaid facility,,56,0,26,0,30,0,-26,false
+2008,NH,Living independently,,698,984,61,28,637,956,-33,false
+2008,NH,Living with an essential person,,0,1290,0,15,0,1275,15,false
+2008,NH,Residential care facility for adults,,858,1716,221,414,637,1302,193,false
+2008,NH,Enhanced family care facilities,,858,1716,221,414,637,1302,193,false
+2008,NH,Community residences,Nonsubsidized,800,0,163,0,637,0,-163,false
+2008,NH,Community residences,Subsidized,740,0,103,0,637,0,-103,false
+2008,NH,Medicaid facility,,56,0,26,0,30,0,-26,false
+2011,NH,Living independently,,688,1012,27,21,661,991,-6,false
+2011,NH,Living with an essential person,,0,1362,0,38,0,1324,38,false
+2011,NH,Residential care facility for adults,,868,1736,207,414,661,1322,207,true
+2011,NH,Enhanced family care facilities,,868,1736,207,414,661,1322,207,true
+2011,NH,Community residences,Nonsubsidized,810,0,149,0,661,0,-149,false
+2011,NH,Community residences,Subsidized,750,0,89,0,661,0,-89,false
+2011,NH,Medicaid facility,,65,0,35,0,30,0,-35,false
