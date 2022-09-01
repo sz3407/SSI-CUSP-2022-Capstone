@@ -1,6 +1,0 @@
-year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
-1998,ND,Licensed Basic Care Facility,,494,0,741,0,-247,0,-741,false
-1999,ND,Licensed Basic Care Facility,,1285,0,785,0,500,0,-785,false
-2000,ND,Licensed basic care facility,,1628,3001.8,1116.4,2232.8,511.5999999999999,769,1116.4,true
-2004,ND,Licensed basic care facility,,1672.6,3327.2,1108.6,2481.2,564,846,1372.6,false
-2005,ND,Licensed basic care facility,,878.16,1467.32,299.16,598.32,579,868.9999999999999,299.16,true
