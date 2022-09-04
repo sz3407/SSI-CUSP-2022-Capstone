@@ -1,0 +1,19 @@
+index,year,living arrangements,individual,couple,essential person
+0,2004,Living independently,564.00,846.00,282.00
+1,2004,Living in household of another,376.00,564.00,188.00
+2,2004,Medicaid facility,30.00,60.00,--
+0,2005,Living independently,579.00,869.00,290.00
+1,2005,Living in household of another,386.00,579.34,193.34
+2,2005,Medicaid facility,30.00,60.00,--
+0,2006,Living independently,603.00,904.00,302.00
+1,2006,Living in household of another,402.00,602.67,201.33
+2,2006,Medicaid facility,30.00,60.00,--
+0,2007,Living independently,623.00,934.00,312.00
+1,2007,Living in household of another,415.34,622.67,207.67
+2,2007,Medicaid facility,30.00,60.00,--
+0,2008,Living independently,637.00,956.00,319.00
+1,2008,Living in household of another,424.67,637.34,212.67
+2,2008,Medicaid facility,30.00,60.00,--
+0,2011,Living independently,674.00,1011.00,338.00
+1,2011,Living in household of another,449.34,674.00,225.33
+2,2011,Medicaid facility,30.00,60.00,--

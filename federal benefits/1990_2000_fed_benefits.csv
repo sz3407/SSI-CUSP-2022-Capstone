@@ -1,0 +1,41 @@
+index,year,living arrangements,individual,couple
+0,1990,Living independently,386.00,579.00
+1,1990,Living in household of another,257.34,386.00
+2,1990,Medicaid facility,30.00,--
+3,1990,Essential person,193.00,--
+0,1991,Living independently,407.00,610.00
+1,1991,Living in household of another,271.34,406.67
+2,1991,Medicaid facility,30.00,--
+3,1991,Essential person,204.00,--
+0,1992,Living independently,422.00,633.00
+1,1992,Living in household of another,281.34,422.00
+2,1992,Medicaid facility,30.00,--
+3,1992,Essential person,211.00,--
+0,1994,Living independently,446.00,669.00
+1,1994,Living in household of another,297.34,446.00
+2,1994,Medicaid facility,30.00,--
+3,1994,Essential person,223.00,--
+0,1995,Living independently,458.00,687.00
+1,1995,Living in household of another,305.34,458.00
+2,1995,Medicaid facility,30.00,--
+3,1995,Essential person,229.00,--
+0,1996,Living independently,470.00,705.00
+1,1996,Living in household of another,313.34,470.00
+2,1996,Medicaid facility,30.00,--
+3,1996,Essential person,235.00,--
+0,1997,Living independently,484.00,726.00
+1,1997,Living in household of another,322.67,484.00
+2,1997,Medicaid facility,30.00,--
+3,1997,Essential person,242.00,--
+0,1998,Living independently,494.00,741.00
+1,1998,Living in household of another,329.34,494.00
+2,1998,Medicaid facility,30.00,--
+3,1998,Essential person,247.00,--
+0,1999,Living independently,500.00,751.00
+1,1999,Living in household of another,333.34,500.67
+2,1999,Medicaid facility,30.00,--
+3,1999,Essential person,250.00,--
+0,2000,Living independently,512.00,769.00
+1,2000,Living in household of another,341.34,512.67
+2,2000,Medicaid facility,30.00,--
+3,2000,Essential person,257.00,--
