@@ -1,0 +1,117 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,ID,Living independently or in the household of another,,459.00,624.00,73.00,45.00,386.00,579.00,-28.00,FALSE
+1990,ID,Living with essential person,,624.00,0.00,45.00,0.00,579.00,0.00,-45.00,FALSE
+1990,ID,Room and board facility,,511.00,1022.00,125.00,443.00,386.00,579.00,318.00,FALSE
+1990,ID,Hotel-rented room,,459.00,624.00,73.00,45.00,386.00,579.00,-28.00,FALSE
+1990,ID,Licensed shelter homes,,638.00,1276.00,252.00,697.00,386.00,579.00,445.00,FALSE
+1990,ID,Unlicensed shelter homes,,403.00,806.00,17.00,227.00,386.00,579.00,210.00,FALSE
+1990,ID,Adult foster care homes,,569.00,1038.00,183.00,459.00,386.00,579.00,276.00,FALSE
+1990,ID,Specialized shelter homes,,751.00,1512.00,365.00,933.00,386.00,579.00,568.00,FALSE
+1990,ID,Semi-independent group residential facility,,565.00,1130.00,179.00,551.00,386.00,579.00,372.00,FALSE
+1991,ID,Living independently or in the household of another,,477.00,654.00,70.00,44.00,407.00,610.00,-26.00,FALSE
+1991,ID,Living with essential person,,654.00,0.00,43.00,0.00,611.00,0.00,-43.00,FALSE
+1991,ID,Room and board facility,,529.00,0.00,122.00,0.00,407.00,0.00,-122.00,FALSE
+1991,ID,Licensed shelter homes,,656.00,0.00,249.00,0.00,407.00,0.00,-249.00,FALSE
+1991,ID,Unlicensed shelter homes,,408.00,0.00,1.00,0.00,407.00,0.00,-1.00,FALSE
+1991,ID,Adult foster care homes,,587.00,0.00,180.00,0.00,407.00,0.00,-180.00,FALSE
+1991,ID,Specialized shelter homes,,769.00,0.00,362.00,0.00,407.00,0.00,-362.00,FALSE
+1991,ID,Semi-independent group residential facility,,583.00,0.00,176.00,0.00,407.00,0.00,-176.00,FALSE
+1992,ID,Living independently or in the household of another,,492.00,678.00,70.00,45.00,422.00,633.00,-25.00,FALSE
+1992,ID,Living with essential person,,678.00,0.00,45.00,0.00,633.00,0.00,-45.00,FALSE
+1992,ID,Room and board facility,,529.00,0.00,107.00,0.00,422.00,0.00,-107.00,FALSE
+1992,ID,Adult residential care home/Adult foster care home,Level I,703.00,0.00,281.00,0.00,422.00,0.00,-281.00,FALSE
+1992,ID,Adult residential care home/Adult foster care home,Level II,762.00,0.00,340.00,0.00,422.00,0.00,-340.00,FALSE
+1992,ID,Adult residential care home/Adult foster care home,Level III,816.00,0.00,394.00,0.00,422.00,0.00,-394.00,FALSE
+1992,ID,Semi-independent group residential facility,,598.00,0.00,176.00,0.00,422.00,0.00,-176.00,FALSE
+1994,ID,Living independently or in the household of another,,491.00,690.00,45.00,21.00,446.00,669.00,-24.00,FALSE
+1994,ID,Living with essential person,,709.00,0.00,40.00,0.00,669.00,0.00,-40.00,FALSE
+1994,ID,Room and board facility,,526.00,0.00,80.00,0.00,446.00,0.00,-80.00,FALSE
+1994,ID,Adult residential care home/Adult foster care home,Level I,690.00,0.00,244.00,0.00,446.00,0.00,-244.00,FALSE
+1994,ID,Adult residential care home/Adult foster care home,Level II,742.00,0.00,296.00,0.00,446.00,0.00,-296.00,FALSE
+1994,ID,Adult residential care home/Adult foster care home,Level III,791.00,0.00,345.00,0.00,446.00,0.00,-345.00,FALSE
+1994,ID,Semi-independent group residential facility,,589.00,0.00,143.00,0.00,446.00,0.00,-143.00,FALSE
+1995,ID,Living independently or in the household of another,,495.00,696.00,37.00,9.00,458.00,687.00,-28.00,FALSE
+1995,ID,Living with essential person,,696.00,0.00,9.00,0.00,687.00,0.00,-9.00,FALSE
+1995,ID,Room and board facility,,530.00,0.00,72.00,0.00,458.00,0.00,-72.00,FALSE
+1995,ID,Adult residential care home/Adult foster care home,Level I,708.00,0.00,250.00,0.00,458.00,0.00,-250.00,FALSE
+1995,ID,Adult residential care home/Adult foster care home,Level II,761.00,0.00,303.00,0.00,458.00,0.00,-303.00,FALSE
+1995,ID,Adult residential care home/Adult foster care home,Level III,811.00,0.00,353.00,0.00,458.00,0.00,-353.00,FALSE
+1995,ID,Semi-independent group residential facility,,593.00,0.00,135.00,0.00,458.00,0.00,-135.00,FALSE
+1996,ID,Living independently or in the household of another,,507.00,714.00,37.00,9.00,470.00,705.00,-28.00,FALSE
+1996,ID,Living with essential person,,714.00,0.00,9.00,0.00,705.00,0.00,-9.00,FALSE
+1996,ID,Room and board facility,,542.00,0.00,72.00,0.00,470.00,0.00,-72.00,FALSE
+1996,ID,Adult residential care home/Adult foster care home,Level I,720.00,0.00,250.00,0.00,470.00,0.00,-250.00,FALSE
+1996,ID,Adult residential care home/Adult foster care home,Level II,773.00,0.00,303.00,0.00,470.00,0.00,-303.00,FALSE
+1996,ID,Adult residential care home/Adult foster care home,Level III,823.00,0.00,353.00,0.00,470.00,0.00,-353.00,FALSE
+1996,ID,Semi-independent group residential facility,,605.00,0.00,135.00,0.00,470.00,0.00,-135.00,FALSE
+1997,ID,Living independently or in the household of another,,532.00,742.00,48.00,16.00,484.00,726.00,-32.00,FALSE
+1997,ID,Living with essential person,,742.00,0.00,16.00,0.00,726.00,0.00,-16.00,FALSE
+1997,ID,Room and board facility,,567.00,0.00,83.00,0.00,484.00,0.00,-83.00,FALSE
+1997,ID,Adult residential care home/Adult foster care home,Level I,845.00,0.00,361.00,0.00,484.00,0.00,-361.00,FALSE
+1997,ID,Adult residential care home/Adult foster care home,Level II,912.00,0.00,428.00,0.00,484.00,0.00,-428.00,FALSE
+1997,ID,Adult residential care home/Adult foster care home,Level III,980.00,0.00,496.00,0.00,484.00,0.00,-496.00,FALSE
+1997,ID,Semi-independent group residential facility,,630.00,0.00,146.00,0.00,484.00,0.00,-146.00,FALSE
+1998,ID,Living independently or in the household of another,,542.00,758.00,48.00,17.00,494.00,741.00,-31.00,FALSE
+1998,ID,Living with essential person,,758.00,0.00,17.00,0.00,741.00,0.00,-17.00,FALSE
+1998,ID,Room and board facility,,597.00,0.00,103.00,0.00,494.00,0.00,-103.00,FALSE
+1998,ID,Adult residential care home/Adult foster care home,Level I,855.00,0.00,361.00,0.00,494.00,0.00,-361.00,FALSE
+1998,ID,Adult residential care home/Adult foster care home,Level II,922.00,0.00,428.00,0.00,494.00,0.00,-428.00,FALSE
+1998,ID,Adult residential care home/Adult foster care home,Level III,990.00,0.00,496.00,0.00,494.00,0.00,-496.00,FALSE
+1998,ID,Semi-independent group residential facility,,640.00,0.00,146.00,0.00,494.00,0.00,-146.00,FALSE
+1999,ID,Living independently or in the household of another,,548.00,768.00,48.00,17.00,500.00,751.00,-31.00,FALSE
+1999,ID,Living with essential person,,767.00,0.00,17.00,0.00,750.00,0.00,-17.00,FALSE
+1999,ID,Room and board facility,,603.00,0.00,103.00,0.00,500.00,0.00,-103.00,FALSE
+1999,ID,Adult residential care home/Adult foster care home,Level I,861.00,0.00,361.00,0.00,500.00,0.00,-361.00,FALSE
+1999,ID,Adult residential care home/Adult foster care home,Level II,928.00,0.00,428.00,0.00,500.00,0.00,-428.00,FALSE
+1999,ID,Adult residential care home/Adult foster care home,Level III,996.00,0.00,496.00,0.00,500.00,0.00,-496.00,FALSE
+1999,ID,Semi-independent group residential facility,,646.00,0.00,146.00,0.00,500.00,0.00,-146.00,FALSE
+2000,ID,Living independently or in the household of another,,565.00,788.00,53.00,19.00,512.00,769.00,-34.00,FALSE
+2000,ID,Living with essential person,,788.00,0.00,19.00,0.00,769.00,0.00,-19.00,FALSE
+2000,ID,Room and board facility,,710.00,0.00,198.00,0.00,512.00,0.00,-198.00,FALSE
+2000,ID,Adult residential care home/Adult foster care home,Level I,852.00,0.00,340.00,0.00,512.00,0.00,-340.00,FALSE
+2000,ID,Adult residential care home/Adult foster care home,Level II,919.00,0.00,407.00,0.00,512.00,0.00,-407.00,FALSE
+2000,ID,Adult residential care home/Adult foster care home,Level III,987.00,0.00,475.00,0.00,512.00,0.00,-475.00,FALSE
+2000,ID,Semi-independent group residential facility,,710.00,0.00,198.00,0.00,512.00,0.00,-198.00,FALSE
+2004,ID,Living independently or in the household of another,,616.00,866.00,52.00,20.00,564.00,846.00,-32.00,FALSE
+2004,ID,Living with essential person,,866.00,0.00,20.00,0.00,846.00,0.00,-20.00,FALSE
+2004,ID,Room and board facility,,761.00,0.00,197.00,0.00,564.00,0.00,-197.00,FALSE
+2004,ID,Adult residential care home/Adult foster care home,Level I,903.00,0.00,339.00,0.00,564.00,0.00,-339.00,FALSE
+2004,ID,Adult residential care home/Adult foster care home,Level II,970.00,0.00,406.00,0.00,564.00,0.00,-406.00,FALSE
+2004,ID,Adult residential care home/Adult foster care home,Level III,1038.00,0.00,474.00,0.00,564.00,0.00,-474.00,FALSE
+2004,ID,Semi-independent group residential facility,,761.00,0.00,197.00,0.00,564.00,0.00,-197.00,FALSE
+2004,ID,Assisted living facility or certified family home,,0.00,0.00,539.00,0.00,-539.00,0.00,-539.00,FALSE
+2005,ID,Living independently or in the household of another,,631.00,889.00,52.00,20.00,579.00,869.00,-32.00,FALSE
+2005,ID,Living with essential person,,889.00,0.00,20.00,0.00,869.00,0.00,-20.00,FALSE
+2005,ID,Room and board facility,,776.00,0.00,197.00,0.00,579.00,0.00,-197.00,FALSE
+2005,ID,Adult residential care home/Adult foster care home,Level I,918.00,0.00,339.00,0.00,579.00,0.00,-339.00,FALSE
+2005,ID,Adult residential care home/Adult foster care home,Level II,985.00,0.00,406.00,0.00,579.00,0.00,-406.00,FALSE
+2005,ID,Adult residential care home/Adult foster care home,Level III,1053.00,0.00,474.00,0.00,579.00,0.00,-474.00,FALSE
+2005,ID,Semi-independent group residential facility,,776.00,0.00,197.00,0.00,579.00,0.00,-197.00,FALSE
+2006,ID,Living independently or in the household of another,,635.00,904.00,32.00,0.00,603.00,904.00,-32.00,FALSE
+2006,ID,Living with essential person,,905.00,0.00,0.00,0.00,905.00,0.00,0.00,TRUE
+2006,ID,Room and board facility,,780.00,0.00,177.00,0.00,603.00,0.00,-177.00,FALSE
+2006,ID,Adult residential care home/Adult foster care home,Level I,922.00,0.00,319.00,0.00,603.00,0.00,-319.00,FALSE
+2006,ID,Adult residential care home/Adult foster care home,Level II,989.00,0.00,386.00,0.00,603.00,0.00,-386.00,FALSE
+2006,ID,Adult residential care home/Adult foster care home,Level III,1056.00,0.00,453.00,0.00,603.00,0.00,-453.00,FALSE
+2006,ID,Semi-independent group residential facility,,780.00,0.00,177.00,0.00,603.00,0.00,-177.00,FALSE
+2007,ID,Living independently or in the household of another,,655.00,934.00,32.00,0.00,623.00,934.00,-32.00,FALSE
+2007,ID,Living with essential person,,934.00,0.00,0.00,0.00,934.00,0.00,0.00,TRUE
+2007,ID,Room and board facility,,800.00,0.00,177.00,0.00,623.00,0.00,-177.00,FALSE
+2007,ID,Adult residential care home/Adult foster care home,Level I,942.00,0.00,319.00,0.00,623.00,0.00,-319.00,FALSE
+2007,ID,Adult residential care home/Adult foster care home,Level II,1009.00,0.00,386.00,0.00,623.00,0.00,-386.00,FALSE
+2007,ID,Adult residential care home/Adult foster care home,Level III,1076.00,0.00,453.00,0.00,623.00,0.00,-453.00,FALSE
+2007,ID,Semi-independent group residential facility,,800.00,0.00,177.00,0.00,623.00,0.00,-177.00,FALSE
+2008,ID,Living independently or in the household of another,,669.00,956.00,32.00,0.00,637.00,956.00,-32.00,FALSE
+2008,ID,Living with essential person,,956.00,0.00,0.00,0.00,956.00,0.00,0.00,TRUE
+2008,ID,Room and board facility,,814.00,0.00,177.00,0.00,637.00,0.00,-177.00,FALSE
+2008,ID,Adult residential care home/Adult foster care home,Level I,956.00,0.00,319.00,0.00,637.00,0.00,-319.00,FALSE
+2008,ID,Adult residential care home/Adult foster care home,Level II,1023.00,0.00,386.00,0.00,637.00,0.00,-386.00,FALSE
+2008,ID,Adult residential care home/Adult foster care home,Level III,1090.00,0.00,453.00,0.00,637.00,0.00,-453.00,FALSE
+2008,ID,Semi-independent group residential facility,,814.00,0.00,177.00,0.00,637.00,0.00,-177.00,FALSE
+2011,ID,Living independently or in the household of another,,727.00,1031.00,53.00,20.00,674.00,1011.00,-33.00,FALSE
+2011,ID,Living with essential person,,1064.00,0.00,52.00,0.00,1012.00,0.00,-52.00,FALSE
+2011,ID,Room and board facility,,872.00,0.00,198.00,0.00,674.00,0.00,-198.00,FALSE
+2011,ID,Adult residential care home/Adult foster care home,Level I,1013.00,0.00,339.00,0.00,674.00,0.00,-339.00,FALSE
+2011,ID,Adult residential care home/Adult foster care home,Level II,1080.00,0.00,406.00,0.00,674.00,0.00,-406.00,FALSE
+2011,ID,Adult residential care home/Adult foster care home,Level III,1147.00,0.00,473.00,0.00,674.00,0.00,-473.00,FALSE
+2011,ID,Semi-independent group residential facility,,872.00,0.00,198.00,0.00,674.00,0.00,-198.00,FALSE

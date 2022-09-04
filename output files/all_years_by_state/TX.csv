@@ -1,0 +1,8 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+2000,TX,Medicaid facility,,45.00,0.00,15.00,0.00,30.00,0.00,-15.00,FALSE
+2004,TX,Medicaid facility,,45.00,0.00,15.00,0.00,30.00,0.00,-15.00,FALSE
+2005,TX,Medicaid facility,,45.00,0.00,15.00,0.00,30.00,0.00,-15.00,FALSE
+2006,TX,Medicaid facility,,60.00,0.00,30.00,0.00,30.00,0.00,-30.00,FALSE
+2007,TX,Medicaid facility,,90.00,0.00,60.00,0.00,30.00,0.00,-60.00,FALSE
+2008,TX,Medicaid facility,,90.00,0.00,60.00,0.00,30.00,0.00,-60.00,FALSE
+2011,TX,Medicaid facility,,90.00,0.00,60.00,0.00,30.00,0.00,-60.00,FALSE

@@ -1,0 +1,81 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,MT,Personal care facilities,,480.00,772.00,94.00,193.00,386.00,579.00,99.00,FALSE
+1990,MT,Group home for the mentally ill or disabled,,480.00,772.00,94.00,193.00,386.00,579.00,99.00,FALSE
+1990,MT,Community home for physically or developmentally disabled,,480.00,772.00,94.00,193.00,386.00,579.00,99.00,FALSE
+1990,MT,Child and adult foster care,,438.75,689.50,52.75,110.50,386.00,579.00,57.75,FALSE
+1990,MT,Transitional living services for developmentally disabled,,412.00,636.00,26.00,57.00,386.00,579.00,31.00,FALSE
+1991,MT,Personal care facilities,,501.00,803.00,94.00,193.00,407.00,610.00,99.00,FALSE
+1991,MT,Group home for the mentally ill or disabled,,501.00,803.00,94.00,193.00,407.00,610.00,99.00,FALSE
+1991,MT,Community home for physically or developmentally disabled,,501.00,803.00,94.00,193.00,407.00,610.00,99.00,FALSE
+1991,MT,Child and adult foster care,,459.75,720.50,52.75,110.50,407.00,610.00,57.75,FALSE
+1991,MT,Transitional living services for developmentally disabled,,433.00,667.00,26.00,57.00,407.00,610.00,31.00,FALSE
+1992,MT,Personal care facilities,,516.00,826.00,94.00,193.00,422.00,633.00,99.00,FALSE
+1992,MT,Group home for the mentally ill or disabled,,516.00,826.00,94.00,193.00,422.00,633.00,99.00,FALSE
+1992,MT,Community home for physically or developmentally disabled,,516.00,826.00,94.00,193.00,422.00,633.00,99.00,FALSE
+1992,MT,Child and adult foster care,,474.75,743.50,52.75,110.50,422.00,633.00,57.75,FALSE
+1992,MT,Transitional living services for developmentally disabled,,448.00,690.00,26.00,57.00,422.00,633.00,31.00,FALSE
+1994,MT,Personal care facilities,,540.00,862.00,94.00,193.00,446.00,669.00,99.00,FALSE
+1994,MT,Group home for the mentally ill or disabled,,540.00,862.00,94.00,193.00,446.00,669.00,99.00,FALSE
+1994,MT,Community home for physically or developmentally disabled,,540.00,862.00,94.00,193.00,446.00,669.00,99.00,FALSE
+1994,MT,Child and adult foster care,,498.75,779.50,52.75,110.50,446.00,669.00,57.75,FALSE
+1994,MT,Transitional living services for developmentally disabled,,472.00,726.00,26.00,57.00,446.00,669.00,31.00,FALSE
+1995,MT,Personal care facilities,,552.00,880.00,94.00,193.00,458.00,687.00,99.00,FALSE
+1995,MT,Group home for the mentally ill or disabled,,552.00,880.00,94.00,193.00,458.00,687.00,99.00,FALSE
+1995,MT,Community home for physically or developmentally disabled,,552.00,880.00,94.00,193.00,458.00,687.00,99.00,FALSE
+1995,MT,Child and adult foster care,,510.75,797.50,52.75,110.50,458.00,687.00,57.75,FALSE
+1995,MT,Transitional living services for developmentally disabled,,484.00,744.00,26.00,57.00,458.00,687.00,31.00,FALSE
+1996,MT,Personal care facilities,,564.00,898.00,94.00,193.00,470.00,705.00,99.00,FALSE
+1996,MT,Group home for the mentally ill or disabled,,564.00,898.00,94.00,193.00,470.00,705.00,99.00,FALSE
+1996,MT,Community home for physically or developmentally disabled,,564.00,898.00,94.00,193.00,470.00,705.00,99.00,FALSE
+1996,MT,Child and adult foster care,,522.75,815.50,52.75,110.50,470.00,705.00,57.75,FALSE
+1996,MT,Transitional living services for developmentally disabled,,496.00,762.00,26.00,57.00,470.00,705.00,31.00,FALSE
+1997,MT,Personal care facilities,,578.00,919.00,94.00,193.00,484.00,726.00,99.00,FALSE
+1997,MT,Group home for the mentally ill or disabled,,578.00,919.00,94.00,193.00,484.00,726.00,99.00,FALSE
+1997,MT,Community home for physically or developmentally disabled,,578.00,919.00,94.00,193.00,484.00,726.00,99.00,FALSE
+1997,MT,Child and adult foster care,,536.75,836.50,52.75,110.50,484.00,726.00,57.75,FALSE
+1997,MT,Transitional living services for developmentally disabled,,510.00,783.00,26.00,57.00,484.00,726.00,31.00,FALSE
+1998,MT,Personal care facilities,,588.00,934.00,94.00,193.00,494.00,741.00,99.00,FALSE
+1998,MT,Group home for the mentally ill or disabled,,588.00,934.00,94.00,193.00,494.00,741.00,99.00,FALSE
+1998,MT,Community home for physically or developmentally disabled,,588.00,934.00,94.00,193.00,494.00,741.00,99.00,FALSE
+1998,MT,Child and adult foster care,,546.75,851.50,52.75,110.50,494.00,741.00,57.75,FALSE
+1998,MT,Transitional living services for developmentally disabled,,520.00,798.00,26.00,67.00,494.00,731.00,41.00,FALSE
+1999,MT,Personal care facilities,,594.00,944.00,94.00,193.00,500.00,751.00,99.00,FALSE
+1999,MT,Group home for the mentally ill or disabled,,594.00,944.00,94.00,193.00,500.00,751.00,99.00,FALSE
+1999,MT,Community home for physically or developmentally disabled,,594.00,944.00,94.00,193.00,500.00,751.00,99.00,FALSE
+1999,MT,Child and adult foster care,,552.75,861.50,52.75,110.50,500.00,751.00,57.75,FALSE
+1999,MT,Transitional living services for developmentally disabled,,526.00,808.00,26.00,57.00,500.00,751.00,31.00,FALSE
+2000,MT,Personal care facilities,,606.00,962.00,94.00,193.00,512.00,769.00,99.00,FALSE
+2000,MT,Group home for the mentally ill or disabled,,606.00,962.00,94.00,193.00,512.00,769.00,99.00,FALSE
+2000,MT,Community home for physically or developmentally disabled,,606.00,962.00,94.00,193.00,512.00,769.00,99.00,FALSE
+2000,MT,Child and adult foster care,,564.75,879.50,52.75,110.50,512.00,769.00,57.75,FALSE
+2000,MT,Transitional living services for developmentally disabled,,538.00,826.00,26.00,57.00,512.00,769.00,31.00,FALSE
+2004,MT,Personal care facilities,,658.00,1039.00,94.00,193.00,564.00,846.00,99.00,FALSE
+2004,MT,Group home for the mentally ill or disabled,,658.00,1039.00,94.00,193.00,564.00,846.00,99.00,FALSE
+2004,MT,Community home for physically or developmentally disabled,,658.00,1039.00,94.00,193.00,564.00,846.00,99.00,FALSE
+2004,MT,Child and adult foster care,,616.75,956.50,52.75,110.50,564.00,846.00,57.75,FALSE
+2004,MT,Transitional living services for developmentally disabled,,590.00,903.00,26.00,57.00,564.00,846.00,31.00,FALSE
+2005,MT,Personal care facilities,,673.00,1062.00,94.00,193.00,579.00,869.00,99.00,FALSE
+2005,MT,Group home for the mentally ill or disabled,,673.00,1062.00,94.00,193.00,579.00,869.00,99.00,FALSE
+2005,MT,Community home for physically or developmentally disabled,,673.00,1062.00,94.00,193.00,579.00,869.00,99.00,FALSE
+2005,MT,Child and adult foster care,,631.75,979.50,52.75,110.50,579.00,869.00,57.75,FALSE
+2005,MT,Transitional living services for developmentally disabled,,605.00,926.00,26.00,57.00,579.00,869.00,31.00,FALSE
+2006,MT,Personal care facilities,,697.00,1097.00,94.00,193.00,603.00,904.00,99.00,FALSE
+2006,MT,Group home for the mentally ill or disabled,,697.00,1097.00,94.00,193.00,603.00,904.00,99.00,FALSE
+2006,MT,Community home for physically or developmentally disabled,,697.00,1097.00,94.00,193.00,603.00,904.00,99.00,FALSE
+2006,MT,Child and adult foster care,,655.75,1014.50,52.75,110.50,603.00,904.00,57.75,FALSE
+2006,MT,Transitional living services for developmentally disabled,,629.00,961.00,26.00,57.00,603.00,904.00,31.00,FALSE
+2007,MT,Personal care facilities,,717.00,1127.00,94.00,193.00,623.00,934.00,99.00,FALSE
+2007,MT,Group home for the mentally ill or disabled,,717.00,1127.00,94.00,193.00,623.00,934.00,99.00,FALSE
+2007,MT,Community home for physically or developmentally disabled,,717.00,1127.00,94.00,193.00,623.00,934.00,99.00,FALSE
+2007,MT,Child and adult foster care,,675.75,1044.50,52.75,110.50,623.00,934.00,57.75,FALSE
+2007,MT,Transitional living services for developmentally disabled,,649.00,991.00,26.00,57.00,623.00,934.00,31.00,FALSE
+2008,MT,Personal care facilities,,731.00,1149.00,94.00,193.00,637.00,956.00,99.00,FALSE
+2008,MT,Group home for the mentally ill or disabled,,731.00,1149.00,94.00,193.00,637.00,956.00,99.00,FALSE
+2008,MT,Community home for physically or developmentally disabled,,731.00,1149.00,94.00,193.00,637.00,956.00,99.00,FALSE
+2008,MT,Child and adult foster care,,689.75,1066.50,52.75,110.50,637.00,956.00,57.75,FALSE
+2008,MT,Transitional living services for developmentally disabled,,663.00,1013.00,26.00,57.00,637.00,956.00,31.00,FALSE
+2011,MT,Personal care facilities,,768.00,1204.00,94.00,193.00,674.00,1011.00,99.00,FALSE
+2011,MT,Group home for the mentally ill or disabled,,768.00,1204.00,94.00,193.00,674.00,1011.00,99.00,FALSE
+2011,MT,Community home for physically or developmentally disabled,,768.00,1204.00,94.00,193.00,674.00,1011.00,99.00,FALSE
+2011,MT,Child and adult foster care,,726.75,1121.50,52.75,110.50,674.00,1011.00,57.75,FALSE
+2011,MT,Transitional living services for developmentally disabled,,700.00,1068.00,26.00,57.00,674.00,1011.00,31.00,FALSE

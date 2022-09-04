@@ -1,0 +1,64 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,RI,Living alone,,450.35,699.50,64.35,120.50,386.00,579.00,56.15,FALSE
+1990,RI,Living in household of another,,331.94,522.50,74.60,136.50,257.34,386.00,61.90,FALSE
+1990,RI,Medicaid facility,,40.00,80.00,10.00,20.00,30.00,60.00,10.00,TRUE
+1991,RI,Living alone,,471.35,730.50,64.35,120.50,407.00,610.00,56.15,FALSE
+1991,RI,Living in household of another,,345.94,543.17,74.60,136.50,271.34,406.67,61.90,FALSE
+1991,RI,Residential care/assisted living,,739.00,0.00,332.00,0.00,407.00,0.00,-332.00,FALSE
+1991,RI,Medicaid facility,,40.00,80.00,10.00,20.00,30.00,60.00,10.00,TRUE
+1992,RI,Living alone,,488.79,757.53,66.79,124.53,422.00,633.00,57.74,FALSE
+1992,RI,Living in household of another,,358.74,563.27,77.40,141.27,281.34,422.00,63.87,FALSE
+1992,RI,Residential care/assisted living,,766.34,0.00,344.34,0.00,422.00,0.00,-344.34,FALSE
+1992,RI,Medicaid facility,,40.00,80.00,10.00,20.00,30.00,60.00,10.00,TRUE
+1994,RI,Living alone,,510.35,789.50,64.35,120.50,446.00,669.00,56.15,FALSE
+1994,RI,Living in household of another,,371.94,582.50,74.60,136.50,297.34,446.00,61.90,FALSE
+1994,RI,Residential care/assisted living,,778.00,0.00,332.00,0.00,446.00,0.00,-332.00,FALSE
+1994,RI,Medicaid facility,,40.00,80.00,10.00,20.00,30.00,60.00,10.00,TRUE
+1995,RI,Living alone,,522.35,807.50,64.35,120.50,458.00,687.00,56.15,FALSE
+1995,RI,Living in household of another,,379.94,594.50,74.60,136.50,305.34,458.00,61.90,FALSE
+1995,RI,Residential care/assisted living,,790.00,0.00,332.00,0.00,458.00,0.00,-332.00,FALSE
+1995,RI,Medicaid facility,,40.00,80.00,10.00,20.00,30.00,60.00,10.00,TRUE
+1996,RI,Living alone,,534.35,825.50,64.35,120.50,470.00,705.00,56.15,FALSE
+1996,RI,Living in household of another,,387.94,606.50,74.60,136.50,313.34,470.00,61.90,FALSE
+1996,RI,Residential care/assisted living,,802.00,0.00,332.00,0.00,470.00,0.00,-332.00,FALSE
+1996,RI,Medicaid facility,,40.00,80.00,10.00,20.00,30.00,60.00,10.00,TRUE
+1997,RI,Living alone,,548.35,846.50,64.35,120.50,484.00,726.00,56.15,FALSE
+1997,RI,Living in household of another,,397.27,620.50,74.60,136.50,322.67,484.00,61.90,FALSE
+1997,RI,Residential care/assisted living,,816.00,0.00,332.00,0.00,484.00,0.00,-332.00,FALSE
+1997,RI,Medicaid facility,,40.00,80.00,10.00,20.00,30.00,60.00,10.00,TRUE
+1998,RI,Living alone,,558.35,861.50,64.35,120.50,494.00,741.00,56.15,FALSE
+1998,RI,Living in household of another,,403.94,630.50,74.60,136.50,329.34,494.00,61.90,FALSE
+1998,RI,Residential care/assisted living,,826.00,0.00,332.00,0.00,494.00,0.00,-332.00,FALSE
+1998,RI,Medicaid facility,,40.00,80.00,10.00,20.00,30.00,60.00,10.00,TRUE
+1999,RI,Living alone,,564.35,871.50,64.35,120.50,500.00,751.00,56.15,FALSE
+1999,RI,Living in household of another,,407.94,637.17,74.60,136.50,333.34,500.67,61.90,FALSE
+1999,RI,Residential care/assisted living,,1082.00,0.00,582.00,0.00,500.00,0.00,-582.00,FALSE
+1999,RI,Medicaid facility,,40.00,80.00,10.00,20.00,30.00,60.00,10.00,TRUE
+2000,RI,Living alone,,576.35,889.50,64.35,120.50,512.00,769.00,56.15,FALSE
+2000,RI,Living in household of another,,415.94,649.17,74.60,136.50,341.34,512.67,61.90,FALSE
+2000,RI,Residential care/assisted living,,1094.00,0.00,582.00,0.00,512.00,0.00,-582.00,FALSE
+2000,RI,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE
+2004,RI,Living alone,,621.35,954.50,57.35,108.50,564.00,846.00,51.15,FALSE
+2004,RI,Living in household of another,,445.94,692.50,69.94,128.50,376.00,564.00,58.56,FALSE
+2004,RI,Residential care/assisted living,,1139.00,0.00,575.00,0.00,564.00,0.00,-575.00,FALSE
+2004,RI,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE
+2005,RI,Living alone,,636.35,977.50,57.35,108.50,579.00,869.00,51.15,FALSE
+2005,RI,Living in household of another,,455.94,707.84,69.94,128.50,386.00,579.34,58.56,FALSE
+2005,RI,Residential care/assisted living,,1154.00,0.00,575.00,0.00,579.00,0.00,-575.00,FALSE
+2005,RI,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE
+2006,RI,Living alone,,660.35,1012.50,57.35,108.50,603.00,904.00,51.15,FALSE
+2006,RI,Living in household of another,,471.94,731.17,69.94,128.50,402.00,602.67,58.56,FALSE
+2006,RI,Residential care/assisted living,,1178.00,0.00,575.00,0.00,603.00,0.00,-575.00,FALSE
+2006,RI,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE
+2007,RI,Living alone,,680.35,1042.50,57.35,108.50,623.00,934.00,51.15,FALSE
+2007,RI,Living in household of another,,485.28,751.17,69.94,128.50,415.34,622.67,58.56,FALSE
+2007,RI,Residential care/assisted living,,1198.00,0.00,575.00,0.00,623.00,0.00,-575.00,FALSE
+2007,RI,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE
+2008,RI,Living alone,,694.35,1064.50,57.35,108.50,637.00,956.00,51.15,FALSE
+2008,RI,Living in household of another,,494.61,765.84,69.94,128.50,424.67,637.34,58.56,FALSE
+2008,RI,Residential care/assisted living,,1212.00,0.00,575.00,0.00,637.00,0.00,-575.00,FALSE
+2008,RI,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE
+2011,RI,Living alone,,713.92,1090.38,39.92,79.38,674.00,1011.00,39.46,FALSE
+2011,RI,Living in household of another,,501.26,771.30,51.92,97.30,449.34,674.00,45.38,FALSE
+2011,RI,Residential care/assisted living,,1212.00,0.00,538.00,0.00,674.00,0.00,-538.00,FALSE
+2011,RI,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE

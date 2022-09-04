@@ -1,0 +1,2 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+2011,KS,Medicaid facility,,62.00,124.00,32.00,64.00,30.00,60.00,32.00,TRUE

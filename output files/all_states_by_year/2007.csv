@@ -1,0 +1,210 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl
+2007,AL,Receiving IHC in a private home or a personal care home,Level A,683,1054,60,120
+2007,AL,Receiving IHC in a private home or a personal care home,Level B,679,1046,56,112
+2007,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level A,475.34,742.67,60,120
+2007,AL,Receiving IHC and support and maintenance in a private home or personal care home,Level B,471.34,734.67,56,112
+2007,AL,Receiving specialized IHC in a private home or personal care home,,683,1054,60,120
+2007,AL,Receiving specialized IHC and support and maintenance in a private home or personal care home,,475.34,742.67,60,120
+2007,AL,Living in foster home with IHC or specialized IHC,,733,1154,110,220
+2007,AL,Living in cerebral palsy treatment center,,819,1326,196,392
+2007,AK,Living independently,,985,1462,362,528
+2007,AK,Living independently with ineligible spouse,,1144,...,521,...
+2007,AK,Living in household of another,,783.34,1165.67,368,543
+2007,AK,Living in household of another with ineligible spouse,,879.34,...,464,...
+2007,AK,Assisted living home,,723,1134,100,200
+2007,AK,Assisted living home with an ineligible spouse,,723,...,100,...
+2007,AK,Medicaid facility,,75,150,45,90
+2007,AZ,Requires housekeeping services,,693,1004,70,70
+2007,CA,Independent living with cooking facilities,Aged and disabled,856,1502,233,568
+2007,CA,Independent living with cooking facilities,Blind,921,1729,298,795
+2007,CA,Nonmedical out-of-home care,,1035,2070,412,1136
+2007,CA,Independent living without cooking facilities,Aged and disabled,940,1670,317,736
+2007,CA,Living in household of another,Aged and disabled,649.34,1218.33,234,595.66
+2007,CA,Living in household of another,Blind,730.34,1445.33,315,822.66
+2007,CA,Disabled minor in home of parent/guardian/relative by marriage,,742,...,119,...
+2007,CA,Nonmedical out-of-home care living in household of another,,822.34,1668.33,407,1045.66
+2007,CA,Disabled minor in the household of another,,523.34,...,108,...
+2007,CA,Medicaid facility,,50,100,20,40
+2007,CO,Living independently or in the home of another,Aged,648,1296,25,362
+2007,CO,Adult foster care,Blind and disabled,918,1836,295,902
+2007,CO,Home care,,1087.15,...,464.15,...
+2007,CT,Independent community living,,791,1184,168,250
+2007,CT,Licensed room and board facility,,623,934,...,...
+2007,CT,Medicaid facility,,61,122,31,62
+2007,DE,Living in adult residential care facility,,763,1382,140,448
+2007,DC,Adult foster care home,(50 beds or less),1108,2216,485,1282
+2007,DC,Adult foster care home,(over 50 beds),1218,2436,595,1502
+2007,DC,Medicaid facility,,70,140,40,80
+2007,FL,Community care program,Adult family care homes,701.4,...,78.4,...
+2007,FL,Community care program,Assisted living facilities,701.4,...,78.4,...
+2007,FL,Medicaid facility,,35,70,5,10
+2007,GA,Medicaid facility,,50,100,20,40
+2007,HI,Foster care home,,1244.9,2489.8,621.9,1555.8
+2007,HI,Domiciliary care facility,(1 to 5 residents),1244.9,2489.8,621.9,1555.8
+2007,HI,Domiciliary care facility,(6 or more residents),1352.9,2705.8,729.9,1771.8
+2007,ID,Living independently or in the household of others,,655,934,32,...
+2007,ID,Living with essential person,,934,...,...,...
+2007,ID,Room and board facility,,800,...,177,...
+2007,ID,Adult residential care home/Adult foster care home,Level I,942,...,319,...
+2007,ID,Adult residential care home/Adult foster care home,Level II,1009,...,386,...
+2007,ID,Adult residential care home/Adult foster care home,Level III,1076,...,453,...
+2007,ID,Semi-independent group residential facility,,800,...,177,...
+2007,IN,Licensed residential facility,,1216.9,...,593.9,...
+2007,IN,Medicaid facility,,52,104,22,44
+2007,IA,Living independently,Blind,645,978,22,44
+2007,IA,Living in household of another,Blind,437.34,666.67,22,44
+2007,IA,Living with dependent person,Aged and disabled,940,1251,317,317
+2007,IA,Living with dependent person,Blind,962,1295,339,361
+2007,IA,Family life or boarding home,,765,1550,142,616
+2007,IA,Living with dependent person in household of another,Aged and disabled,732.34,939.67,317,317
+2007,IA,Living with dependent person in household of another,Blind,754.34,983.67,339,361
+2007,IA,Family life or boarding home,(1/3 reduction in Federal benefit rate applies),557.34,1238.67,142,616
+2007,IA,Residential care,,909.5,...,286.5,...
+2007,IA,In-home health care,,1103.55,1895.1,480.55,961.1
+2007,KY,Personal-care facility,,1143,...,520,...
+2007,KY,Family care home,,795,...,172,...
+2007,KY,Caretaker in home,,685,1049,62,115
+2007,LA,Medicaid facility,,38,76,8,16
+2007,ME,Living alone or with others,,633,949,10,15
+2007,ME,Living in the household of another,,423.34,634.67,8,12
+2007,ME,Fost home,,672,1207,49,273
+2007,ME,Flate rate boarding home,,840,1524,217,590
+2007,ME,Cost reimbursement boarding home,,857,1570,234,636
+2007,ME,Medicaid facility,,40,80,10,20
+2007,MD,Care home,Minimal supervision,689,1378,66,132
+2007,MD,Care home,Moderate supervision,798,1596,175,350
+2007,MD,Care home,Extensive supervision,1086,2172,463,926
+2007,MD,Care home,Specialized and intensive supervision,1289,2578,666,1332
+2007,MD,Assisted living facility,,807,1614,184,368
+2007,MD,Rehabilitative residence,,807,1614,184,368
+2007,MA,Living independently,Aged,751.82,1135.72,128.82,201.72
+2007,MA,Living independently,Blind,772.74,1545.48,149.74,611.48
+2007,MA,Living independently,Disabled,737.39,1114.06,114.39,180.06
+2007,MA,Shared living expenses,Aged,662.26,1135.72,39.26,201.72
+2007,MA,Shared living expenses,Blind,772.74,1545.48,149.74,611.48
+2007,MA,Shared living expenses,Disabled,653.4,1114.06,30.4,180.06
+2007,MA,Living in household of another,Aged,519.7,838.47,104.36,215.8
+2007,MA,Living in household of another,Blind,772.74,1545.47,357.4,922.8
+2007,MA,Living in household of another,Disabled,502.92,816.85,87.58,194.18
+2007,MA,Licensed rest home,Aged and disabled,916,1832,293,898
+2007,MA,Licensed rest home,Blind,772.74,1545.48,149.74,611.48
+2007,MA,Medicaid facility,,65,130,35,70
+2007,MA,Assisted living facility,,1077,1615,454,681
+2007,MI,Living independently,,637,962,14,28
+2007,MI,Living in household of another,,424.67,641.33,9.33,18.66
+2007,MI,Domiciliary care,,710,1420,87,486
+2007,MI,Personal care facility,,780.5,1561,157.5,627
+2007,MI,Home for the aged,,802.3,1604.6,179.3,670.6
+2007,MI,Living independently with essential person,,949,1267,14,21
+2007,MI,Living in the household of another with essential person,,632.67,844.67,9.33,14
+2007,MI,Medicaid facility,,37,74,7,14
+2007,MN,Living independently,Entitlement prior to 1/1/94,684,1060,81,126
+2007,MN,Living independently,Entitlement 1/1/94 or later,684,1045,81,111
+2007,MN,Living in household of another,Entitlement prior to 1/1/94,506.34,969,111,346.33
+2007,MN,Living in household of another,Entitlement 1/1/94 or later,506.34,706,111,83.33
+2007,MN,Nonmedical group residential facility,,737.34,...,130,...
+2007,MN,Medicaid facility,,82,...,49,...
+2007,MO,Licensed residential care facility,I,779,1246,156,312
+2007,MO,Licensed residential care facility,II,915,1518,292,584
+2007,MO,Licensed intermediate care or skilled nursing home,,1013,1714,390,780
+2007,MO,Aid to the blind,,510,1020,...,...
+2007,MT,Personal care facilities,,717,1127,94,193
+2007,MT,Group home for the mentally ill or disabled,,717,1127,94,193
+2007,MT,Community home for physically or developmentally disabled,,717,1127,94,193
+2007,MT,Child and adult foster care,,675.75,1044.5,52.75,110.5
+2007,MT,Transitional living services for developmentally disabled,,649,991,26,57
+2007,NE,Living independently,,632,935,9,1
+2007,NE,Room and board facility,,530,1060,114.66,437.33
+2007,NE,Adult family home,,761,1522,138,588
+2007,NE,Licensed center for developmentally disabled,,600,1200.67,184.66,266
+2007,NE,Licensed group home for children or child caring agency,,697,...,74,...
+2007,NE,Assisted living facility,,1061,2122,438,1188
+2007,NE,Medicaid facility,,50,100,20,40
+2007,NV,Living independently,Aged,659.4,1008.46,36.4,74.46
+2007,NV,Living independently,Blind,732.3,1308.6,109.3,374.6
+2007,NV,Living in household of another,Aged,439.61,672.31,24.27,49.64
+2007,NV,Living in household of another,Blind,629.3,1154.61,213.96,531.94
+2007,NV,Domiciliary care,Aged and blind,1014,1815,391,881
+2007,NH,Living independently,,650,955,27,21
+2007,NH,Living with an essential person,,...,1259,...,13
+2007,NH,Residential care facility for adults,,830,1660,207,414
+2007,NH,Enhanced family care facilities,,830,1660,207,414
+2007,NH,Community residences,Non-subsidized,772,...,149,...
+2007,NH,Community residences,Subsidized,712,...,89,...
+2007,NH,Medicaid facility,,56,...,26,...
+2007,NJ,Congregate care,,773.05,1527.36,150.05,593.36
+2007,NJ,Living alone or with others,,654.25,959.36,31.25,25.36
+2007,NJ,Living alone with an ineligible spouse,,959.36,...,336.36,...
+2007,NJ,Living with essential person,,959.36,...,24.36,...
+2007,NJ,Living in household of another,,459.65,715.76,44.31,93.09
+2007,NJ,Medicaid facility,,40,80,10,20
+2007,NJ,Residential health care facility,,833.05,1647.36,210.05,713.36
+2007,NM,Licensed adult residential care home,,723,1134,100,200
+2007,NY,Living alone,,710,1038,87,104
+2007,NY,Living with others,,646,980,23,46
+2007,NY,Congregate care I,Areas A and B,889.48,1778.96,266.48,844.96
+2007,NY,Congregate care I,Area C,851.48,1702.96,228.48,768.96
+2007,NY,Congregate care II,Areas A and B,1058,2116,435,1182
+2007,NY,Congregate care II,Area C,1028,2056,405,1122
+2007,NY,Congregate care III,Area A,1264,2528,641,1594
+2007,NY,Congregate care III,Areas B and C,1264,2528,641,1594
+2007,NY,Living in household of another,,438.34,668.67,23,46
+2007,NY,Medicaid facility/residential facility/emergency shelter,,30,60,...,...
+2007,NC,Adult care home,Basic,1194,?,571,?
+2007,NC,Adult care home,Disenfranchised,1297,?,674,?
+2007,NC,Adult care home,Special care unit,1561,?,938,?
+2007,NC,Adult care home,In home,1108,?,277,?
+2007,NC,Blind ineligible for SSI,Not paying shelter and utilities,...,...,97,194
+2007,NC,Blind ineligible for SSI,Paying shelter and utilities,...,...,146,243
+2007,OH,Adult family/foster home,,1129,2093,506,1159
+2007,OH,Adult community mental health housing,,929,1693,306,759
+2007,OH,Adult community alternative home,,1129,2093,506,1159
+2007,OH,Adult group home,,1229,2293,606,1359
+2007,OH,Residential care facility,,1229,2293,606,1359
+2007,OH,Adult residential care facility,,1129,2093,506,1159
+2007,OK,Living independently,,670,1028,47,94
+2007,OR,Living independently,Aged and disabled,624.7,...,1.7,...
+2007,OR,Living independently,Blind,649.7,959,26.7,25.6
+2007,OR,Living in household of another,Aged and disabled,417.04,...,1.7,...
+2007,OR,Living in household of another,Blind,442.04,647.67,26.7,25.6
+2007,OR,Adult foster/residential care,Aged and disabled,624.7,...,1.7,...
+2007,OR,Adult foster/residential care,Blind,624.7,...,26.7,...
+2007,PA,Living alone,,650.4,977.7,27.4,43.7
+2007,PA,Living in household of another,,442.74,666.37,27.4,43.7
+2007,PA,Living with an essential person,,978.7,1314.05,43.7,68.05
+2007,PA,Living with an essential person in household of another,,667.04,898.72,43.7,68.05
+2007,PA,Domiciliary care facility for adults,,1012.3,1791.4,389.3,857.4
+2007,PA,Personal care home,,1062.3,1891.4,439.3,957.4
+2007,RI,Living alone,,680.35,1042.5,57.35,108.5
+2007,RI,Living in household of another,,485.28,751.17,69.94,128.5
+2007,RI,Residential care/assisted living,,1198,...,575,...
+2007,RI,Medicaid facility,,50,100,20,40
+2007,SC,Licensed residential-care facility,,971,...,348,...
+2007,SD,Living independently,,638,949,15,15
+2007,SD,Assisted living facility,,1212,...,589,...
+2007,SD,Adult foster care,,919,...,296,...
+2007,TX,Medicaid facility,,90,...,60,...
+2007,UT,Living alone or with others,,623,936.6,...,4.6
+2007,UT,Living in the household of another,,418.47,632.4,3.13,9.73
+2007,VT,Living independently,,675.04,1032.88,52.04,98.88
+2007,VT,Level III assistive community care services,,671.38,1030.77,48.38,96.77
+2007,VT,Living in the household of another,,454.64,670.98,39.3,48.31
+2007,VT,Level IV residential care home,,846.94,1496.06,223.94,562.06
+2007,VT,Custodial-care/Family home,,721.69,1266.82,98.69,332.82
+2007,VT,Medicaid facility,,47.66,95.33,17.66,35.33
+2007,VA,Assisted living facility,Planning district 8,1280,2560,657,1626
+2007,VA,Assisted living facility,All other areas,1123,2246,500,1312
+2007,VA,Adult foster care,Planning district 8,1280,2560,657,1626
+2007,VA,Adult foster care,All other areas,1123,2246,500,1312
+2007,WA,Living independently,,669,1026,46,92
+2007,WA,Living with ineligible spouse,,669,...,46,...
+2007,WA,Living in household of another,,461.34,714.67,46,92
+2007,WA,Living in household of another with ineligible spouse,,461.34,...,46,...
+2007,WA,Medicaid facility,,52.68,107.36,23.68,47.36
+2007,WI,Living independently,,706.78,1066.05,83.78,132.05
+2007,WI,Living in household of another,,499.12,754.72,83.78,132.05
+2007,WI,Living independently with an ineligible spouse,,753.43,...,130.43,...
+2007,WI,Living in household of another with ineligible spouse,,550.39,...,135.05,...
+2007,WI,Private nonmedical group home or natural residential settings,,802.77,1411.41,179.77,477.41
+2007,WY,Living independently,,648,989.6,25,55.6
+2007,WY,Living in the household of another,,443.14,683.81,27.8,61.14

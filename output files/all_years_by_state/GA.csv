@@ -1,0 +1,4 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+2007,GA,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE
+2008,GA,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE
+2011,GA,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE

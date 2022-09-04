@@ -1,0 +1,17 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,SC,Licensed residential care facility,,612.00,1224.00,226.00,645.00,386.00,579.00,419.00,FALSE
+1991,SC,Licensed residential care facility,,650.00,1300.00,243.00,690.00,407.00,610.00,447.00,FALSE
+1992,SC,Licensed residential care facility,,665.00,1323.00,243.00,690.00,422.00,633.00,447.00,FALSE
+1994,SC,Licensed residential care facility,,707.00,1414.00,261.00,745.00,446.00,669.00,484.00,FALSE
+1995,SC,Licensed residential care facility,,732.00,0.00,274.00,0.00,458.00,0.00,-274.00,FALSE
+1996,SC,Licensed residential care facility,,741.00,0.00,271.00,0.00,470.00,0.00,-271.00,FALSE
+1997,SC,Licensed residential care facility,,753.00,0.00,269.00,0.00,484.00,0.00,-269.00,FALSE
+1998,SC,Licensed residential care facility,,795.00,0.00,301.00,0.00,494.00,0.00,-301.00,FALSE
+1999,SC,Licensed residential care facility,,811.00,0.00,311.00,0.00,500.00,0.00,-311.00,FALSE
+2000,SC,Licensed residential care facility,,860.00,1720.00,348.00,696.00,512.00,1024.00,348.00,TRUE
+2004,SC,Licensed residential care facility,,912.00,0.00,348.00,0.00,564.00,0.00,-348.00,FALSE
+2005,SC,Licensed residential care facility,,927.00,0.00,348.00,0.00,579.00,0.00,-348.00,FALSE
+2006,SC,Licensed residential care facility,,951.00,0.00,348.00,0.00,603.00,0.00,-348.00,FALSE
+2007,SC,Licensed residential care facility,,971.00,0.00,348.00,0.00,623.00,0.00,-348.00,FALSE
+2008,SC,Licensed residential care facility,,1065.00,0.00,428.00,0.00,637.00,0.00,-428.00,FALSE
+2011,SC,Licensed residential care facility,,1157.00,0.00,483.00,0.00,674.00,0.00,-483.00,FALSE

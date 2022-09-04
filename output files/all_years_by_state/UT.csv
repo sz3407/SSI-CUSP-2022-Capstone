@@ -1,0 +1,30 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,UT,Living alone or with others,,392.00,591.00,6.00,12.00,386.00,579.00,6.00,TRUE
+1991,UT,Living alone or with others,,413.00,622.00,6.00,12.00,407.00,610.00,6.00,TRUE
+1992,UT,Living alone or with others,,427.30,643.60,5.30,10.60,422.00,633.00,5.30,TRUE
+1994,UT,Living alone or with others,,447.00,673.60,1.00,4.60,446.00,669.00,3.60,FALSE
+1994,UT,Living in the household of another,,300.47,455.73,3.13,9.73,297.34,446.00,6.60,FALSE
+1995,UT,Living alone or with others,,458.00,691.60,0.00,4.60,458.00,687.00,4.60,FALSE
+1995,UT,Living in the household of another,,308.47,467.73,3.13,9.73,305.34,458.00,6.60,FALSE
+1996,UT,Living alone or with others,,470.00,1.00,0.00,7.00,470.00,-6.00,7.00,FALSE
+1996,UT,Living in the household of another,,3.00,6.00,4.00,709.60,-1.00,-703.60,705.60,FALSE
+1997,UT,Living alone or with others,,484.00,730.60,0.00,4.60,484.00,726.00,4.60,FALSE
+1997,UT,Living in the household of another,,325.80,493.73,3.13,9.73,322.67,484.00,6.60,FALSE
+1998,UT,Living alone or with others,,494.00,745.60,0.00,4.60,494.00,741.00,4.60,FALSE
+1998,UT,Living in the household of another,,332.47,503.73,3.13,9.73,329.34,494.00,6.60,FALSE
+1999,UT,Living alone or with others,,500.00,755.60,0.00,4.60,500.00,751.00,4.60,FALSE
+1999,UT,Living in the household of another,,336.47,510.40,3.13,9.73,333.34,500.67,6.60,FALSE
+2000,UT,Living alone or with others,,512.00,773.60,0.00,4.60,512.00,769.00,4.60,FALSE
+2000,UT,Living in the household of another,,344.47,522.40,3.13,9.73,341.34,512.67,6.60,FALSE
+2004,UT,Living alone or with others,,564.00,850.60,0.00,4.60,564.00,846.00,4.60,FALSE
+2004,UT,Living in the household of another,,379.13,573.73,3.13,9.73,376.00,564.00,6.60,FALSE
+2005,UT,Living alone or with others,,579.00,873.60,0.00,4.60,579.00,869.00,4.60,FALSE
+2005,UT,Living in the household of another,,389.13,589.07,3.13,9.73,386.00,579.34,6.60,FALSE
+2006,UT,Living alone or with others,,603.00,908.60,0.00,4.60,603.00,904.00,4.60,FALSE
+2006,UT,Living in the household of another,,405.13,612.40,3.13,9.73,402.00,602.67,6.60,FALSE
+2007,UT,Living alone or with others,,623.00,936.60,0.00,4.60,623.00,932.00,4.60,FALSE
+2007,UT,Living in the household of another,,418.47,632.40,3.13,9.73,415.34,622.67,6.60,FALSE
+2008,UT,Living alone or with others,,637.00,960.60,0.00,4.60,637.00,956.00,4.60,FALSE
+2008,UT,Living in the household of another,,427.80,647.07,3.13,9.73,424.67,637.34,6.60,FALSE
+2011,UT,Living alone or with others,,674.00,1015.60,0.00,4.60,674.00,1011.00,4.60,FALSE
+2011,UT,Living in the household of another,,452.47,683.73,3.13,9.73,449.34,674.00,6.60,FALSE

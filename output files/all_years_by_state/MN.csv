@@ -1,0 +1,91 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,MN,Living independently,Entitlement prior to 1994,461.00,667.00,75.00,88.00,386.00,579.00,13.00,FALSE
+1990,MN,Living in household of another,Entitlement prior to 1994,316.67,544.66,59.33,158.66,257.34,386.00,99.33,FALSE
+1990,MN,Nonmedical group residential facility,,386.00,0.00,0.00,0.00,386.00,0.00,0.00,TRUE
+1990,MN,Medicaid facility,,49.00,98.00,19.00,38.00,30.00,60.00,19.00,TRUE
+1991,MN,Living independently,Entitlement prior to 1994,488.00,742.00,81.00,132.00,407.00,610.00,51.00,FALSE
+1991,MN,Living in household of another,Entitlement prior to 1994,381.34,742.67,110.00,336.00,271.34,406.67,226.00,FALSE
+1991,MN,Nonmedical group residential facility,,407.00,0.00,0.00,0.00,407.00,0.00,0.00,TRUE
+1991,MN,Medicaid facility,,52.00,104.00,22.00,44.00,30.00,60.00,22.00,TRUE
+1992,MN,Living independently,Entitlement prior to 1994,503.00,762.00,81.00,129.00,422.00,633.00,48.00,FALSE
+1992,MN,Living in household of another,Entitlement prior to 1994,391.34,762.00,110.00,340.00,281.34,422.00,230.00,FALSE
+1992,MN,Nonmedical group residential facility,,422.00,0.00,0.00,0.00,422.00,0.00,0.00,TRUE
+1992,MN,Medicaid facility,,54.00,108.00,24.00,48.00,30.00,60.00,24.00,TRUE
+1994,MN,Living independently,Entitlement prior to 1994,527.00,795.00,81.00,126.00,446.00,669.00,45.00,FALSE
+1994,MN,Living independently,Entitlement 1994 or later,527.00,780.00,81.00,111.00,446.00,669.00,30.00,FALSE
+1994,MN,Living in household of another,Entitlement prior to 1994,407.34,790.00,110.00,344.00,297.34,446.00,234.00,FALSE
+1994,MN,Living in household of another,Entitlement 1994 or later,407.34,527.00,110.00,81.00,297.34,446.00,-29.00,FALSE
+1994,MN,Nonmedical group residential facility,,879.73,0.00,433.73,0.00,446.00,0.00,-433.73,FALSE
+1994,MN,Medicaid facility,,57.00,114.00,27.00,54.00,30.00,60.00,27.00,TRUE
+1995,MN,Living independently,Entitlement prior to 1994,539.00,813.00,81.00,126.00,458.00,687.00,45.00,FALSE
+1995,MN,Living independently,Entitlement 1994 or later,539.00,798.00,81.00,111.00,458.00,687.00,30.00,FALSE
+1995,MN,Living in household of another,Entitlement prior to 1994,415.34,802.00,110.00,344.00,305.34,458.00,234.00,FALSE
+1995,MN,Living in household of another,Entitlement 1994 or later,415.34,539.00,110.00,81.00,305.34,458.00,-29.00,FALSE
+1995,MN,Nonmedical group residential facility,,987.73,0.00,421.37,0.00,566.36,0.00,-421.37,FALSE
+1995,MN,Medicaid facility,,59.00,118.00,29.00,58.00,30.00,60.00,29.00,TRUE
+1996,MN,Living independently,Entitlement prior to 1994,551.00,831.00,81.00,126.00,470.00,705.00,45.00,FALSE
+1996,MN,Living independently,Entitlement 1994 or later,551.00,816.00,81.00,111.00,470.00,705.00,30.00,FALSE
+1996,MN,Living in household of another,Entitlement prior to 1994,423.34,814.00,110.00,344.00,313.34,470.00,234.00,FALSE
+1996,MN,Living in household of another,Entitlement 1994 or later,423.34,551.00,110.00,81.00,313.34,470.00,-29.00,FALSE
+1996,MN,Nonmedical group residential facility,,1153.37,0.00,683.37,0.00,470.00,0.00,-683.37,FALSE
+1996,MN,Medicaid facility,,61.00,122.00,31.00,62.00,30.00,60.00,31.00,TRUE
+1997,MN,Living independently,Entitlement prior to 1994,565.00,852.00,81.00,126.00,484.00,726.00,45.00,FALSE
+1997,MN,Living independently,Entitlement 1994 or later,565.00,837.00,81.00,111.00,484.00,726.00,30.00,FALSE
+1997,MN,Living in household of another,Entitlement prior to 1994,432.67,828.00,110.00,344.00,322.67,484.00,234.00,FALSE
+1997,MN,Living in household of another,Entitlement 1994 or later,432.67,565.00,110.00,81.00,322.67,484.00,-29.00,FALSE
+1997,MN,Nonmedical group residential facility,,1178.37,0.00,694.37,0.00,484.00,0.00,-694.37,FALSE
+1997,MN,Medicaid facility,,63.00,126.00,33.00,66.00,30.00,60.00,33.00,TRUE
+1998,MN,Living independently,Entitlement prior to 1994,575.00,867.00,81.00,126.00,494.00,741.00,45.00,FALSE
+1998,MN,Living independently,Entitlement 1994 or later,575.00,852.00,81.00,111.00,494.00,741.00,30.00,FALSE
+1998,MN,Living in household of another,Entitlement prior to 1994,439.34,838.00,110.00,344.00,329.34,494.00,234.00,FALSE
+1998,MN,Living in household of another,Entitlement 1994 or later,439.34,575.00,110.00,81.00,329.34,494.00,-29.00,FALSE
+1998,MN,Nonmedical group residential facility,,1192.37,0.00,698.37,0.00,494.00,0.00,-698.37,FALSE
+1998,MN,Medicaid facility,,64.00,128.00,34.00,68.00,30.00,60.00,34.00,TRUE
+1999,MN,Living independently,Entitlement prior to 1994,581.00,877.00,81.00,126.00,500.00,751.00,45.00,FALSE
+1999,MN,Living independently,Entitlement 1994 or later,581.00,862.00,81.00,111.00,500.00,751.00,30.00,FALSE
+1999,MN,Living in household of another,Entitlement prior to 1994,443.34,844.67,110.00,344.00,333.34,500.67,234.00,FALSE
+1999,MN,Living in household of another,Entitlement 1994 or later,443.34,581.67,110.00,81.00,333.34,500.67,-29.00,FALSE
+1999,MN,Nonmedical group residential facility,,1203.37,0.00,703.37,0.00,500.00,0.00,-703.37,FALSE
+1999,MN,Medicaid facility,,65.00,130.00,35.00,70.00,30.00,60.00,35.00,TRUE
+2000,MN,Living independently,Entitlement prior to 1994,593.00,895.00,81.00,126.00,512.00,769.00,45.00,FALSE
+2000,MN,Living independently,Entitlement 1994 or later,593.00,880.00,81.00,111.00,512.00,769.00,30.00,FALSE
+2000,MN,Living in household of another,Entitlement prior to 1994,451.34,856.67,110.00,344.00,341.34,512.67,234.00,FALSE
+2000,MN,Living in household of another,Entitlement 1994 or later,451.34,593.67,110.00,81.00,341.34,512.67,-29.00,FALSE
+2000,MN,Nonmedical group residential facility,,1221.89,0.00,709.89,0.00,512.00,0.00,-709.89,FALSE
+2000,MN,Medicaid facility,,67.00,134.00,37.00,74.00,30.00,60.00,37.00,TRUE
+2004,MN,Living independently,Entitlement prior to 1994,645.00,952.00,81.00,106.00,564.00,846.00,25.00,FALSE
+2004,MN,Living independently,Entitlement 1994 or later,645.00,957.00,81.00,111.00,564.00,846.00,30.00,FALSE
+2004,MN,Living in household of another,Entitlement prior to 1994,487.00,889.00,111.00,325.00,376.00,564.00,214.00,FALSE
+2004,MN,Living in household of another,Entitlement 1994 or later,487.00,645.00,111.00,81.00,376.00,564.00,-30.00,FALSE
+2004,MN,Nonmedical group residential facility,,1141.36,0.00,557.36,0.00,584.00,0.00,-557.36,FALSE
+2004,MN,Medicaid facility,,74.00,148.00,44.00,88.00,30.00,60.00,44.00,TRUE
+2005,MN,Living independently,Entitlement prior to 1994,640.00,995.00,61.00,126.00,579.00,869.00,65.00,FALSE
+2005,MN,Living independently,Entitlement 1994 or later,640.00,960.00,61.00,91.00,579.00,869.00,30.00,FALSE
+2005,MN,Living in household of another,Entitlement prior to 1994,477.00,905.00,91.00,325.66,386.00,579.34,234.66,FALSE
+2005,MN,Living in household of another,Entitlement 1994 or later,477.00,642.00,91.00,62.66,386.00,579.34,-28.34,FALSE
+2005,MN,Nonmedical group residential facility,,1153.36,0.00,574.36,0.00,579.00,0.00,-574.36,FALSE
+2005,MN,Medicaid facility,,76.00,152.00,46.00,92.00,30.00,60.00,46.00,TRUE
+2006,MN,Living independently,Entitlement prior to 1994,664.00,1010.00,81.00,126.00,583.00,884.00,45.00,FALSE
+2006,MN,Living independently,Entitlement 1994 or later,664.00,995.00,81.00,111.00,583.00,884.00,30.00,FALSE
+2006,MN,Living in household of another,Entitlement prior to 1994,493.00,929.00,111.00,346.33,382.00,582.67,235.33,FALSE
+2006,MN,Living in household of another,Entitlement 1994 or later,493.00,666.00,111.00,83.33,382.00,582.67,-27.67,FALSE
+2006,MN,Nonmedical group residential facility,,713.00,0.00,130.00,0.00,583.00,0.00,-130.00,FALSE
+2006,MN,Medicaid facility,,79.00,0.00,49.00,0.00,30.00,0.00,-49.00,FALSE
+2007,MN,Living independently,Entitlement prior to 1994,684.00,1060.00,81.00,126.00,603.00,934.00,45.00,FALSE
+2007,MN,Living independently,Entitlement 1994 or later,684.00,1045.00,81.00,111.00,603.00,934.00,30.00,FALSE
+2007,MN,Living in household of another,Entitlement prior to 1994,506.34,969.00,111.00,346.33,395.34,622.67,235.33,FALSE
+2007,MN,Living in household of another,Entitlement 1994 or later,506.34,706.00,111.00,83.33,395.34,622.67,-27.67,FALSE
+2007,MN,Nonmedical group residential facility,,737.34,0.00,130.00,0.00,607.34,0.00,-130.00,FALSE
+2007,MN,Medicaid facility,,82.00,0.00,49.00,0.00,33.00,0.00,-49.00,FALSE
+2008,MN,Living independently,Entitlement prior to 1994,698.00,1062.00,81.00,126.00,617.00,936.00,45.00,FALSE
+2008,MN,Living independently,Entitlement 1994 or later,698.00,1047.00,81.00,111.00,617.00,936.00,30.00,FALSE
+2008,MN,Living in household of another,Entitlement prior to 1994,517.00,964.00,112.33,346.33,404.67,617.67,234.00,FALSE
+2008,MN,Living in household of another,Entitlement 1994 or later,517.00,700.67,112.33,83.33,404.67,617.34,-29.00,FALSE
+2008,MN,Nonmedical group residential facility,,841.00,0.00,130.00,0.00,711.00,0.00,-130.00,FALSE
+2008,MN,Medicaid facility,,84.00,0.00,54.00,0.00,30.00,0.00,-54.00,FALSE
+2011,MN,Living independently,Entitlement prior to 1994,735.00,1117.00,81.00,126.00,654.00,991.00,45.00,FALSE
+2011,MN,Living independently,Entitlement 1994 or later,735.00,1102.00,81.00,111.00,654.00,991.00,30.00,FALSE
+2011,MN,Living in household of another,Entitlement prior to 1994,542.00,1001.00,112.66,347.00,429.34,654.00,234.34,FALSE
+2011,MN,Living in household of another,Entitlement 1994 or later,542.00,738.00,112.66,84.00,429.34,654.00,-28.66,FALSE
+2011,MN,Nonmedical group residential facility,,915.00,0.00,261.00,0.00,654.00,0.00,-261.00,FALSE
+2011,MN,Medicaid facility,,89.00,0.00,59.00,0.00,30.00,0.00,-59.00,FALSE

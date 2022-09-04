@@ -1,0 +1,124 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,NE,Living independently,,423.50,644.00,37.50,65.00,386.00,579.00,27.50,FALSE
+1990,NE,Living with an essential person,,644.00,0.00,65.00,0.00,579.00,0.00,-65.00,FALSE
+1990,NE,Room and board facility,,389.50,770.00,3.50,191.00,386.00,579.00,187.50,FALSE
+1990,NE,Licensed domiciliary facility,,471.50,934.00,85.50,355.00,386.00,579.00,269.50,FALSE
+1990,NE,Certified adult family home,,466.50,924.00,80.50,345.00,386.00,579.00,264.50,FALSE
+1990,NE,Licensed assisted living facility,,496.50,984.00,110.50,405.00,386.00,579.00,294.50,FALSE
+1990,NE,Licensed group home for children or child caring agency,,466.50,0.00,80.50,0.00,386.00,0.00,-80.50,FALSE
+1990,NE,Licensed center for developmentally disabled,,444.50,0.00,58.50,0.00,386.00,0.00,-58.50,FALSE
+1990,NE,Medicaid facility,,35.00,70.00,5.00,10.00,30.00,60.00,5.00,TRUE
+1991,NE,Living independently,,431.00,644.00,24.00,34.00,407.00,610.00,10.00,FALSE
+1991,NE,Living with an essential person,,644.00,0.00,33.00,0.00,611.00,0.00,-33.00,FALSE
+1991,NE,Room and board facility,,387.00,774.00,115.66,367.33,271.34,406.67,251.67,FALSE
+1991,NE,Licensed domiciliary facility,,479.00,958.00,72.00,348.00,407.00,610.00,276.00,FALSE
+1991,NE,Certified adult family home,,474.00,948.00,67.00,338.00,407.00,610.00,271.00,FALSE
+1991,NE,Licensed assisted living facility,,514.00,1028.00,107.00,418.00,407.00,610.00,311.00,FALSE
+1991,NE,Licensed group home for children or child caring agency,,474.00,0.00,67.00,0.00,407.00,0.00,-67.00,FALSE
+1991,NE,Licensed center for developmentally disabled,,437.00,0.00,30.00,0.00,407.00,0.00,-30.00,FALSE
+1991,NE,Medicaid facility,,35.00,70.00,5.00,10.00,30.00,60.00,5.00,TRUE
+1992,NE,Living independently,,452.00,681.00,30.00,48.00,422.00,633.00,18.00,FALSE
+1992,NE,Living with an essential person,,681.00,0.00,48.00,0.00,633.00,0.00,-48.00,FALSE
+1992,NE,Room and board facility,,403.00,806.00,121.66,384.00,281.34,422.00,262.34,FALSE
+1992,NE,Licensed domiciliary facility,,505.00,1010.00,83.00,377.00,422.00,633.00,294.00,FALSE
+1992,NE,Certified adult family home,,500.00,1000.00,78.00,367.00,422.00,633.00,289.00,FALSE
+1992,NE,Licensed assisted living facility,,545.00,1090.00,123.00,457.00,422.00,633.00,334.00,FALSE
+1992,NE,Licensed group home for children or child caring agency,,490.00,0.00,68.00,0.00,422.00,0.00,-68.00,FALSE
+1992,NE,Licensed center for developmentally disabled,,453.00,0.00,31.00,0.00,422.00,0.00,-31.00,FALSE
+1992,NE,Medicaid facility,,40.00,80.00,10.00,20.00,30.00,60.00,10.00,TRUE
+1994,NE,Living independently,,467.00,709.00,21.00,40.00,446.00,669.00,19.00,FALSE
+1994,NE,Living with an essential person,,709.00,0.00,40.00,0.00,669.00,0.00,-40.00,FALSE
+1994,NE,Room and board facility,,408.00,816.00,110.66,370.00,297.34,446.00,259.34,FALSE
+1994,NE,Licensed domiciliary facility,,570.00,1140.00,124.00,471.00,446.00,669.00,347.00,FALSE
+1994,NE,Certified adult family home,,565.00,1130.00,119.00,461.00,446.00,669.00,342.00,FALSE
+1994,NE,Licensed assisted living facility,,625.00,1250.00,179.00,581.00,446.00,669.00,402.00,FALSE
+1994,NE,Licensed group home for children or child caring agency,,550.00,0.00,104.00,0.00,446.00,0.00,-104.00,FALSE
+1994,NE,Licensed center for developmentally disabled,,458.00,0.00,12.00,0.00,446.00,0.00,-12.00,FALSE
+1994,NE,Medicaid facility,,40.00,80.00,10.00,20.00,30.00,60.00,10.00,TRUE
+1995,NE,Living independently,,477.00,709.00,19.00,22.00,458.00,687.00,3.00,FALSE
+1995,NE,Living with an essential person,,709.00,0.00,22.00,0.00,687.00,0.00,-22.00,FALSE
+1995,NE,Room and board facility,,413.00,826.00,107.66,368.00,305.34,458.00,260.34,FALSE
+1995,NE,Licensed domiciliary facility,,600.00,1200.00,142.00,513.00,458.00,687.00,371.00,FALSE
+1995,NE,Certified adult family home,,575.00,1150.00,117.00,463.00,458.00,687.00,346.00,FALSE
+1995,NE,Licensed assisted living facility,,660.00,1320.00,202.00,633.00,458.00,687.00,431.00,FALSE
+1995,NE,Licensed group home for children or child caring agency,,560.00,0.00,102.00,0.00,458.00,0.00,-102.00,FALSE
+1995,NE,Licensed center for developmentally disabled,,468.00,0.00,10.00,0.00,458.00,0.00,-10.00,FALSE
+1995,NE,Medicaid facility,,40.00,80.00,10.00,20.00,30.00,60.00,10.00,TRUE
+1996,NE,Living independently,,482.00,719.00,12.00,14.00,470.00,705.00,2.00,FALSE
+1996,NE,Living with an essential person,,719.00,0.00,14.00,0.00,705.00,0.00,-14.00,FALSE
+1996,NE,Room and board facility,,413.00,826.00,99.66,356.00,313.34,470.00,256.34,FALSE
+1996,NE,Licensed domiciliary facility,,640.00,1280.00,170.00,575.00,470.00,705.00,405.00,FALSE
+1996,NE,Certified adult family home,,600.00,1200.00,130.00,495.00,470.00,705.00,365.00,FALSE
+1996,NE,Licensed assisted living facility,,710.00,1420.00,240.00,715.00,470.00,705.00,475.00,FALSE
+1996,NE,Licensed group home for children or child caring agency,,560.00,0.00,90.00,0.00,470.00,0.00,-90.00,FALSE
+1996,NE,Medicaid facility,,40.00,80.00,10.00,20.00,30.00,60.00,10.00,TRUE
+1997,NE,Living independently,,492.00,729.00,8.00,3.00,484.00,726.00,-5.00,FALSE
+1997,NE,Living with an essential person,,729.00,0.00,3.00,0.00,726.00,0.00,-3.00,FALSE
+1997,NE,Room and board facility,,423.00,846.00,100.33,362.00,322.67,484.00,261.67,FALSE
+1997,NE,Licensed domiciliary facility,,655.00,1310.00,171.00,584.00,484.00,726.00,413.00,FALSE
+1997,NE,Certified adult family home,,615.00,1230.00,131.00,504.00,484.00,726.00,373.00,FALSE
+1997,NE,Licensed assisted living facility,,730.00,1460.00,246.00,734.00,484.00,726.00,488.00,FALSE
+1997,NE,Licensed group home for children or child caring agency,,575.00,0.00,91.00,0.00,484.00,0.00,-91.00,FALSE
+1997,NE,Medicaid facility,,40.00,80.00,10.00,20.00,30.00,60.00,10.00,TRUE
+1998,NE,Living independently,,502.00,839.00,8.00,98.00,494.00,741.00,90.00,FALSE
+1998,NE,Living with an essential person,,839.00,0.00,98.00,0.00,741.00,0.00,-98.00,FALSE
+1998,NE,Room and board facility,,429.67,856.00,100.33,362.00,329.34,494.00,261.67,FALSE
+1998,NE,Certified adult family home,,625.00,1245.00,131.00,504.00,494.00,741.00,373.00,FALSE
+1998,NE,Licensed assisted living facility,,740.00,1480.00,246.00,739.00,494.00,741.00,493.00,FALSE
+1998,NE,Licensed group home for children or child caring agency,,585.00,0.00,91.00,0.00,494.00,0.00,-91.00,FALSE
+1998,NE,Medicaid facility,,40.00,80.00,10.00,20.00,30.00,60.00,10.00,TRUE
+1999,NE,Living independently,,527.00,764.00,27.00,13.00,500.00,751.00,-14.00,FALSE
+1999,NE,Living with an essential person,,764.00,0.00,14.00,0.00,750.00,0.00,-14.00,FALSE
+1999,NE,Room and board facility,,463.00,886.00,129.66,385.33,333.34,500.67,255.67,FALSE
+1999,NE,Certified adult family home,,665.00,1330.00,165.00,579.00,500.00,751.00,414.00,FALSE
+1999,NE,Licensed assisted living facility,,790.00,1580.00,290.00,829.00,500.00,751.00,539.00,FALSE
+1999,NE,Licensed group home for children or child caring agency,,630.00,0.00,130.00,0.00,500.00,0.00,-130.00,FALSE
+1999,NE,Medicaid facility,,40.00,80.00,10.00,20.00,30.00,60.00,10.00,TRUE
+2000,NE,Living independently,,519.00,769.00,7.00,0.00,512.00,769.00,-7.00,FALSE
+2000,NE,Living with an essential person,,782.00,0.00,13.00,0.00,769.00,0.00,-13.00,FALSE
+2000,NE,Room and board facility,,455.34,890.00,114.00,377.33,341.34,512.67,263.33,FALSE
+2000,NE,Certified adult family home,,657.00,1354.00,145.00,585.00,512.00,769.00,440.00,FALSE
+2000,NE,Licensed assisted living facility,,782.00,1564.00,270.00,795.00,512.00,769.00,525.00,FALSE
+2000,NE,Licensed group home for children or child caring agency,,622.00,0.00,110.00,0.00,512.00,0.00,-110.00,FALSE
+2000,NE,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE
+2004,NE,Living independently,,576.00,857.00,12.00,11.00,564.00,846.00,-1.00,FALSE
+2004,NE,Room and board facility,,499.00,798.00,123.00,234.00,376.00,564.00,111.00,FALSE
+2004,NE,Certified adult family home,,730.00,1460.00,166.00,614.00,564.00,846.00,448.00,FALSE
+2004,NE,Licensed center for developmentally disabled,,1010.00,2020.00,446.00,1174.00,564.00,846.00,728.00,FALSE
+2004,NE,Licensed group home for children or child caring agency,,666.00,0.00,102.00,0.00,564.00,0.00,-102.00,FALSE
+2004,NE,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE
+2005,NE,Living independently,,588.00,874.00,9.00,5.00,579.00,869.00,-4.00,FALSE
+2005,NE,Room and board facility,,506.00,722.34,120.00,143.00,386.00,579.34,23.00,FALSE
+2005,NE,Certified adult family home,,737.00,1474.00,158.00,605.00,579.00,869.00,447.00,FALSE
+2005,NE,Licensed center for developmentally disabled,,1576.00,2152.00,997.00,1283.00,579.00,869.00,286.00,FALSE
+2005,NE,Licensed group home for children or child caring agency,,673.00,0.00,94.00,0.00,579.00,0.00,-94.00,FALSE
+2005,NE,Licensed assisted living facility,,1017.00,2034.00,438.00,1165.00,579.00,869.00,727.00,FALSE
+2005,NE,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE
+2006,NE,Living independently,,603.00,904.00,0.00,0.00,603.00,904.00,0.00,TRUE
+2006,NE,Room and board facility,,520.00,1040.00,118.00,136.00,402.00,904.00,18.00,FALSE
+2006,NE,Certified adult family home,,751.00,1502.00,148.00,598.00,603.00,904.00,450.00,FALSE
+2006,NE,Licensed center for developmentally disabled,,590.00,1180.00,188.00,276.00,402.00,904.00,88.00,FALSE
+2006,NE,Licensed group home for children or child caring agency,,687.00,0.00,84.00,0.00,603.00,0.00,-84.00,FALSE
+2006,NE,Licensed assisted living facility,,1031.00,2062.00,428.00,1158.00,603.00,904.00,730.00,FALSE
+2006,NE,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE
+2007,NE,Living independently,,632.00,935.00,9.00,1.00,623.00,934.00,-8.00,FALSE
+2007,NE,Room and board facility,,530.00,1060.00,114.66,437.33,415.34,622.67,322.67,FALSE
+2007,NE,Certified adult family home,,761.00,1522.00,138.00,588.00,623.00,934.00,450.00,FALSE
+2007,NE,Licensed center for developmentally disabled,,600.00,1200.67,184.66,266.00,415.34,934.67,81.34,FALSE
+2007,NE,Licensed group home for children or child caring agency,,697.00,0.00,74.00,0.00,623.00,0.00,-74.00,FALSE
+2007,NE,Licensed assisted living facility,,1061.00,2122.00,438.00,1188.00,623.00,934.00,750.00,FALSE
+2007,NE,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE
+2008,NE,Living independently,,644.00,960.00,7.00,4.00,637.00,956.00,-3.00,FALSE
+2008,NE,Room and board facility,,522.67,759.34,98.00,122.00,424.67,637.34,24.00,FALSE
+2008,NE,Certified adult family home,,770.00,1540.00,133.00,584.00,637.00,956.00,451.00,FALSE
+2008,NE,Licensed center for developmentally disabled,,424.67,1274.00,0.00,318.00,424.67,956.00,318.00,FALSE
+2008,NE,Licensed group home for children or child caring agency,,706.00,0.00,69.00,0.00,637.00,0.00,-69.00,FALSE
+2008,NE,Licensed assisted living facility,,1070.00,2122.00,433.00,1166.00,637.00,956.00,733.00,FALSE
+2008,NE,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE
+2011,NE,Living independently,,679.00,1011.00,5.00,0.00,674.00,1011.00,-5.00,FALSE
+2011,NE,Room and board facility,,674.00,1348.00,0.00,337.00,674.00,1011.00,337.00,FALSE
+2011,NE,Certified adult family home,,802.00,1604.00,128.00,593.00,674.00,1011.00,465.00,FALSE
+2011,NE,Licensed center for developmentally disabled,,674.00,1348.00,0.00,337.00,674.00,1011.00,337.00,FALSE
+2011,NE,Licensed group home for children or child caring agency,,738.00,0.00,64.00,0.00,674.00,0.00,-64.00,FALSE
+2011,NE,Licensed assisted living facility,,1112.00,2224.00,438.00,1213.00,674.00,1011.00,775.00,FALSE
+2011,NE,Medicaid facility,,50.00,100.00,20.00,40.00,30.00,60.00,20.00,TRUE

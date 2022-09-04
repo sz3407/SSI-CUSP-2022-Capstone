@@ -1,0 +1,18 @@
+year,state,liv_arr,sub_cat,combn_indv,combn_cpl,state_indv,state_cpl,fed_indv,fed_cpl,state_diff,state_diff_dbl
+1990,DE,Living in adult residential care facility,,526.00,1027.00,140.00,448.00,386.00,579.00,308.00,FALSE
+1991,DE,Living in adult residential care facility,,547.00,1058.00,140.00,448.00,407.00,610.00,308.00,FALSE
+1992,DE,Living in adult residential care facility,,562.00,1081.00,140.00,448.00,422.00,633.00,308.00,FALSE
+1994,DE,Living in adult residential care facility,,586.00,1117.00,140.00,448.00,446.00,669.00,308.00,FALSE
+1995,DE,Living in adult residential care facility,,598.00,1135.00,140.00,448.00,458.00,687.00,308.00,FALSE
+1996,DE,Living in adult residential care facility,,610.00,1153.00,140.00,448.00,470.00,705.00,308.00,FALSE
+1997,DE,Living in adult residential care facility,,624.00,1174.00,140.00,448.00,484.00,726.00,308.00,FALSE
+1998,DE,Living in adult residential care facility,,634.00,1189.00,140.00,448.00,494.00,741.00,308.00,FALSE
+1999,DE,Living in adult residential care facility,,640.00,1199.00,140.00,448.00,500.00,751.00,308.00,FALSE
+2000,DE,Living in adult residential care facility,,652.00,1217.00,140.00,448.00,512.00,769.00,308.00,FALSE
+2004,DE,Living in adult residential care facility,,704.00,1294.00,140.00,448.00,564.00,846.00,308.00,FALSE
+2004,DE,Living independently,,569.00,0.00,5.00,0.00,564.00,0.00,-5.00,FALSE
+2005,DE,Living in adult residential care facility,,719.00,1317.00,140.00,448.00,579.00,869.00,308.00,FALSE
+2006,DE,Living in adult residential care facility,,743.00,1352.00,140.00,448.00,603.00,904.00,308.00,FALSE
+2007,DE,Living in adult residential care facility,,763.00,1382.00,140.00,448.00,623.00,934.00,308.00,FALSE
+2008,DE,Living in adult residential care facility,,777.00,1404.00,140.00,448.00,637.00,956.00,308.00,FALSE
+2011,DE,Living in adult residential care facility,,814.00,1459.00,140.00,448.00,674.00,1011.00,308.00,FALSE
