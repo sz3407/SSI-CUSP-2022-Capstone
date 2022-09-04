@@ -13,8 +13,21 @@ This directory contains files related to extracting Federal benefit amounts from
 #### "1990_2000_fed_benefits.csv"
 > This file contains the Federal benefits for the report years 1990 through 2000. 
 
+| Year | Living Arrangement            | Individual | Couple | 
+| -----|:----------------------------: | -----------| -------|
+| 1990 | Living independently          |            |        |
+| 1990 | Living in household of another|            |        |
+| 1990 | Medicaid facility             |            |        |
+| 1990 | Essential person              |            |        |
+
 #### "2004_2011_fed_benefits.csv"
 > This file contains the Federal benefits for the report years 2004 through 2011.
+
+| Year | Living Arrangement            | Individual | Couple | Essential Person | 
+| -----|:----------------------------: | -----------| -------| -----------------|
+| 2004 | Living independently          |            |        |                  |
+| 2004 | Living in household of another|            |        |                  |
+| 2004 | Medicaid facility             |            |        |                  |
 
 #### "federal_benefits_joined.csv"
 > This file contains the Federal benefits for all years, restructured to matching form. This is the output file of *fed_benefs_joining.ipynb*. 
