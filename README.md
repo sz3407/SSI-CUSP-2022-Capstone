@@ -11,6 +11,10 @@
 | outside data      | Contains data files besides primary reports.        | 
 | sample input data | Contains examples of primary report data.           |
 
+### Report
+
+The final report for this project is provided as a pdf file.
+
 ### Visualization
 
 The data in this project can be further explored on the public dashboard. Please feel free to check it out yourself.
