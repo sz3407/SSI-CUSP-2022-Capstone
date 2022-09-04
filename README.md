@@ -15,7 +15,7 @@
 
 The data in this project can be further explored on the public dashboard. Please feel free to check it out yourself.
 
-*https://public.tableau.com/shared/XYHKQCNN2?:display_count=n&:origin=viz_share_link*
+*https://public.tableau.com/shared/XYHKQCNN2*
 
 **Team Members:** 
  - Sam Zierler
